@@ -160,6 +160,27 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
+=============================================================================================================
+
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="FILM", Bioskop 1
+http://epg.112114.xyz/douyu/4332
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="FILM", Bioskop 2
+http://epg.112114.xyz/douyu/6140589
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="FILM", Bioskop 3
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="FILM", Bioskop 4
+http://epg.112114.xyz/douyu/747764
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="FILM", Bioskop 5
+http://epg.112114.xyz/douyu/36337
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="FILM", Bioskop 6
+http://epg.112114.xyz/douyu/8814650
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="FILM", Bioskop 7
+http://epg.112114.xyz/douyu/263824
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="FILM", Bioskop 8
+http://epg.112114.xyz/douyu/323876
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="FILM", Bioskop 9
+http://epg.112114.xyz/douyu/1226741
+
 
 
 
