@@ -128,7 +128,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://live.cnbcBerita Bahasa Indonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2018496991_b384000_sleng.m3u8
 
 
-#EXTINF:-1 group-title="Berita Bahasa Indonesia" tvg-id="cnnBerita Bahasa Indonesia.id" tvg-logo="https://i.imgur.com/NSEpsIh.jpeg",CNN Indonesia
+#EXTINF:-1 group-title="Berita Bahasa Indonesia" tvg-id="Berita Bahasa Indonesia" tvg-logo="https://i.imgur.com/NSEpsIh.jpeg",CNN Indonesia
 https://live.cnnBerita Bahasa Indonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_(Berita Bahasa Indonesia)_logo.svg/1024px-BTV_(Berita Bahasa Indonesia)_logo.svg.png" group-title="Berita Bahasa Indonesia", BTV
@@ -148,15 +148,15 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y6yh0pV.jpeg" group-title="Berita Bahasa Indonesia",INDOSIAR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y6yh0pV.jpeg" group-title="Berita Bahasa Indonesia", INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4hertVo.jpeg" group-title="Berita Bahasa Indonesia",SCTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4hertVo.jpeg" group-title="Berita Bahasa Indonesia", SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wkol2Bt.jpeg" group-title="Berita Bahasa Indonesia",NET.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wkol2Bt.jpeg" group-title="Berita Bahasa Indonesia", NET.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
