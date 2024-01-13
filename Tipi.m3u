@@ -134,6 +134,35 @@ https://live.cnnBerita Bahasa Indonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_(Berita Bahasa Indonesia)_logo.svg/1024px-BTV_(Berita Bahasa Indonesia)_logo.svg.png" group-title="Berita Bahasa Indonesia", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Berita Bahasa Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_336.png",Z-SEA Today
+https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A2vZdLQ.jpeg" group-title="Berita Bahasa Indonesia",TVRI
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="Berita Bahasa Indonesia", MOJI
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y6yh0pV.jpeg" group-title="Berita Bahasa Indonesia",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4hertVo.jpeg" group-title="Berita Bahasa Indonesia",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wkol2Bt.jpeg" group-title="Berita Bahasa Indonesia",NET.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
+
+
+
+
 
 
 
