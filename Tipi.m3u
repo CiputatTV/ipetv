@@ -16,21 +16,21 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Berita Bahasa China",民视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Berita Dunia",CCTV4中文国际
+#EXTINF:-1 tvg-logo="" group-title="Berita Bahasa China",CCTV4中文国际
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Berita Dunia",凤凰资讯
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Berita Dunia",ABC NEWS
+#EXTINF:-1 tvg-logo="" group-title="Berita Bahasa Inggris",ABC NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Berita Dunia",台视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Berita Dunia",天才冲冲冲「综艺」
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Berita Dunia",ASTRO AWANI
+#EXTINF:-1 tvg-logo="" group-title="Berita Bahasa Malaysia",ASTRO AWANI
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Berita Dunia",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Berita Dunia",Tokyo Shibuya「东京涩谷」
+#EXTINF:-1 tvg-logo="" group-title="Berita Bahasa Jepang",Tokyo Shibuya「东京涩谷」
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Berita Dunia",大爱
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
@@ -38,13 +38,13 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Berita Dunia",三立NEWS+
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Berita Dunia",CBN NEWS
+#EXTINF:-1 tvg-logo="" group-title="Berita Bahasa Inggris",CBN NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Berita Dunia",INDIA TODAY
+#EXTINF:-1 tvg-logo="" group-title="Berita Bahasa India",INDIA TODAY
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Berita Dunia",FRANCE 24
+#EXTINF:-1 tvg-logo="" group-title="Berita Bahasa Perancis",FRANCE 24
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Berita Dunia",NBC NEWS
+#EXTINF:-1 tvg-logo="" group-title="Berita Bahasa Inggris",NBC NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Berita Dunia",凤凰中文
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
@@ -68,7 +68,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Berita Dunia",半岛新闻「英语」
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Berita Dunia",KBS NEWS
+#EXTINF:-1 tvg-logo="" group-title="Berita Bahasa Korea",KBS NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Berita Bahasa Jepang",KANSAI NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
