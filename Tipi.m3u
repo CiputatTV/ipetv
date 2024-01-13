@@ -8,13 +8,13 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Berita Dunia",信大
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Berita Dunia",DW NEWS
+#EXTINF:-1 tvg-logo="" group-title="Berita Bahasa Inggris",DW NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Berita Dunia",中视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Berita Dunia",K-POP
+#EXTINF:-1 tvg-logo="" group-title="Bahasa Korea",K-POP
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Berita Dunia",民视新闻
+#EXTINF:-1 tvg-logo="" group-title="Berita Bahasa China",民视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Berita Dunia",CCTV4中文国际
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
@@ -70,7 +70,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Berita Dunia",KBS NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Berita Dunia",KANSAI NEWS
+#EXTINF:-1 tvg-logo="" group-title="Berita Bahasa Jepang",KANSAI NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Berita Dunia",东森幼幼歌曲
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
@@ -84,7 +84,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Berita Dunia",儿童歌曲2
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Berita Dunia",镜新闻
+#EXTINF:-1 tvg-logo="" group-title="Berita Bahasa China",镜新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Berita Dunia",Taiwan+
+#EXTINF:-1 tvg-logo="" group-title="Berita Bahasa China",Taiwan+
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
