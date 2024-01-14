@@ -88,7 +88,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 #EXTINF:-1 tvg-id="Jaz.News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="Berita Bahasa Inggris", Al-Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" tvg-id="730" tvg-id="DW" group-title="Berita Bahasa Inggris:, DW English
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="Berita Bahasa Inggris:, DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.azernews.az/media/2018/07/07/trt_world_070718.png" group-title="Berita Bahasa Inggris", TRT World
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
