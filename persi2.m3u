@@ -3,3 +3,10 @@
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=3
 
 
+#EXTINF:-1 tvg-name="HBO Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png", group-title="MOVIE", HBO Asia
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=15 
+
+#EXTINF:-1 tvg-name="Cinemax Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/275px-Cinemax_2016.svg.png",group-title="MOVIE", Cinemax Asia
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=16
+
+
