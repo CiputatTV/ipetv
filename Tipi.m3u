@@ -94,13 +94,13 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 ================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rGrevBC.jpeg" group-title="INDONESIA",TRANS 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rGrevBC.jpeg" group-title="HIBURAN INDONESIA",TRANS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTINF:-1 tvg-logo="https://i.imgur.com/107Ydtx.jpeg" group-title="INDONESIA",TRANS TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/107Ydtx.jpeg" group-title="HIBURAN INDONESIA",TRANS TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://mangga-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
@@ -124,7 +124,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yqC4Ihi.jpeg" group-title="Berita Bahasa Indonesia",MNCTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yqC4Ihi.jpeg" group-title="HIBURAN INDONESIA",MNCTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd 
 
@@ -152,15 +152,15 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y6yh0pV.jpeg" group-title="Berita Bahasa Indonesia", INDOSIAR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y6yh0pV.jpeg" group-title="HIBURAN INDONESIA", INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4hertVo.jpeg" group-title="Berita Bahasa Indonesia", SCTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4hertVo.jpeg" group-title="HIBURAN INDONESIA", SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wkol2Bt.jpeg" group-title="Berita Bahasa Indonesia", NET.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wkol2Bt.jpeg" group-title="HIBURAN INDONESIA", NET.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
