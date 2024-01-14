@@ -164,7 +164,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
-
+#EXTINF:0 tvg-logo="https://id.wikipedia.org/wiki/Aquarius_Musikindo#/media/Berkas:Logo-aq.gif" group-title="HIBURAN INDONESIA", AQUARIUS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705225481/ei/qVijZY3VGI67juMPhNuzqAM/ip/2a09%3Abac5%3A3a23%3A15f%3A0%3A0%3A23%3A1db/id/UXjGBoeTmwA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f6YqdiSgZoEor9NaAnyRQSpchTO-HLDuw2LvbWHgU3a_qv9EH3xxOEo0/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALodHGOYw05c1pj2YstfC_oHZd9Vv-PFjiysqGhTOiytAiEApnVG7ZTAcr3hvfg1eIA9_zRTlPLzXv1kKjov07xWdkM%3D/file/index.m3u8
 
 #EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="FILM", Bioskop 1
 http://epg.112114.xyz/douyu/4332
