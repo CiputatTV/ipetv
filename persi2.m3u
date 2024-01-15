@@ -27,7 +27,7 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=28
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=29 - Cartoon Network
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/CartoonitoHD-FirstMedia-Chl-372.png" group-title="Anak",Cartoonito
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=30 - CartoonNito
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=30
 
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=31	- Top TV
 
@@ -47,7 +47,8 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=40 - BBC News
 
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=43 - CNBC Sport
 
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=44 - Bloomberg
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/Bloomberg SD-FirstMedia-Chl-239.jpg" group-title="Berita & Bisnis",Bloomberg
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=44
 
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=45 - Discovery Channel
 
