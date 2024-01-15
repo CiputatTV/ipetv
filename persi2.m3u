@@ -38,15 +38,17 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=30
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=31	- Top TV
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", group-title="OLAHRAGA", ESPN
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=32 - ESPN
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=32
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=33 - BBC Earth
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="Pengetahuan",BBC Earth
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=33
 
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=35 - Crime Investigation
 
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=36 - Primer Sport
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=38 - CNN
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/CNN International HD-FirstMedia-Chl-396.jpg" group-title="Berita & Bisnis", CNN International
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=38
 
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=39 - FOX News
 
