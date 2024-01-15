@@ -1,21 +1,21 @@
 
-#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://static.cdnlogo.com/logos/k/68/kbs-world.svg.png" group-title="BERITA DUNIA", KBS World
+#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://static.cdnlogo.com/logos/k/68/kbs-world.svg.png", group-title="BERITA DUNIA", KBS World
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=3
 
 #EXTINF:-1 tvg-name="HBO Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png", group-title="MOVIE", HBO Asia
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=15 
 
-#EXTINF:-1 tvg-name="Cinemax Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/275px-Cinemax_2016.svg.png",group-title="MOVIE", Cinemax Asia
+#EXTINF:-1 tvg-name="Cinemax Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/275px-Cinemax_2016.svg.png", group-title="MOVIE", Cinemax Asia
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=16
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="Olah Raga", Fight Sport
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=18
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png", group-title="Olah Raga", Fight Sport
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=18
 
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Warner-TV-HD-FirstMedia-Chl-313.png" group-title="MOVIE",Warner TV
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=21 
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Warner-TV-HD-FirstMedia-Chl-313.png", group-title="MOVIE",Warner TV
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=21 
 
-#EXTINF:-1 tvg-name="HITS" tvg-logo="https://i.imgur.com/IM8Gy1l.png", HITS MOVIE
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=22 
+#EXTINF:-1 tvg-name="HITS" tvg-logo="https://i.imgur.com/IM8Gy1l.png", group-title="MOVIE", HITS MOVIE
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=22 
 
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=23 - Dreamworks
 
