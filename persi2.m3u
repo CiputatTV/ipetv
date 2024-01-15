@@ -34,7 +34,8 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=30
 
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=31	- Top TV
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=32 - ESPN
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", group-title="OLAHRAGA", ESPN
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=32 - ESPN
 
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=33 - BBC Earth
 
@@ -51,7 +52,8 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=30
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=43 - CNBC Sport
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/Bloomberg SD-FirstMedia-Chl-239.jpg" group-title="Berita & Bisnis",Bloomberg
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=44
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch14%29/Stream(03)/index.m3u8 
+#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=44
 
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=45 - Discovery Channel
 
