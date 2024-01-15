@@ -112,7 +112,7 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=95
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=96
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/DW English SD-FirstMedia-Chl-233.jpg" group-title="TV Internasional",DW English
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/Stream(03)/index.m3u8 - DW ENGLISH
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo fmx/TvN Movies HD-FirstMedia-Chl-343.jpg" group-title="Film",TVN Movie
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/Stream(03)/index.m3u8
