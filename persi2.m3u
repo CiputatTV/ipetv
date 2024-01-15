@@ -50,9 +50,11 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=33
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/CNN International HD-FirstMedia-Chl-396.jpg" group-title="Berita & Bisnis", CNN International
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=38
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=39 - FOX News
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/FOX News SD-FirstMedia-Chl-237.jpg" group-title="Berita & Bisnis", Fox News
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=39
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=40 - BBC News
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/BBC World News SD-FirstMedia-Chl-235.jpg" group-title="Berita & Bisnis", BBC World News
+#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=40
 
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=43 - CNBC Sport
 
@@ -66,7 +68,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch14%29/Stream
 
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=47 - TLC
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=48 - Euro Sport
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo fmx/Eurosport SD-FirstMedia-Chl-151.jpg" group-title="Olah Raga", Eurosports
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=48
 
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=49 - Animal Planet
 
@@ -84,7 +87,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch14%29/Stream
 
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=66 - MTV Live
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=82 - NBA TV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="Olah Raga",NBA TV
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=82 - NBA TV
 
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=85 - TVN
 
@@ -94,7 +98,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch14%29/Stream
 
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=91 - LOTUS MACAU
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=92 - NHK Jepang
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo fmx/NHK World Japan SD-FirstMedia-Chl-247.jpg" group-title="Berita & Bisnis",NHK World Japan
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=92 - NHK Jepang
 
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=95 - FRANCE24
 
