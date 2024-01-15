@@ -8,11 +8,14 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=15
 #EXTINF:-1 tvg-name="Cinemax Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/275px-Cinemax_2016.svg.png",group-title="MOVIE", Cinemax Asia
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=16
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=18 - FIGHT SPORT
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="Olah Raga", Fight Sport
+#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=18
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=21 - Warner TV
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Warner-TV-HD-FirstMedia-Chl-313.png" group-title="MOVIE",Warner TV
+#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=21 
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=22 - HIT MOVIE
+#EXTINF:-1 tvg-name="HITS" tvg-logo="https://i.imgur.com/IM8Gy1l.png", HITS MOVIE
+#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=22 
 
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=23 - Dreamworks
 
