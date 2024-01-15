@@ -8,15 +8,15 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=15
 #EXTINF:-1 tvg-name="Cinemax Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/275px-Cinemax_2016.svg.png",group-title="MOVIE", Cinemax Asia
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=16
 
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=18 - FIGHT SPORT
+#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=18 - FIGHT SPORT
 
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=21 - Warner TV
+#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=21 - Warner TV
 
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=22 - HIT MOVIE
+#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=22 - HIT MOVIE
 
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=23 - Dreamworks
+#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=23 - Dreamworks
 
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=24 - ANIMAX
+#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=24 - ANIMAX
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/Nick Jr SD-FirstMedia-Chl-124.jpg" group-title="Anak",Nick Junior
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=27
@@ -24,37 +24,37 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=27
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/Nickelodeon SD-FirstMedia-Chl-125.jpg" group-title="Anak",Nickelodeon
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=28
 
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=29 - Cartoon Network
+#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=29 - Cartoon Network
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/CartoonitoHD-FirstMedia-Chl-372.png" group-title="Anak",Cartoonito
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=30
 
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=31	- Top TV
+#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=31	- Top TV
 
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=32 - ESPN
+#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=32 - ESPN
 
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=33 - BBC Earth
+#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=33 - BBC Earth
 
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=35 - Crime Investigation
+#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=35 - Crime Investigation
 
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=36 - Primer Sport
+#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=36 - Primer Sport
 
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=38 - CNN
+#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=38 - CNN
 
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=39 - FOX News
+#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=39 - FOX News
 
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=40 - BBC News
+#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=40 - BBC News
 
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=43 - CNBC Sport
+#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=43 - CNBC Sport
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/Bloomberg SD-FirstMedia-Chl-239.jpg" group-title="Berita & Bisnis",Bloomberg
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=44
 
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=45 - Discovery Channel
+#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=45 - Discovery Channel
 
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=46 - GEM
+#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=46 - GEM
 
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=47 - TLC
+#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=47 - TLC
 
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=48 - Euro Sport
 
