@@ -84,9 +84,11 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=48
 
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=62 - AXN
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=63 - Asian Food Netowrk
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_afc_small.png" group-title="Gaya Hidup",Asian Food Network
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=63 - Asian Food Netowrk
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=66 - MTV Live
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/10-MUSIC/MTV Live HD-FirstMedia-Chl-358.jpg" group-title="Musik",MTV Live
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=66
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="Olah Raga",NBA TV
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=82
@@ -102,7 +104,9 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=82
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo fmx/NHK World Japan SD-FirstMedia-Chl-247.jpg" group-title="Berita & Bisnis",NHK World Japan
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=92
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=95 - FRANCE24
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/France 24 SD-FirstMedia-Chl-246.jpg" group-title="Berita & Bisnis",France 24
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=95
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=96 - FASHION TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo fmx/Fashion TV SD-FirstMedia-Chl-81.jpg" group-title="Gaya Hidup",Fashion TV
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=96
 
