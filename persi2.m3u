@@ -93,7 +93,8 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=66
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="Olah Raga",NBA TV
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=82
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=85 - TVN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo fmx/TVN HD-FirstMedia-Chl-339.jpg" group-title="Hiburan",TVN
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=85
 
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=87 - HGTV
 
@@ -110,3 +111,8 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=95
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo fmx/Fashion TV SD-FirstMedia-Chl-81.jpg" group-title="Gaya Hidup",Fashion TV
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=96
 
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/DW English SD-FirstMedia-Chl-233.jpg" group-title="TV Internasional",DW English
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/Stream(03)/index.m3u8 - DW ENGLISH
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo fmx/TvN Movies HD-FirstMedia-Chl-343.jpg" group-title="Film",TVN Movie
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/Stream(03)/index.m3u8
