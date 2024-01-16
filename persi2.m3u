@@ -3,10 +3,10 @@
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/KBS World SD-FirstMedia-Chl-244.jpg" group-title="Hiburan",KBS World
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=3
 
-#EXTINF:-1 tvg-name="HBO Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png", group-title="MOVIE", HBO Asia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png", group-title="MOVIE", HBO Asia
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=15 
 
-#EXTINF:-1 tvg-name="Cinemax Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/275px-Cinemax_2016.svg.png", group-title="MOVIE", Cinemax Asia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/275px-Cinemax_2016.svg.png", group-title="MOVIE", Cinemax Asia
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=16
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png", group-title="Olah Raga", Fight Sport
@@ -15,7 +15,7 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=18
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Warner-TV-HD-FirstMedia-Chl-313.png", group-title="MOVIE",Warner TV
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=21 
 
-#EXTINF:-1 tvg-name="HITS" tvg-logo="https://i.imgur.com/IM8Gy1l.png", group-title="MOVIE", HITS MOVIE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png", group-title="MOVIE", HITS MOVIE
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=22 
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/AlJazeera Int SD-FirstMedia-Chl-243.jpg" group-title="Berita & Bisnis", Aljazeera English
@@ -38,7 +38,7 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=30
 
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=31	- Top TV
 
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", group-title="OLAHRAGA", ESPN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", group-title="OLAHRAGA", ESPN
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=32
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="Pengetahuan",BBC Earth
@@ -130,9 +130,5 @@ https://edge1.laotv.la/live/TrueSport6/index.m3u8
 #EXTINF:0 tvg-id="cnn" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="IND♥NESIA",CNN HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="INDONESIA" group-title="INDONESIA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png",RCTI
-https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
 
