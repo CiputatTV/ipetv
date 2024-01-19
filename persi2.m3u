@@ -38,7 +38,7 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=30
 
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=31	- Top TV
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", group-title="OLAHRAGA", ESPN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", group-title="Olah Raga", ESPN
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=32
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="Pengetahuan",BBC Earth
