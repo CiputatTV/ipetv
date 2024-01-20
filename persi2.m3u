@@ -90,6 +90,9 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=63 - Asian Food Neto
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/10-MUSIC/MTV Live HD-FirstMedia-Chl-358.jpg" group-title="Musik",MTV Live
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=66
 
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Olahraga",ESPN NEWs
+http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/1003.ts
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="Olahraga",NBA TV
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=82
 
