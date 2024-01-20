@@ -7,8 +7,8 @@ http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/1003.ts
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
 #EXTINF:10.0 tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Olahraga",ESPN NEWs_medium
-http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/1003.ts
+#http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/1003.ts
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 #EXTINF:10.0 tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Olahraga",ESPN NEWs_high
-http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/1003.ts
+#http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/1003.ts
