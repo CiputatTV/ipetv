@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png", ESPN NEWS
 http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/1003.m3u8
 
