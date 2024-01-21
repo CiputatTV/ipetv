@@ -331,3 +331,113 @@ http://epg.112114.xyz/douyu/263824
 http://epg.112114.xyz/douyu/323876
 #EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="Film", Bioskop 9
 http://epg.112114.xyz/douyu/1226741
+
+
+
+#EXTINF:-1 tvg-id="Action.Movies.-.Rakuten.TV.en" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0511ea59-1994-43e7-805b-f1e40b5ddb91-action-movies-rakuten-tv-1646655463-width190-quality100.png" group-logo=""  group-title="Rakuten",Rakuten Action ᴴᴰ  
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="British.Films.-.Rakuten.TV.en" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/4ae1c43a-3730-452d-9e09-ffd9162b0e66-width190-quality100.png" group-logo=""  group-title="Rakuten",Rakuten British Films ᴴᴰ  
+https://rakuten-british-films-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Comedy.Movies.-.Rakuten.TV.en" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/060e7294-6008-4924-9879-b5d67b191534-comedy-movies-rakuten-tv-1646655938-width190-quality100.png" group-logo=""  group-title="Rakuten",Rakuten Comedy ᴴᴰ  
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Drama.Movies.-.Rakuten.TV.en" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/fea19cee-698e-45e0-9a8f-4714181bd0f4-drama-movies-rakuten-tv-1646656997-width190-quality100.png" group-logo=""  group-title="Rakuten",Rakuten Drama ᴴᴰ  
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Family.-.Rakuten.TV.en" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/97d6f2f2-b757-46c2-8d8c-f78b084b1220-family-rakuten-tv-1646657558-width190-quality100.png" group-logo=""  group-title="Rakuten",Rakuten Family ᴴᴰ  
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Top.Movies.-.Rakuten.TV.en" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/bd059380-7181-47a0-8f7c-e20a86788a99-top-movies-rakutentv-1646658125-width190-quality100.png" group-logo=""  group-title="Rakuten",Rakuten Movies ᴴᴰ  
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Romance.Movies.-.Rakuten.TV.en" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/287ea9f7-b2da-42fd-8ffa-b636eb08b5b2-width190-quality100.png" group-logo=""  group-title="Rakuten",Rakuten Romance ᴴᴰ  
+https://rakuten-romance-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Thrillers.-.Rakuten.TV.en" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/1d168cc5-df73-4647-ac86-6f07b6202546-thrillers-rakuten-tv-1646657740-width190-quality100.png" group-logo=""  group-title="Rakuten",Rakuten Thrillers ᴴᴰ  
+https://rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rakuten.VIKI.en" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/38a298ea-4739-4ae9-b656-7f5881195c06-width190-quality100.png" group-logo=""  group-title="Rakuten",Rakuten Viki ᴴᴰ  
+https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/9px9kvnxtru1w5p/tntOlahraga.png" group-title="Olahraga",TNT Olahraga
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/9px9kvnxtru1w5p/tntOlahraga.png" group-title="Olahraga",TNT Olahraga 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/9px9kvnxtru1w5p/tntOlahraga.png" group-title="Olahraga",TNT Olahraga 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/9px9kvnxtru1w5p/tntOlahraga.png" group-title="Olahraga",TNT Olahraga 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/9px9kvnxtru1w5p/tntOlahraga.png" group-title="Olahraga",TNT Olahraga 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Olahraga18.in" tvg-name="Olahraga 18 HD" tvg-logo="https://watchindia.net/images/channels/Olahraga/Olahraga_18.png" group-title="Olahraga",Olahraga 18 HD
+http://watchindia.net:8880/live/71740/31043/2423.ts
+
+#EXTINF:-1 tvg-id="starOlahragaselect1hd.in" tvg-logo="http://vodkom.com:25461/Logo/INDIA/Star_Olahraga_1_IN.png" group-title="Olahraga",Star Olahraga 1
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2186.ts
+
+#EXTINF:-1 tvg-id="StarSelect2.in" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Olahraga",Star Olahraga 2
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1069.ts
+
+#EXTINF:-1 tvg-id="sonypix.in" tvg-name="Sony Pix HD" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="Film",Sony Pix HD
+http://watchindia.net:8880/live/varghesekunju62/308678sher/2101.ts
+
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://i.imgur.com/jkkFusA.png" group-title="Pengetahuan", DISCOVERY 
+https://cdn-main.lolokoko.tv/DiscoveryChannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Pengetahuan", NATIONAL GEOGRAPHIC 
+https://cdn-main.lolokoko.tv/NationalGeographic.stream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/rqlBlBq.png" group-title="Pengetahuan", NAT GEO WILD 
+https://cdn-main.lolokoko.tv/NatGeoWild.stream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/fHoHLCH.png" group-title="Pengetahuan", NAT GEO PEOPLE
+https://cdn-main.lolokoko.tv/NatGeoPeople.stream/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/9px9kvnxtru1w5p/tntOlahraga.png" group-title="Olahraga",TNT Olahraga
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/9px9kvnxtru1w5p/tntOlahraga.png" group-title="Olahraga",TNT Olahraga 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/9px9kvnxtru1w5p/tntOlahraga.png" group-title="Olahraga",TNT Olahraga 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/9px9kvnxtru1w5p/tntOlahraga.png" group-title="Olahraga",TNT Olahraga 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/9px9kvnxtru1w5p/tntOlahraga.png" group-title="Olahraga",TNT Olahraga 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Olahraga18.in" tvg-name="Olahraga 18 HD" tvg-logo="https://watchindia.net/images/channels/Olahraga/Olahraga_18.png" group-title="Olahraga",Olahraga 18 HD
+http://watchindia.net:8880/live/71740/31043/2423.ts
+
+#EXTINF:-1 tvg-id="starOlahragaselect1hd.in" tvg-logo="http://vodkom.com:25461/Logo/INDIA/Star_Olahraga_1_IN.png" group-title="Olahraga",Star Olahraga 1
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2186.ts
+
+#EXTINF:-1 tvg-id="StarSelect2.in" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Olahraga",Star Olahraga 2
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1069.ts
+
+#EXTINF:-1 tvg-id="sonypix.in" tvg-name="Sony Pix HD" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="Film",Sony Pix HD
+http://watchindia.net:8880/live/varghesekunju62/308678sher/2101.ts
+
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://i.imgur.com/jkkFusA.png" group-title="Pengetahuan", DISCOVERY 
+https://cdn-main.lolokoko.tv/DiscoveryChannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Pengetahuan", NATIONAL GEOGRAPHIC 
+https://cdn-main.lolokoko.tv/NationalGeographic.stream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/rqlBlBq.png" group-title="Pengetahuan", NAT GEO WILD 
+https://cdn-main.lolokoko.tv/NatGeoWild.stream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/fHoHLCH.png" group-title="Pengetahuan", NAT GEO PEOPLE
+https://cdn-main.lolokoko.tv/NatGeoPeople.stream/playlist.m3u8
+
+
+
