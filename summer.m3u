@@ -1,10 +1,7 @@
 
 #EXTM3U
-#EXT-X-TARGETDURATION:10
-#EXT-X-VERSION:4
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTINF:10.0,
-#EXTINF:-1 tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_(TV_Channel).svg/800px-TNT_(TV_Channel).svg.png",T&T
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1920x1080
+#EXTINF:-1 tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_(TV_Channel).svg/800px-TNT_(TV_Channel).svg.png",TNT
 http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/7349.m3u8
 
 
