@@ -431,3 +431,14 @@ https://cdn-main.lolokoko.tv/NatGeoWild.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/fHoHLCH.png" group-title="Pengetahuan", NAT GEO PEOPLE
 https://cdn-main.lolokoko.tv/NatGeoPeople.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-1-in.png" group-title="Olahraga", Sony Ten Olahraga 1 (dai)
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-2-in.png" group-title="Olahraga", Sony Ten Olahraga 2 (dai)
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-3-in.png" group-title="Olahraga", Sony Ten Olahraga 3 (dai)
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-4-in.png" group-title="Olahraga", Sony Ten Olahraga 4 (dai)
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-5-in.png" group-title="Olahraga", Sony Ten Olahraga 5 (dai)
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
