@@ -85,7 +85,7 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=48
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=62 - AXN
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_afc_small.png" group-title="Gaya Hidup",Asian Food Network
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=63 - Asian Food Netowrk
+http://kingjulien.serv00.net/iptv-filproductstv.php?channel=63
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/10-MUSIC/MTV Live HD-FirstMedia-Chl-358.jpg" group-title="Musik",MTV Live
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=66
@@ -319,7 +319,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlK
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stevie-v/srp.220x132.transparent-white-ziggo/a6a6a0950a462a2a2c86388065d4c102294d9659/picons/1_0_19_4BE8_833_600_FFFF0000_0_0_0.png" group-title="Sport", Euro Sport
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/Stream(03)/index.m3u8
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=48 - Euro Sport
+#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=48
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Berita Dunia", Euronews English
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
