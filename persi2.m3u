@@ -450,3 +450,11 @@ http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8600.ts
 #EXTINF:-1 tvg-id="" tvg-name="DARK Netflix 4 FHD" tvg-logo="" group-title="FILM",DARK Netflix 4 FHD
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8601.ts
 
+
+#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/YMvLf6q.png", &FlixHD
+#EXTINF:0 tvg-id="RomedyNow.in" group-title="Film",&flix HD
+http://89.187.177.137:8081/&FLIX/index.m3u8
+
+#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/YMvLf6q.png", &PriveTV
+#EXTINF:0 tvg-id="RomedyNow.in" group-title="Film",&Prive Tv
+http://89.187.177.137:8081/&PRIVE/index.m3u8
