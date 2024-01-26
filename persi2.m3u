@@ -324,26 +324,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/Stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Berita Dunia", Euronews English
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 
-#EXTINF:0 group-title="OIahraga" tvg-id="2889" tvg-logo="http://epg.it999.ru/img/2889.png" tvg-rec="3",BT SPORT 1 FHD UK
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6566/index.m3u8
-#EXTINF:0 group-title="OIahraga" tvg-id="2889" tvg-logo="http://epg.it999.ru/img/2889.png" tvg-rec="3",BT Sport 1 UK
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2505/index.m3u8
-#EXTINF:0 group-title="OIahraga" tvg-id="2890" tvg-logo="http://epg.it999.ru/img/2890.png" tvg-rec="3",BT SPORT 2 FHD UK
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6565/index.m3u8
-#EXTINF:0 group-title="OIahraga" tvg-id="2890" tvg-logo="http://epg.it999.ru/img/2890.png" tvg-rec="3",BT Sport 2 UK
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/2506/index.m3u8
-#EXTINF:0 group-title="OIahraga" tvg-id="3559" tvg-logo="http://epg.it999.ru/img/3559.png" tvg-rec="3",BT SPORT ESPN FHD UK
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6563/index.m3u8
-#EXTINF:0 group-title="OIahraga" tvg-id="3553" tvg-logo="http://epg.it999.ru/img/3553.png" tvg-rec="3",PREMIER SPORTS UK
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6555/index.m3u8
-#EXTINF:0 group-title="OIahraga" tvg-id="3554" tvg-logo="http://epg.it999.ru/img/3554.png" tvg-rec="3",EUROSPORT 2 HD UK
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/6556/index.m3u8
-#EXTINF:0 group-title="OIahraga" tvg-id="4569" tvg-logo="http://epg.it999.ru/img/4569.png" tvg-rec="0",SKY SPORTS PREMIER LEAGUE UK
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7335/index.m3u8
-#EXTINF:0 group-title="OIahraga" tvg-id="4570" tvg-logo="http://epg.it999.ru/img/4570.png" tvg-rec="0",SKY SPORTS FOOTBALL UK
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7336/index.m3u8
-#EXTINF:0 group-title="OIahraga" tvg-id="4571" tvg-logo="http://epg.it999.ru/img/4571.png" tvg-rec="0",SKY SPORTS MAIN EVENT UK
-http://rhsbjv7k.tvclub.xyz/iptv/M3GBXEMMV8WP23/7337/index.m3u8
 
 #EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="Film", Bioskop 1
 http://epg.112114.xyz/douyu/4332
