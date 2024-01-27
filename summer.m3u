@@ -113,3 +113,11 @@ http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
 http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LS.png" group-title="Top TV",Love Stories
 https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
+
+#EXTINF:-1 group-title="Top TV",Via Play Sports 1
+https://hls.streambtw.com/live/stream_1.m3u8
+
+#EXTINF:-1 Group-title="TOP TV",Via Play Sports 2
+https://hls.streambtw.com/live/stream_2.m3u8
+
+
