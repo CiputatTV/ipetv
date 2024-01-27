@@ -438,3 +438,13 @@ http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/YMvLf6q.png", &PriveTV
 #EXTINF:0 tvg-id="RomedyNow.in" group-title="Film",&Prive Tv
 http://89.187.177.137:8081/&PRIVE/index.m3u8
+
+#EXTINF:-1 group-title="CRICKET",WILLOW HD
+https://hls.streambtw.com/live/stream_e1.m3u8
+
+#EXTINF:-1 group-title="ASTRO",ASTRO SUPER SPORTS 2
+https://mlb.mrgamingstreams.com/astro.m3u8
+
+#EXTINF:-1 group-title="ASTRO",ASTRO SUPER SPORT 3
+https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
+
