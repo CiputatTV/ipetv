@@ -345,7 +345,7 @@ http://epg.112114.xyz/douyu/323876
 http://epg.112114.xyz/douyu/1226741
 
 
-#EXTINF:-1 tvg-id="Olahraga18.in" tvg-name="Olahraga 18 HD" tvg-logo="https://watchindia.net/images/channels/Olahraga/Olahraga_18.png" group-title="Olahraga",Olahraga 18 HD
+#EXTINF:-1 tvg-id="Olahraga18.in" tvg-logo="https://watchindia.net/images/channels/Olahraga/Olahraga_18.png" group-title="CRICKET", Olahraga 18 HD
 http://watchindia.net:8880/live/71740/31043/2423.ts
 
 #EXTINF:-1 tvg-id="starOlahragaselect1hd.in" tvg-logo="http://vodkom.com:25461/Logo/INDIA/Star_Olahraga_1_IN.png" group-title="Olahraga",Star Olahraga 1
