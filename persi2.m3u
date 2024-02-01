@@ -49,7 +49,7 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=33
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=36 - Primer Sport
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/CNN International HD-FirstMedia-Chl-396.jpg" group-title="Berita Dunia", CNN International
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=38
+http://38.96.178.201:80/live/CNNHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/FOX News SD-FirstMedia-Chl-237.jpg" group-title="Berita Dunia", Fox News
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=39
