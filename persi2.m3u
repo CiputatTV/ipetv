@@ -2,22 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/KBS World SD-FirstMedia-Chl-244.jpg" group-title="Film",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-##http://kingjulien.serv00.net/iptv-filproductstv.php?channel=3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png", group-title="Film",HBO Asia
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=15 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/275px-Cinemax_2016.svg.png", group-title="Film",Cinemax Asia
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=16
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png", group-title="Olahraga",Fight Sport
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=18
-
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Warner-TV-HD-FirstMedia-Chl-313.png", group-title="Film",Warner TV
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=21 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png", group-title="Film",HITS Film
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=22 
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/AlJazeera Int SD-FirstMedia-Chl-243.jpg" group-title="Berita Dunia", Aljazeera English
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
@@ -27,20 +12,10 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 http://38.96.178.201:80/live/NickJr/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/Nickelodeon SD-FirstMedia-Chl-125.jpg" group-title="Anak",Nickelodeon
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=28
-
-
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/CartoonitoHD-FirstMedia-Chl-372.png" group-title="Anak",Cartoonito
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=30
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", group-title="Olahraga", ESPN
 http://38.96.178.201:80/live/ESPNHD/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="Pengetahuan",BBC Earth
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=33
 
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/CNN International HD-FirstMedia-Chl-396.jpg" group-title="Berita Dunia", CNN International
@@ -50,9 +25,7 @@ http://38.96.178.201:80/live/CNNHD/index.m3u8
 http://38.96.178.201:80/live/FOXHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/BBC World News SD-FirstMedia-Chl-235.jpg" group-title="Berita Dunia", BBC World News
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=40
-
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=43 - CNBC Sport
+https://vs-hls-push-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/Bloomberg SD-FirstMedia-Chl-239.jpg" group-title="Berita Dunia",Bloomberg
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch14%29/Stream(03)/index.m3u8 
