@@ -12,8 +12,7 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 http://38.96.178.201:80/live/NickJr/index.m3u8
 
 
-#EXTINF:-1 tvg-id="ABCNewsLive.us"group-title="Berita Dunia",ABC News (720p)
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", group-title="Olahraga", ESPN
@@ -36,7 +35,11 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch14%29/Stream
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=44
 
 #EXTINF:-1 group-title="Pengetahuan", Discovery Channel
-http://38.96.178.201:80/live/Discovery/index.m3u8 
+http://38.96.178.201:80/live/Discovery/index.m3u8
+
+ 
+#EXTINF:-1 group-title="Berita Dunia",ABC News 
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 group-title="Berita Dunia", CBS
 http://38.96.178.201:80/live/CBS/index.m3u8
