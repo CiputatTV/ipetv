@@ -26,33 +26,30 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=24 - ANIMAX
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/Nick Jr SD-FirstMedia-Chl-124.jpg" group-title="Anak",Nick Junior
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=27
+http://38.96.178.201:80/live/NickJr/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/Nickelodeon SD-FirstMedia-Chl-125.jpg" group-title="Anak",Nickelodeon
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=28
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=29 - Cartoon Network
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/CartoonitoHD-FirstMedia-Chl-372.png" group-title="Anak",Cartoonito
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=30
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=31	- Top TV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", group-title="Olahraga", ESPN
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=32
+http://38.96.178.201:80/live/ESPNHD/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="Pengetahuan",BBC Earth
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=33
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=35 - Crime Investigation
-
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=36 - Primer Sport
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/CNN International HD-FirstMedia-Chl-396.jpg" group-title="Berita Dunia", CNN International
 http://38.96.178.201:80/live/CNNHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/FOX News SD-FirstMedia-Chl-237.jpg" group-title="Berita Dunia", Fox News
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=39
+http://38.96.178.201:80/live/FOXHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/BBC World News SD-FirstMedia-Chl-235.jpg" group-title="Berita Dunia", BBC World News
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=40
@@ -63,11 +60,14 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=39
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch14%29/Stream(03)/index.m3u8 
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=44
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=45 - Discovery Channel
+#EXTINF:-1 group-title="Pengetahuan", Discovery Channel
+http://38.96.178.201:80/live/Discovery/index.m3u8 
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=46 - GEM
+#EXTINF:-1 group-title="Berita Dunia", CBS
+http://38.96.178.201:80/live/CBS/index.m3u8
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=47 - TLC
+#EXTINF:-1 group-title="Berita Dunia", TBS
+http://38.96.178.201:80/live/TBS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo fmx/Eurosport SD-FirstMedia-Chl-151.jpg" group-title="Olahraga", Eurosports
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=48
@@ -76,19 +76,9 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=48
 
 #http://kingjulien.serv00.net/iptv-filproductstv.php?channel=51 - CINEMACHI
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=53 - HISTORY
+#EXTINF:-1 group-title="Pengetahuan", History
+http://38.96.178.201:80/live/History/index.m3u8
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=55 - LIFETIME
-
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=58 - METRO CH
-
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=62 - AXN
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_afc_small.png" group-title="Gaya Hidup",Asian Food Network
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=63
-
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/10-MUSIC/MTV Live HD-FirstMedia-Chl-358.jpg" group-title="Musik",MTV Live
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=66
 
 #EXTM3U
 #EXT-X-VERSION:3
@@ -97,16 +87,10 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=66
 http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/1003.ts
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="Olahraga",NBA TV
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=82
+http://38.96.178.201:80/live/ESPN2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo fmx/TVN HD-FirstMedia-Chl-339.jpg" group-title="Film",TVN
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=85
-
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=87 - HGTV
-
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=90 - RAI ITALY
-
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=91 - LOTUS MACAU
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo fmx/NHK World Japan SD-FirstMedia-Chl-247.jpg" group-title="Berita Dunia",NHK World Japan
 http://kingjulien.serv00.net/iptv-filproductstv.php?channel=92
@@ -345,20 +329,10 @@ http://epg.112114.xyz/douyu/323876
 http://epg.112114.xyz/douyu/1226741
 
 
-#EXTINF:-1 tvg-id="Olahraga18.in" tvg-logo="https://watchindia.net/images/channels/Olahraga/Olahraga_18.png" group-title="CRICKET", Olahraga 18 HD
-http://watchindia.net:8880/live/71740/31043/2423.ts
-
-#EXTINF:-1 tvg-id="starOlahragaselect1hd.in" tvg-logo="http://vodkom.com:25461/Logo/INDIA/Star_Olahraga_1_IN.png" group-title="Olahraga",Star Olahraga 1
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2186.ts
-
-#EXTINF:-1 tvg-id="StarSelect2.in" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Olahraga",Star Olahraga 2
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1069.ts
 
 #EXTINF:-1 tvg-id="sonypix.in" tvg-name="Sony Pix HD" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="Film",Sony Pix HD
 http://watchindia.net:8880/live/varghesekunju62/308678sher/2101.ts
 
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://i.imgur.com/jkkFusA.png" group-title="Pengetahuan", DISCOVERY 
-https://cdn-main.lolokoko.tv/DiscoveryChannel.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Pengetahuan", NATIONAL GEOGRAPHIC 
 https://cdn-main.lolokoko.tv/NationalGeographic.stream/playlist.m3u8
@@ -369,15 +343,15 @@ https://cdn-main.lolokoko.tv/NatGeoWild.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/fHoHLCH.png" group-title="Pengetahuan", NAT GEO PEOPLE
 https://cdn-main.lolokoko.tv/NatGeoPeople.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-1-in.png" group-title="Olahraga", Sony Ten Olahraga 1 (dai)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-1-in.png" group-title="Olah raga", Sony Ten Olahraga 1 (dai)
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-2-in.png" group-title="Olahraga", Sony Ten Olahraga 2 (dai)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-2-in.png" group-title="Olah raga", Sony Ten Olahraga 2 (dai)
 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-3-in.png" group-title="Olahraga", Sony Ten Olahraga 3 (dai)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-3-in.png" group-title="Olah raga", Sony Ten Olahraga 3 (dai)
 https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-4-in.png" group-title="Olahraga", Sony Ten Olahraga 4 (dai)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-4-in.png" group-title="Olah raga", Sony Ten Olahraga 4 (dai)
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-5-in.png" group-title="Olahraga", Sony Ten Olahraga 5 (dai)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-5-in.png" group-title="Olah raga", Sony Ten Olahraga 5 (dai)
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
 #EXTINF:-1 group-title="Olahraga" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/e364dd59-562b-4157-a44a-c11c3b728557.jpeg", Bein Sports 1
@@ -442,75 +416,6 @@ http://89.187.177.137:8081/&PRIVE/index.m3u8
 #EXTINF:-1 group-title="CRICKET",WILLOW HD
 https://hls.streambtw.com/live/stream_e1.m3u8
 
-#EXTINF:-1 group-title="ASTRO",ASTRO SUPER SPORTS 2
-https://mlb.mrgamingstreams.com/astro.m3u8
-
-#EXTINF:-1 group-title="ASTRO",ASTRO SUPER SPORT 3
-https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
-
-#EXTINF:-1 tvg-id="ts15" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SONY INDIA",SONY HD
-https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-
-#EXTINF:-1 tvg-id="ts48" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="SONY INDIA",SONY SAB HD
-https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-
-#EXTINF:-1 tvg-id="ts554" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="SONY INDIA",SONY PAL
-https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
-
-#EXTINF:-1 tvg-id="ts32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SONY INDIA",SONY PIX HD
+#EXTINF:-1 tvg-id="ts32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="FILM",SONY PIX HD
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-
-#EXTINF:-1 tvg-id="ts132" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="SONY INDIA",SONY MAX
-https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
-
-#EXTINF:-1 tvg-id="ts80" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="SONY INDIA",SONY MAX HD
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-
-#EXTINF:-1 tvg-id="ts120" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SONY INDIA",SONY MAX2
-https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
-
-#EXTINF:-1 tvg-id="ts56" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="SONY INDIA",SONY WAH
-https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
-
-#EXTINF:-1 tvg-id="ts81" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SONY INDIA",SONY TEN 1 HD
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-
-#EXTINF:-1 tvg-id="ts150" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SONY INDIA",SONY TEN 1
-https://dai.google.com/linear/hls/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
-
-#EXTINF:-1 tvg-id="ts462" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SONY INDIA",SONY TEN 2 HD
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-
-#EXTINF:-1 tvg-id="ts170" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="SONY INDIA",SONY TEN 2
-https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-
-#EXTINF:-1 tvg-id="ts464" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SONY INDIA",SONY TEN 3 HD
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-
-#EXTINF:-1 tvg-id="ts171" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="SONY INDIA",SONY TEN 3
-https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-
-#EXTINF:-1 tvg-id="ts1192" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SONY INDIA",SONY TEN 4 HD
-https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
-
-#EXTINF:-1 tvg-id="ts914" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SONY INDIA",SONY TEN 4
-https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-
-#EXTINF:-1 tvg-id="ts35" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SONY INDIA",SONY TEN 5 HD
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-
-#EXTINF:-1 tvg-id="ts35" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SONY INDIA",SONY TEN 5
-https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
-
-#EXTINF:-1 tvg-id="ts460" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="SONY INDIA",SONY BBC EARTH HD
-https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
-
-#EXTINF:-1 tvg-id="ts45" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="SONY INDIA",SONY YAY
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-
-#EXTINF:-1 tvg-id="ts658" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SONY INDIA",SONY MARATHI
-https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
-
-#EXTINF:-1 tvg-id="ts34" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="SONY INDIA",SONY AATH 
-https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
 
