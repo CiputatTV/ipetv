@@ -21,9 +21,6 @@ http://kingjulien.serv00.net/iptv-filproductstv.php?channel=22
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/AlJazeera Int SD-FirstMedia-Chl-243.jpg" group-title="Berita Dunia", Aljazeera English
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=23 - Dreamworks
-
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=24 - ANIMAX
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/Nick Jr SD-FirstMedia-Chl-124.jpg" group-title="Anak",Nick Junior
 http://38.96.178.201:80/live/NickJr/index.m3u8
@@ -329,11 +326,6 @@ http://epg.112114.xyz/douyu/323876
 http://epg.112114.xyz/douyu/1226741
 
 
-
-#EXTINF:-1 tvg-id="sonypix.in" tvg-name="Sony Pix HD" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="Film",Sony Pix HD
-http://watchindia.net:8880/live/varghesekunju62/308678sher/2101.ts
-
-
 #EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Pengetahuan", NATIONAL GEOGRAPHIC 
 https://cdn-main.lolokoko.tv/NationalGeographic.stream/playlist.m3u8
 
@@ -343,15 +335,15 @@ https://cdn-main.lolokoko.tv/NatGeoWild.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/fHoHLCH.png" group-title="Pengetahuan", NAT GEO PEOPLE
 https://cdn-main.lolokoko.tv/NatGeoPeople.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-1-in.png" group-title="Olah raga", Sony Ten Olahraga 1 (dai)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-1-in.png" group-title="Olahraga", Sony Ten Olahraga 1 (dai)
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-2-in.png" group-title="Olah raga", Sony Ten Olahraga 2 (dai)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-2-in.png" group-title="Olahraga", Sony Ten Olahraga 2 (dai)
 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-3-in.png" group-title="Olah raga", Sony Ten Olahraga 3 (dai)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-3-in.png" group-title="Olahraga", Sony Ten Olahraga 3 (dai)
 https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-4-in.png" group-title="Olah raga", Sony Ten Olahraga 4 (dai)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-4-in.png" group-title="Olahraga", Sony Ten Olahraga 4 (dai)
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-5-in.png" group-title="Olah raga", Sony Ten Olahraga 5 (dai)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-5-in.png" group-title="Olahraga", Sony Ten Olahraga 5 (dai)
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
 #EXTINF:-1 group-title="Olahraga" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/e364dd59-562b-4157-a44a-c11c3b728557.jpeg", Bein Sports 1
