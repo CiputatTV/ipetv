@@ -1,6 +1,6 @@
 
 #EXTM3U
-#EXTINF:-1, CNN
+#EXTINF:-X, CNN
 http://38.96.178.201:80/live/CNNHD/index.m3u8
 
 
