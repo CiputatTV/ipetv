@@ -2,19 +2,12 @@
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png", group-title="Film",HITS Film
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=22 
-
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/AlJazeera Int SD-FirstMedia-Chl-243.jpg" group-title="Berita Dunia", Aljazeera Berita Dunia
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/Nick Jr SD-FirstMedia-Chl-124.jpg" group-title="Anak",Nick Junior
 http://38.96.178.201:80/live/NickJr/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/Nickelodeon SD-FirstMedia-Chl-125.jpg" group-title="Anak",Nickelodeon
-http://kingjulien.serv00.net/iptv-filproductstv.php?channel=28
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", group-title="Olahraga", ESPN
@@ -26,19 +19,6 @@ http://38.96.178.201:80/live/CNNHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/FOX News SD-FirstMedia-Chl-237.jpg" group-title="Berita Dunia", Fox News
 http://38.96.178.201:80/live/FOXHD/index.m3u8
-
-
-#EXTINF:-1 group-title="Pengetahuan", Discovery Channel
-http://38.96.178.201:80/live/Discovery/index.m3u8 
-
-#EXTINF:-1 group-title="Berita Dunia", CBS
-http://38.96.178.201:80/live/CBS/index.m3u8
-
-#EXTINF:-1 group-title="Berita Dunia", TBS
-http://38.96.178.201:80/live/TBS/index.m3u8
-
-#EXTINF:-1 group-title="Pengetahuan", History
-http://38.96.178.201:80/live/History/index.m3u8
 
 
 #EXTM3U
@@ -251,14 +231,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChanne
 https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stevie-v/srp.220x132.transparent-white-ziggo/a6a6a0950a462a2a2c86388065d4c102294d9659/picons/1_0_19_4BE8_833_600_FFFF0000_0_0_0.png" group-title="Sport", Euro Sport
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/Stream(03)/index.m3u8
-#http://kingjulien.serv00.net/iptv-filproductstv.php?channel=48
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Berita Dunia", Euronews Berita Dunia
-https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-
-
 #EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="Film", Bioskop 1
 http://epg.112114.xyz/douyu/4332
 #EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="Film", Bioskop 2
@@ -358,66 +330,8 @@ http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:0 tvg-id="RomedyNow.in" group-title="Film",&Prive Tv
 http://89.187.177.137:8081/&PRIVE/index.m3u8
 
-#EXTINF:-1 group-title="CRICKET",WILLOW HD
-https://hls.streambtw.com/live/stream_e1.m3u8
-
 #EXTINF:-1 tvg-id="ts32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="FILM",SONY PIX HD
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-
-
-#EXTINF:-1 group-title="Berita Dunia" tvg-logo="https://i.imgur.com/mO7gA6S.png" tvg-id="", DW News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706868048/ei/72i8ZaaEPcPB_9EP0qiWOA/ip/20.75.95.160/id/pqabxBKzZ6M.751/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8RpgLn11sQxQoZMUq5NCeFJk8wcTSkqA_vMTWCutQE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgDIsz_wUbrGP18QHPWAFMLuBpa1xCalTakgmawI0sh4cCIQDhssDAVwyKsvbzv8TBDTiNZvmORihA7VyU_x5myhfJvA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Berita Dunia" tvg-logo="https://i.imgur.com/3PH7frA.jpg" tvg-id="", WION
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706868048/ei/8Gi8Zb-ZGa6N_9EPzriVqA0/ip/20.75.95.160/id/AYobDkRBvvY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4hivS1aBzHw9VAtUQaEYuSbLiiHYbCinTJj8NNgN0U/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgWpQhxmA6TARLONx2lpLByd7rY1MdIQJViftlJQAVvBACIAaAfEGGMyI68udR3Sc6bq9nvnPlWwzmwskzfw6nFixc/file/index.m3u8
-
-#EXTINF:-1 group-title="Berita Dunia" tvg-logo="https://i.imgur.com/3IjszqF.jpg" tvg-id="", CGTN Europe
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706868048/ei/8Gi8ZZfEN8-m_9EPl5O_-A8/ip/20.75.95.160/id/AE2IZ43iqzE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5zLTxARe4dWBbQC4-Je5dtfjn2L_PcWasabj2uvfdw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANJrUtsWUp_Oxtu0sTh8ujiDlcR1Bvbf-MK4IZMVNGL-AiBO8xqhtGORQ0JqR6APOAmzHNUoeuC0EzTaccLxaZYIrA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Berita Dunia" tvg-logo="https://i.imgur.com/1NHCrPM.png" tvg-id="", FRANCE 24 Berita Dunia
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706868049/ei/8Wi8ZYHyDZGG_9EPmPym4AM/ip/20.75.95.160/id/tkDUSYHoKxE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_MmG2WjJXJqw9uFZ2RdNIqVGFy54DcyFAULpkfV2mU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMIV5scfZF00cyNJXGXcT4Ir26NaNWJHD49p94PSGIDTAiEAqqIkEIp3GVnRPkcSQuEolg6aC0itk8rL0fLd8ELgtFE%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Berita Dunia" tvg-logo="https://i.imgur.com/sxEPMKY.png" tvg-id="", ABC News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706868049/ei/8Wi8ZdGjL-ep_9EP8pKMiAs/ip/20.75.95.160/id/gN0PZCe-kwQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2zzUhUBPEHWviVFqf0OzzT-GtOlYryt6lpYQNxGXro/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL4FQiU4Ia4IxDfCPJjsKRWbVjnmL-WRrcAidr14i_poAiAebpisXOLr8Q4B-4YPNFGZrBaMnnFQ7X5X35sHhYLWUw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Berita Dunia" tvg-logo="https://i.imgur.com/tAvZMwz.png" tvg-id="", TRT World
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706868050/ei/8mi8Zb6LCoG5_9EP8Y-R6A8/ip/20.75.95.160/id/5VF4aor94gw.132/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1OYSOUXzmOtxfwpeeCyAlzTTMtgkEMBw7eQzLlUQDU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAId1khkS3nh35ztbXk8RfwO7iZHCiHqvNQFKQ8uk2UpIAiB8c7YornsOtNOen_DloOKsKlSDd5Q533geZkxRbEQhCw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Berita Dunia" tvg-logo="https://i.imgur.com/sXq5pev.png" tvg-id="", Al Jazeera Berita Dunia
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706868050/ei/8mi8ZYH6Hvq6_9EPsKakCA/ip/20.75.95.160/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3v8yLqs0GlGlk7kmdAOGPaS1IICaOoSy_d56bv7lhc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgCetx9wnOTrkRPdxGxnHUIuvrzoMQR0XmGLoUCkmeQcMCID95brtdKmUmzIgO1xAKqfS36iB45oSVGgJQeJlL-3-3/file/index.m3u8
-
-#EXTINF:-1 group-title="Berita Dunia" tvg-logo="https://i.imgur.com/tELaG63.png" tvg-id="", WPLG Local 10
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706868051/ei/82i8ZZnvAvS2_9EPr6Cj2Ak/ip/20.75.95.160/id/Ea-XCBo9EOQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fz5EWjkJlzsSx0rVmLGAaXtBsuKxQBzWZcZA2X9A2Ak/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgcdQj7TMvKgJ9wL_JXqRxi4FSuDdd5DNdJUUMk9j_LVICIQC4wMaur1Gha_4Q9oImqlyklT4MJllSfWsRPXaAqv-bpw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Berita Dunia" tvg-logo="https://i.imgur.com/mOlz491.png" tvg-id="", News 12 New York
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706868051/ei/82i8ZaeBH-CF_9EPnLCGkAE/ip/20.75.95.160/id/-HCVb6Cuk3c.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3wz1LDU8_es-POeMdzSVWlZIa-0sdImAJaeQyFx-R8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgW9Z9kenwPdcN-bnthqX0bBIgJCWt-xUd_sgTMtsFjdQCIQC-cZDu87o_6l3WicMJVKhbKLnd_K5KMBJdRUmUcYGZ6w%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Berita Dunia" tvg-logo="https://i.imgur.com/O7h85EX.jpg" tvg-id="", United Nations
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706868052/ei/82i8ZZfFO6m5_9EPoOu02Ak/ip/20.75.95.160/id/wfAa1GiNdgM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5GCE7MF9_9bSV5eF3U-5I9V2ZmCW3Wa-ddLavCpnPY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgN0lszbxEGuSIYh5wbb008-Pi8py7kCQYVJViKUekOgcCIQCz1IHPa5g2j_hnTjP4p_uUJwJFLQ9khRltuw-Hio68lw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Berita Dunia" tvg-logo="https://i.imgur.com/8wwqVHU.jpg" tvg-id="", GBNews
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706868052/ei/9Gi8ZbPJFvu__9EPpcqB6A8/ip/20.75.95.160/id/8WX6YL9JnLw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4NXhYC4QKy1Dwt6NvbE5EkT-38aQFyndsAzEzeD7Ks/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgOIT-So73IfhFEnRU2e2HXsaRHANOWCR3zPeCB3MKTGECIQDrg-Dwg2YqXzS2qekPmwivsF1r2uzCEBgi4KRhCmaIpg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Berita Dunia" tvg-logo="https://i.imgur.com/8OCSD9V.png" tvg-id="", ABC News (Australia)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706868052/ei/9Gi8ZYyaL5OI_9EP8cqI6AE/ip/20.75.95.160/id/vOTiJkg1voo.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9fx57MOFkqNMgkZW8t9agH2stlSLq3H0EyQbFPRey39c/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgche3fB3Fvor7OP_GaXQEthn7DhviI6TauQuCch56p8YCIQDTqutP73oPqm_PbY9RNmMYQ1XXWyWjlF_JzmFjwHGR2g%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Berita Dunia" tvg-logo="https://i.imgur.com/KKoPfER.gif" tvg-id="", Newsmax TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706868053/ei/9Wi8ZdC3CYi5_9EPqdOI2A8/ip/20.75.95.160/id/IVOBs3lV4Io.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8tgxXSp9zRyZxVlF5Wfd0L_xRZC6sCE90jpSEkt24A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALZnaSqp3ZR8bwy6iJi3BVbWQ98J_z2JUPb91Q744tXGAiEA3WNuoxzKSoa-z9zmCmL73XXgesRjaRfUv8iesp2Y9yc%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Berita Dunia" tvg-logo="https://i.imgur.com/yDTnnhV.jpg" tvg-id="", NBC News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706868053/ei/9Wi8ZerqHqun_9EPmoe_4AE/ip/20.75.95.160/id/O6CJ-DzdLA0.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_4dw9PMDXyI2cH4iIUaa8TBUOkkIb6BgDvnLCixaJo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIga10dptZ5uCo2UTTl5PH7AnNaWQdJEQTaQE3Z2cNOjtUCIB-4gUsfEiBDFX2ui6WyeAGiCfLs-VNUy_WCNzyK3cN2/file/index.m3u8
-
-#EXTINF:-1 group-title="Berita Dunia" tvg-logo="https://i.imgur.com/XYPqCwe.png" tvg-id="", africanews
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706868054/ei/9Wi8ZZiiOuOO_9EPj8O0yAY/ip/20.75.95.160/id/NQjabLGdP5g.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_bykSPpVspoacl-H8fQrQRjUvf0k_Q-YkucRtoX09I/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMtciYRTv0MdOX4BN0EXKJuk_UAuL-ihqAslk7-yt8RzAiEA3IgmG9louvi6BhOAjfMLB3ZkTPXcBcfd8d2Dpd2rxeI%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Berita Dunia" tvg-logo="https://i.imgur.com/UmeRC9Z.png" tvg-id="", NewsX
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706868054/ei/9mi8Zdj5D9KO_9EPwra24AM/ip/20.75.95.160/id/j7cJu-RNBGo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7n001WXYhqmj_Capf2vk16BSQY-C736juY4LfMJYCc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJ7fe-qH_Sn_LYoBHVAiUqxm-5DDalkAQBY7cBSEkUGGAiB904mxyqKCoCZaFY7ELM3XlAlCSGg4O6vEBhXc8OPiFw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Berita Dunia" tvg-logo="https://i.imgur.com/UOtXmnA.png" tvg-id="", NHK WORLD-JAPAN
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706868054/ei/9mi8ZcygJuO6_9EP_sKn-AE/ip/20.75.95.160/id/f0lYkdA-Gtw.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7LHkcOFcDA6b4FDCCm982468o9Vtl76LnSL5p28z9w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgaRtau_J-X4MgAxdxnRu0XX5_FqC5NcIQtHf7T8aC4eMCICe-NmjB7MREJaoHMUHToBpS8e04kjwFgdlMi72yfFxO/file/index.m3u8
-
-#EXTINF:-1 group-title="Berita Dunia" tvg-logo="https://i.imgur.com/eXepXQC.png" tvg-id="", Yahoo Finance
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706868054/ei/9mi8ZemnOLOP_9EP8KKG6AU/ip/20.75.95.160/id/OAHHA27td-A.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/spc/UWF9f3cjM-eboA3fFEJiI3DG-EM16I9rIG6TxuMHy0m7v04/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMoc-HRq8I5vqyeEBnejTtkdlZvOHJQ9O7cVMgS4aa0OAiEAy1RCrCFR3dxG_s9dXROlCqA4WhFvPCOtWxKldCIS6Qw%3D/file/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
