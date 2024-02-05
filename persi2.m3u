@@ -15,7 +15,7 @@ http://38.96.178.201:80/live/ESPNHD/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/CNN International HD-FirstMedia-Chl-396.jpg" group-title="Berita Dunia", CNN International
-http://38.96.178.201:80/live/CNNHD/index.m3u8
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/FOX News SD-FirstMedia-Chl-237.jpg" group-title="Berita Dunia", Fox News
 http://38.96.178.201:80/live/FOXHD/index.m3u8
