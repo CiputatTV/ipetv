@@ -21,9 +21,6 @@ http://38.96.178.201:80/live/CNNHD/index.m3u8
 http://38.96.178.201:80/live/FOXHD/index.m3u8
 
 
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Olahraga",ESPN NEWs
 http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/1003.ts
 
@@ -70,10 +67,6 @@ https://edge1.laotv.la/live/TSport1/index.m3u8
 https://edge1.laotv.la/live/TSport2/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=3330000,AVERAGE-BANDWIDTH=3084000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="aud1"
 #https://edge1.laotv.la/live/THD7/sc-gaFECQ/v1_index.m3u8
-
-
-
-
 
 
 
@@ -309,16 +302,14 @@ http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8600.ts
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8601.ts
 
 
-#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/YMvLf6q.png", &FlixHD
-#EXTINF:0 tvg-id="RomedyNow.in" group-title="Film",&flix HD
-http://89.187.177.137:8081/&FLIX/index.m3u8
-
-#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/YMvLf6q.png", &PriveTV
-#EXTINF:0 tvg-id="RomedyNow.in" group-title="Film",&Prive Tv
-http://89.187.177.137:8081/&PRIVE/index.m3u8
-
 #EXTINF:-1 tvg-id="ts32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="FILM",SONY PIX HD
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD9QLpClzDNxXOCqTu6eIxDSc4rvPXXTxSnQ&usqp=CAU" group-title="FILM",Rock Extreme
+http://210.210.155.35:80/session/7dade102-65b9-11e9-a2e4-c81f66f89318/dr9445/h/h15/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sxhqwbc/blueant.png" group-title="FILM",Rock Intertainment
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
