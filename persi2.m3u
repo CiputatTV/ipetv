@@ -5,6 +5,43 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/AlJazeera Int SD-FirstMedia-Chl-243.jpg" group-title="Berita Dunia", Aljazeera Berita Dunia
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd79b5jGJhAFH7YtFzrAjuLWEhVqOTQIWidQ&usqp=CAU" group-title="Berita Dunia", ABC News (AUS)
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjU9IGjjDqYkKMUcKRiNSss2grHqk17uTSpw&usqp=CAU" group-title="Berita Dunia", ABC News (US)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRYk3_W-uU_XlcwUGBoUkdolFlOcHG-wr3SQ&usqp=CAU" group-title="Berita Dunia", Africa News
+https://rakuten-africanews-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEY08B8jYRrKOkN2NnqydK47hdkEn5rZGvlw&usqp=CAU" group-title="Berita Dunia", AusBiz (AUS)
+https://ausbiztv-ausbiz-1-au.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4OeDxWuPd72gYMis17sdoAXUWPmuqMriSA&usqp=CAU" group-title="Berita Dunia", Bloomberg
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4OeDxWuPd72gYMis17sdoAXUWPmuqMriSA&usqp=CAU" group-title="Berita Dunia", Bloomberg Live
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSskVXXGNJH8rbXPEyJsPvVlpITrId6NMB3UA&usqp=CAU" group-title="Berita Dunia", CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR01Lo6sznPIZeJs_hVhTcQWwyBZKXJhCe3w&usqp=CAU" group-title="Berita Dunia", CNBC
+http://23.237.98.42:8080/USA_CNBC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsJqy1bnWblN5euwv19wyNeY08WesyuwzE3w&usqp=CAU" group-title="Berita Dunia", CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdferHGNXzr8ZVt36-3hfBK1jlpcEI3o8uGg&usqp=CAU" group-title="Berita Dunia", Real America's Voice
+https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv-KKm-W76Q0v9POCdNuwVp6dkkh0ltKun2A&usqp=CAU" group-title="Berita Dunia", Reuters
+https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThYnaOLVLh4-GA2ktTzzm62gDLFyQ3tTIfhg&usqp=CAU" group-title="Berita Dunia", TRT World 
+https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/Nick Jr SD-FirstMedia-Chl-124.jpg" group-title="Anak",Nick Junior
 http://38.96.178.201:80/live/NickJr/index.m3u8
@@ -18,8 +55,7 @@ http://38.96.178.201:80/live/ESPNHD/index.m3u8
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/FOX News SD-FirstMedia-Chl-237.jpg" group-title="Berita Dunia", Fox News
-http://38.96.178.201:80/live/FOXHD/index.m3u8
-
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Olahraga",ESPN NEWs
 http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/1003.ts
