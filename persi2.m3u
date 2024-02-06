@@ -1,7 +1,6 @@
 #EXTINF:-1 group-title="FILM" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png",Star Movies HD(BD)
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/AlJazeera Int SD-FirstMedia-Chl-243.jpg" group-title="Berita Dunia", Aljazeera Berita Dunia
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
@@ -64,7 +63,7 @@ http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/1003.ts
 http://38.96.178.201:80/live/ESPN2/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/DW Berita Dunia SD-FirstMedia-Chl-233.jpg" group-title="Berita Dunia",DW Berita Dunia
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUJlMEGy8RyOAyUkPteM0L0p26jaQ5oPbkvA&usqp=CAU" group-title="Berita Dunia",DW Berita Dunia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo fmx/TvN Films HD-FirstMedia-Chl-343.jpg" group-title="Film",TVN Film
