@@ -1,5 +1,5 @@
-#EXTINF:-1 group-title="FILM" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png",Star Movies HD(BD)
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+
+<==========Berita Dunia==========>
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/AlJazeera Int SD-FirstMedia-Chl-243.jpg" group-title="Berita Dunia", Aljazeera Berita Dunia
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
@@ -57,7 +57,7 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Olahraga",ESPN NEWs
-http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/1003.ts
+http://45.166.92.22:58001/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="Olahraga",NBA TV
 http://38.96.178.201:80/live/ESPN2/index.m3u8
@@ -103,7 +103,11 @@ https://edge1.laotv.la/live/TSport2/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=3330000,AVERAGE-BANDWIDTH=3084000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="aud1"
 #https://edge1.laotv.la/live/THD7/sc-gaFECQ/v1_index.m3u8
 
+#EXTINF:-1 group-title="Olahraga",Via Play Sports 1
+https://hls.streambtw.com/live/stream_1.m3u8
 
+#EXTINF:-1 group-title="Olahraga",Via Play Sports 2
+https://hls.streambtw.com/live/stream_2.m3u
 
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/CNN International HD-FirstMedia-Chl-396.jpg" group-title="INDONESIA",CNN HD
@@ -245,25 +249,39 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChanne
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" group-title="Religi" tvg-logo="https://i.postimg.cc/c4dJC7x8/20220926-172826.png",Al-Quran Kareem TV
 https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
+<==========21 Cineplex==========>
 
-#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="Film", Bioskop 1
+
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 1
 http://epg.112114.xyz/douyu/4332
-#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="Film", Bioskop 2
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 2
 http://epg.112114.xyz/douyu/6140589
-#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="Film", Bioskop 3
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 3
 http://epg.112114.xyz/douyu/8770422
-#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="Film", Bioskop 4
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 4
 http://epg.112114.xyz/douyu/747764
-#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="Film", Bioskop 5
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 5
 http://epg.112114.xyz/douyu/36337
-#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="Film", Bioskop 6
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 6
 http://epg.112114.xyz/douyu/8814650
-#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="Film", Bioskop 7
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 7
 http://epg.112114.xyz/douyu/263824
-#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="Film", Bioskop 8
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 8
 http://epg.112114.xyz/douyu/323876
-#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="Film", Bioskop 9
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 9
 http://epg.112114.xyz/douyu/1226741
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 10
+http://epg.112114.xyz/douyu/52787
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 11
+http://epg.112114.xyz/douyu/20415
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 12
+http://epg.112114.xyz/douyu/9249162
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 12
+http://epg.112114.xyz/douyu/252802
+
+
+
+
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Pengetahuan", NATIONAL GEOGRAPHIC 
@@ -448,6 +466,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png" group-title="FILM", TVN
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#EXTINF:-1 group-title="FILM" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png",Star Movies HD(BD)
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+
 
 
 
