@@ -470,6 +470,23 @@ https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:-1 group-title="FILM" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png",Star Movies HD(BD)
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 
+#EXTINF:-1 group-title="Olahraga" tvg-logo="https://i.imgur.com/kaYFJhu.png",FS 1
+http://ott1.co:8080/live/22552255/22552255/54.ts
+
+#EXTINF:-1 group-title="Olahraga" tvg-logo="https://i.imgur.com/kaYFJhu.png",FS 2
+http://ott1.co:8080/live/22552255/22552255/55.ts
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/0lwdq31638048788.png" group-title="Olahraga",Variety 1
+http://supersonictv.live:8080/419094/970686/86865
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/9vnt801638048828.png" group-title="Olahraga",Variety 2
+http://supersonictv.live:8080/419094/970686/86866
+
+#EXTINF:-1 group-title="Olahraga" tvg-logo="https://i.imgur.com/InMnCM5.png",Premier League 
+http://supersonictv.live:8080/419094/970686/86880
+
+#EXTINF:-1 group-title="Pengetahuan" tvg-logo="https://i.imgur.com/tUI0Upe.png",BBC America 
+https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
 
 
 
