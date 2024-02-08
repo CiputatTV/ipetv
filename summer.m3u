@@ -1012,6 +1012,18 @@ http://cord-cutter.net:8080/jesus1/jesus1/35244
 #EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK: SKY SP RACING FHD
 http://cord-cutter.net:8080/jesus1/jesus1/76842
 
+#EXTINF:-1, group-title="Olga Bhs Spanyol", ESPN
+http://181.78.8.90:16123/play/ch16
+#EXTINF:-1,group-title="Olga Bhs Spanyol",ESPN2
+http://181.78.8.90:16123/play/ch17
+#EXTINF:-1,group-title="Olga Bhs Spanyol",ESPN3 
+http://181.78.8.90:16123/play/ch18 
+#EXTINF:-1,group-title="Olga Bhs Spanyol",ESPN4 
+http://181.78.8.90:16123/play/ch19 
+#EXTINF:-1,group-title="Olga Bhs Spanyol",FOX SPORTS 2 
+http://181.78.8.90:16123/play/ch20 
+#EXTINF:-1,group-title="Olga Bhs Spanyol",FOX SPORTS 3 
+http://181.78.8.90:16123/play/ch21
 
 #EXTINF:-1 group-title="Olahraga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJIJ6PJRiyDHbNnaFyh49_P5ZX3Xkf6aK12g&usqp=CAU",JP:UFC
 http://cord-cutter.net:8080/Pdriver204@gmail.com/paul@2022/146291
