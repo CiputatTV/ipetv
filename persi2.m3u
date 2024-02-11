@@ -116,6 +116,13 @@ https://hls.streambtw.com/live/stream_2.m3u
 #EXTINF:-1 group-title="Olahraga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJIJ6PJRiyDHbNnaFyh49_P5ZX3Xkf6aK12g&usqp=CAU",JP:UFC
 http://cord-cutter.net:8080/Pdriver204@gmail.com/paul@2022/146291
 
+#EXTINF:-1 group-title="Olahraga",Star Sports Select HD1
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155972&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1 group-title="Olahraga",Star Sports Select HD2
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155973&extension=ts&play_token=otM0DQF4Ff
+
+
 #EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sport Premier League HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Sky_Sports_Premier_League_HD.png" group-title="⚽ SPORT EUROPE 🇪🇺",SkySport PremierLeague HD_🇬🇧
 http://gg.gg/SkySportPremierLeagueUK
 #EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sport Football HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Sky_Sports_Football_HD.png" group-title="⚽ SPORT EUROPE 🇪🇺",SkySport Football HD_🇬🇧
