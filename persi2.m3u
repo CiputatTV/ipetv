@@ -107,6 +107,9 @@ https://edge1.laotv.la/live/TSport2/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=3330000,AVERAGE-BANDWIDTH=3084000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="aud1"
 #https://edge1.laotv.la/live/THD7/sc-gaFECQ/v1_index.m3u8
 
+#EXTINF:-1 group-title="Olahraga", Eurosport HD
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=156027&extension=ts&play_token=otM0DQF4Ff
+
 #EXTINF:-1 group-title="Olahraga",Via Play Sports 1
 https://hls.streambtw.com/live/stream_1.m3u8
 
@@ -122,6 +125,17 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155972&extensi
 #EXTINF:-1 group-title="Olahraga",Star Sports Select HD2
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155973&extension=ts&play_token=otM0DQF4Ff
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/MN%2B_HD.jpg/revision/latest?cb=20171207190712" group-title="FILM",MN+
+##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=156025&extension=ts&play_token=otM0DQF4Ff
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:67:EB:60&stream=156025&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg/revision/latest?cb=20180531123424" group-title="FILM",Movies Now
+##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=156022&extension=ts&play_token=otM0DQF4Ff
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:67:EB:60&stream=156022&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/MNX.png/revision/latest?cb=20171207192500" group-title="FILM",MNX
+##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=156021&extension=ts&play_token=otM0DQF4Ff
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:67:EB:60&stream=156021&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sport Premier League HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Sky_Sports_Premier_League_HD.png" group-title="⚽ SPORT EUROPE 🇪🇺",SkySport PremierLeague HD_🇬🇧
 http://gg.gg/SkySportPremierLeagueUK
