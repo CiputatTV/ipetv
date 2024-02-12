@@ -540,6 +540,23 @@ http://supersonictv.live:8080/419094/970686/86880
 https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Olahraga", Astro Sport 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=571245&extension=ts&play_token=GVZS088tcf 
+
+
+#EXTINF:-1 group-title="Olahraga", Astro Sport 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=571248&extension=ts&play_token=GVZS088tcf 
+
+
+#EXTINF:-1 group-title="Olahraga", Astro Sport 3
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=571247&extension=ts&play_token=GVZS088tcf 
+
+
+#EXTINF:-1 group-title="Olahraga", Astro Sport 4
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=571246&extension=ts&play_token=GVZS088tcf 
+
+
+
 
 
 
