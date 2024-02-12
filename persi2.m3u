@@ -487,6 +487,70 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 
+#EXTINF:-1 tvg-id="cnbc" group-title="STR SERVER" tvg-logo="https://cdn.hqth.me/logo/thumbs/217.png", CNBC
+http://str1.cvtv.xyz/CNBC?token=live
+#EXTINF:-1 tvg-id="cnn" group-title="STR SERVER" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN
+http://str1.cvtv.xyz/CNN?token=live
+#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png",NBC
+http://str1.cvtv.xyz/NBC?token=live
+#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png",CBS
+http://str1.cvtv.xyz/CBS?token=live
+#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png",ABC
+http://str1.cvtv.xyz/ABC?token=live
+#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png",FOX
+http://str1.cvtv.xyz/FOX?token=live
+#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png",BBC One
+http://str1.cvtv.xyz/BBC1?token=live
+#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
+http://str1.cvtv.xyz/BBC2?token=live
+#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News
+http://str1.cvtv.xyz/BBCN?token=live
+#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BBC_Parliament_2022.svg/2880px-BBC_Parliament_2022.svg.png",BBC Parliament
+http://92.114.85.81:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1920px-ITV1_logo_%282022%29.svg.png",ITV1
+http://str1.cvtv.xyz/ITV?token=live
+#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/1200px-Channel_4_logo_2015.svg.png",Channel 4
+http://str1.cvtv.xyz/Channel4?token=live
+#EXTINF:-1 group-title="STR SERVER" tvg-logo="hhttps://static.wikia.nocookie.net/logopedia/images/9/9d/Channel_5_2016.svg/revision/latest/scale-to-width-down/150?cb=20160211232158",Channel 5
+http://92.114.85.81:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1920px-ITV2_logo_2022.svg.png",ITV2
+http://str1.cvtv.xyz/ITV2?token=live
+#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1200px-ITV3_logo_2022.svg.png",ITV3
+http://str1.cvtv.xyz/ITV3?token=live
+#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/1920px-ITV4_logo_%282022%29.svg.png",ITV4
+http://str1.cvtv.xyz/ITV4?token=live
+#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CBBC_%282023%29.svg/1920px-CBBC_%282023%29.svg.png",CBBC
+http://str1.cvtv.xyz/CBBC?token=live
+#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/1200px-S4C_logo_2014.svg.png",S4C
+http://str1.cvtv.xyz/S4C?token=live
+#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BBC_Red_Button_2021.svg/2560px-BBC_Red_Button_2021.svg.png",BBC RB 1
+http://str1.cvtv.xyz/BBC_RB?token=live
+#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",Sky News
+http://str1.cvtv.xyz/SkyN?token=live
+
+#EXTINF:-1 group-title="STR SERVER" tvg-id="10hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png",10 HD
+http://str1.cvtv.xyz/10HD?token=live
+#EXTINF:-1 group-title="STR SERVER" tvg-id="10bold" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/10_Bold_2018.svg/1200px-10_Bold_2018.svg.png",10 Bold
+http://str1.cvtv.xyz/10B?token=live
+#EXTINF:-1 group-title="STR SERVER" tvg-id="7hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/1200px-Seven_Network_logo.svg.png",7HD
+http://str1.cvtv.xyz/7HD?token=live
+#EXTINF:-1 group-title="STR SERVER" tvg-id="9hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nine_Network_logo_%282008%29.svg/1000px-Nine_Network_logo_%282008%29.svg.png",9HD
+http://str1.cvtv.xyz/9HD?token=live
+#EXTINF:-1 group-title="STR SERVER" tvg-id="9gem" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem
+http://str1.cvtv.xyz/9G?token=live
+
+#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png",NBC
+http://str1.cvtv.xyz/NBC?token=live
+#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png",CBS
+http://str1.cvtv.xyz/CBS?token=live
+#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png",ABC
+http://str1.cvtv.xyz/ABC?token=live
+#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png",FOX
+http://str1.cvtv.xyz/FOX?token=live
+
+
+
+
 
 
 
