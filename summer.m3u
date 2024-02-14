@@ -1,1029 +1,1255 @@
 #EXTM3U
-#EXTINF:-1 group-title="24/7轮播" tvg-id="" tvg-logo="",24/7 DRAGON BALL Z
-http://cord-cutter.net:8080/jesus1/jesus1/79572
-#EXTINF:-1 group-title="24/7轮播" tvg-id="" tvg-logo="",Knight Rider*
-http://cord-cutter.net:8080/jesus1/jesus1/83700
-#EXTINF:-1 group-title="24/7轮播" tvg-id="" tvg-logo="", Star TV Gold
-http://cord-cutter.net:8080/jesus1/jesus1/99622
-#EXTINF:-1 group-title="24/7轮播" tvg-id="" tvg-logo="",24/7 Horror Movies
-http://cord-cutter.net:8080/jesus1/jesus1/119429
-#EXTINF:-1 group-title="24/7轮播" tvg-id="" tvg-logo="",24/7 COMEDY MOVIES
-http://cord-cutter.net:8080/jesus1/jesus1/121096
-#EXTINF:-1 group-title="24/7轮播" tvg-id="" tvg-logo="",24/7 STAR TREK
-http://cord-cutter.net:8080/jesus1/jesus1/121115
-#EXTINF:-1 group-title="24/7轮播" tvg-id="" tvg-logo="",24/7 GUNSMOKE
-http://cord-cutter.net:8080/jesus1/jesus1/140069
-#EXTINF:-1 group-title="24/7轮播" tvg-id="" tvg-logo="",24/7 UFC
-http://cord-cutter.net:8080/jesus1/jesus1/146291
+#EXTM3U url-tvg="https://epg.mammothtv.my.id/local/epg.xml,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/arabiapremiumeng.xml,https://www.bevy.be/bevyfiles/australia.xml,https://www.bevy.be/bevyfiles/germany.xml,https://www.bevy.be/bevyfiles/india.xml,https://www.bevy.be/bevyfiles/poland.xml,https://www.bevy.be/bevyfiles/russia.xml,https://www.bevy.be/bevyfiles/serbia.xml,https://www.bevy.be/bevyfiles/southafricapremium.xml" refresh="3600"
+
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x412:1080x1132/0x0/webp/photo/p2/130/2024/01/08/IMG_2242-201837175.jpeg" group-title="ASIAN CUP " , AFC QATAR 3 (1080p) 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d31e0ee60e034e228e7f219650c0d6e2:c50c247d5a34c1fbd565ad31886287cb 
+https://do2ibj89ih8kz.cloudfront.net/out/v1/64a59477c5d34afba754e763bb12ac81/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x412:1080x1132/0x0/webp/photo/p2/130/2024/01/08/IMG_2242-201837175.jpeg" group-title="ASIAN CUP " , AFC QATAR 1 (720p) 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5 
+https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x412:1080x1132/0x0/webp/photo/p2/130/2024/01/08/IMG_2242-201837175.jpeg" group-title="ASIAN CUP ", AFC QATAR 2 (720p) 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5 
+https://do2ibj89ih8kz.cloudfront.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x412:1080x1132/0x0/webp/photo/p2/130/2024/01/08/IMG_2242-201837175.jpeg" group-title="ASIAN CUP " , AFC QATAR 5 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f 
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
 
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: ANIMATION
-http://cord-cutter.net:8080/jesus1/jesus1/119420
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: BLOCKBUSTERS
-http://cord-cutter.net:8080/jesus1/jesus1/119421
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: CLASSIC
-http://cord-cutter.net:8080/jesus1/jesus1/119422
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: COMEDY
-http://cord-cutter.net:8080/jesus1/jesus1/119423
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: CULT
-http://cord-cutter.net:8080/jesus1/jesus1/119424
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: FAMILY
-http://cord-cutter.net:8080/jesus1/jesus1/119425
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: GREATS
-http://cord-cutter.net:8080/jesus1/jesus1/119426
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: GREATS TWO
-http://cord-cutter.net:8080/jesus1/jesus1/119427
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: HISTORICAL
-http://cord-cutter.net:8080/jesus1/jesus1/119428
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: MUSICAL
-http://cord-cutter.net:8080/jesus1/jesus1/119430
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: MYSTERY
-http://cord-cutter.net:8080/jesus1/jesus1/119431
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: PREMIERE
-http://cord-cutter.net:8080/jesus1/jesus1/119432
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: ROMANCE
-http://cord-cutter.net:8080/jesus1/jesus1/119433
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: SCI-FI
-http://cord-cutter.net:8080/jesus1/jesus1/119434
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: WESTERN
-http://cord-cutter.net:8080/jesus1/jesus1/119435
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: HITS
-http://cord-cutter.net:8080/jesus1/jesus1/119436
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: THRILLER
-http://cord-cutter.net:8080/jesus1/jesus1/119437
-#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: 7NEWS SPOTLIGHT
-http://cord-cutter.net:8080/jesus1/jesus1/119438
-#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: ALL DOCUMENTERY
-http://cord-cutter.net:8080/jesus1/jesus1/119439
-#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: DISCOVERY
-http://cord-cutter.net:8080/jesus1/jesus1/119440
-#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: DW DOCUMENTERY
-http://cord-cutter.net:8080/jesus1/jesus1/119441
-#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: FREE DOCUMENTERY
-http://cord-cutter.net:8080/jesus1/jesus1/119442
-#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: FREE DOCUMENTERY ANILAMS
-http://cord-cutter.net:8080/jesus1/jesus1/119443
-#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: NAT GEO WILD
-http://cord-cutter.net:8080/jesus1/jesus1/119447
-#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: NETFLIX
-http://cord-cutter.net:8080/jesus1/jesus1/119448
-#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: REAL CRIME
-http://cord-cutter.net:8080/jesus1/jesus1/119449
-#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: REAL WILD
-http://cord-cutter.net:8080/jesus1/jesus1/119451
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVHpGRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="HBO HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="HBO GROUP", HBO - MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US MTV Classic (A)
-http://cord-cutter.net:8080/jesus1/jesus1/53734
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US FOX Sports 1 
-http://cord-cutter.net:8080/jesus1/jesus1/46792
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Bally Sports Florida (A)
-http://cord-cutter.net:8080/jesus1/jesus1/46794
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Willow Cricket (X)
-http://cord-cutter.net:8080/jesus1/jesus1/41979
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US SONY Movies FHD 
-http://cord-cutter.net:8080/jesus1/jesus1/2214
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Bally Sports Southeast (A)
-http://cord-cutter.net:8080/jesus1/jesus1/81111
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CHARGE! (S)
-http://cord-cutter.net:8080/jesus1/jesus1/79594
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Disney Channel East (A)
-http://cord-cutter.net:8080/jesus1/jesus1/2206
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US: Disney XD
-http://cord-cutter.net:8080/jesus1/jesus1/75621
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Lifetime Movies 
-http://cord-cutter.net:8080/jesus1/jesus1/20863
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC Sports Network (F)
-http://cord-cutter.net:8080/jesus1/jesus1/46725
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NickToons 
-http://cord-cutter.net:8080/jesus1/jesus1/36
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US STARZ ENCORE Black
-http://cord-cutter.net:8080/jesus1/jesus1/16141
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",LAT: TELEMUNDO 51 MIAMI HD
-http://cord-cutter.net:8080/jesus1/jesus1/56410
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US: WWE NETWORK
-http://cord-cutter.net:8080/jesus1/jesus1/11645
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",Pluto (US) Western TV (D)
-http://cord-cutter.net:8080/jesus1/jesus1/121128
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Root Sports Northwest 
-http://cord-cutter.net:8080/jesus1/jesus1/20942
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC (KXAN) Austin (F)
-http://cord-cutter.net:8080/jesus1/jesus1/17749
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Bally Sports Detroit (A)
-http://cord-cutter.net:8080/jesus1/jesus1/20930
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Bally Sports Arizona Plus (H)
-http://cord-cutter.net:8080/jesus1/jesus1/41840
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Bally Sports Midwest (A)
-http://cord-cutter.net:8080/jesus1/jesus1/66795
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Bally Sports Oklahoma (A)
-http://cord-cutter.net:8080/jesus1/jesus1/20934
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Bally Sports Southeast 
-http://cord-cutter.net:8080/jesus1/jesus1/2213
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Bally Sports Southwest (A)
-http://cord-cutter.net:8080/jesus1/jesus1/21843
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Bally Sports West 
-http://cord-cutter.net:8080/jesus1/jesus1/20932
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Bally Sports Wisconsin 
-http://cord-cutter.net:8080/jesus1/jesus1/78599
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA-Disney Jr
-http://cord-cutter.net:8080/jesus1/jesus1/41960
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US ESPN NEWS
-http://cord-cutter.net:8080/jesus1/jesus1/17707
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Fox Soccer Plus (F)
-http://cord-cutter.net:8080/jesus1/jesus1/10458
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Bally Sports North (A)
-http://cord-cutter.net:8080/jesus1/jesus1/58827
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Bally Sports San Diego 
-http://cord-cutter.net:8080/jesus1/jesus1/20935
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Bally Sports Detroit 
-http://cord-cutter.net:8080/jesus1/jesus1/20936
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Bally Sports Ohio (A)
-http://cord-cutter.net:8080/jesus1/jesus1/17752
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US MASN (A)
-http://cord-cutter.net:8080/jesus1/jesus1/65697
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US MASN2 (A)
-http://cord-cutter.net:8080/jesus1/jesus1/65698
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US MSG2 (F)
-http://cord-cutter.net:8080/jesus1/jesus1/21089
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC Sports Bay Area (A)
-http://cord-cutter.net:8080/jesus1/jesus1/9900
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC Sports Boston (A)
-http://cord-cutter.net:8080/jesus1/jesus1/20939
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC Sports California (A)
-http://cord-cutter.net:8080/jesus1/jesus1/20940
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC Sports Chicago (A)
-http://cord-cutter.net:8080/jesus1/jesus1/20941
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC Sports Network (FHD) 
-http://cord-cutter.net:8080/jesus1/jesus1/20926
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC Sports Philly (F)
-http://cord-cutter.net:8080/jesus1/jesus1/20943
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC Sports Washington (F)
-http://cord-cutter.net:8080/jesus1/jesus1/20944
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NESN (F)
-http://cord-cutter.net:8080/jesus1/jesus1/31637
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Nickelodeon East (A)
-http://cord-cutter.net:8080/jesus1/jesus1/38
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Olympic Channel HD (A)
-http://cord-cutter.net:8080/jesus1/jesus1/10506
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US PAC12 Mountain (F)
-http://cord-cutter.net:8080/jesus1/jesus1/16493
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US PAC12 Washington (F)
-http://cord-cutter.net:8080/jesus1/jesus1/16571
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US ESPN SEC Network 
-http://cord-cutter.net:8080/jesus1/jesus1/17608
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Spectrum SportsNet LA Dodgers (HD) 
-http://cord-cutter.net:8080/jesus1/jesus1/31636
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Spectrum SportsNet Lakers (FHD) 
-http://cord-cutter.net:8080/jesus1/jesus1/21842
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Tennis Channel
-http://cord-cutter.net:8080/jesus1/jesus1/20184
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US YES Network
-http://cord-cutter.net:8080/jesus1/jesus1/57972
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US  Court TV
-http://cord-cutter.net:8080/jesus1/jesus1/21092
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Pop 
-http://cord-cutter.net:8080/jesus1/jesus1/20976
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA:  Showtime NEXT
-http://cord-cutter.net:8080/jesus1/jesus1/9316
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA:  STARZ EDGE 
-http://cord-cutter.net:8080/jesus1/jesus1/16143
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US UniMas   (F)
-http://cord-cutter.net:8080/jesus1/jesus1/57969
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Univision (East) (SP)
-http://cord-cutter.net:8080/jesus1/jesus1/15336
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Spectrum SportsNet Lakers (FHD) 
-http://cord-cutter.net:8080/jesus1/jesus1/20946
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US 5 StarMax
-http://cord-cutter.net:8080/jesus1/jesus1/13381
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA: A&E
-http://cord-cutter.net:8080/jesus1/jesus1/59056
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US A&E (A)
-http://cord-cutter.net:8080/jesus1/jesus1/2201
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA: ABC
-http://cord-cutter.net:8080/jesus1/jesus1/22990
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US ACC Network (A)
-http://cord-cutter.net:8080/jesus1/jesus1/9273
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US ActionMAX (East) 
-http://cord-cutter.net:8080/jesus1/jesus1/21013
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Altitude Sports HD (A)
-http://cord-cutter.net:8080/jesus1/jesus1/79545
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US AMC 
-http://cord-cutter.net:8080/jesus1/jesus1/18925
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US American Heroes Channel (V)
-http://cord-cutter.net:8080/jesus1/jesus1/10456
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Animal Planet (A)
-http://cord-cutter.net:8080/jesus1/jesus1/17870
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Antenna TV 
-http://cord-cutter.net:8080/jesus1/jesus1/20180
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Aspire (A)
-http://cord-cutter.net:8080/jesus1/jesus1/21927
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US AT&T Sportsnet Rocky Mountain 
-http://cord-cutter.net:8080/jesus1/jesus1/20927
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US AXS TV 
-http://cord-cutter.net:8080/jesus1/jesus1/48324
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA: Baby First HD
-http://cord-cutter.net:8080/jesus1/jesus1/58765
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US BBC America (A)
-http://cord-cutter.net:8080/jesus1/jesus1/20194
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US BET (East) 
-http://cord-cutter.net:8080/jesus1/jesus1/46703
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA: Bet Gospel
-http://cord-cutter.net:8080/jesus1/jesus1/66080
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US BET (East)  
-http://cord-cutter.net:8080/jesus1/jesus1/13702
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA: BET SOUL
-http://cord-cutter.net:8080/jesus1/jesus1/21844
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Big Ten HD
-http://cord-cutter.net:8080/jesus1/jesus1/9828
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Bloomberg
-http://cord-cutter.net:8080/jesus1/jesus1/15158
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Boomerang (H)
-http://cord-cutter.net:8080/jesus1/jesus1/14741
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Bounce XL 
-http://cord-cutter.net:8080/jesus1/jesus1/48323
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Bravo (East)   
-http://cord-cutter.net:8080/jesus1/jesus1/20859
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US BUZZR (STV)
-http://cord-cutter.net:8080/jesus1/jesus1/21896
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Cartoon Network 
-http://cord-cutter.net:8080/jesus1/jesus1/46708
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS Sports Network HD 
-http://cord-cutter.net:8080/jesus1/jesus1/10454
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS News (H)
-http://cord-cutter.net:8080/jesus1/jesus1/21259
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Cinemax (East) 
-http://cord-cutter.net:8080/jesus1/jesus1/13380
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA: CMT
-http://cord-cutter.net:8080/jesus1/jesus1/46706
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA: CMT HD
-http://cord-cutter.net:8080/jesus1/jesus1/10476
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CNBC 
-http://cord-cutter.net:8080/jesus1/jesus1/9815
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CNBC World
-http://cord-cutter.net:8080/jesus1/jesus1/20860
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CNN 
-http://cord-cutter.net:8080/jesus1/jesus1/1817
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CNN 
-http://cord-cutter.net:8080/jesus1/jesus1/104884
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Comedy Central (East) (F)
-http://cord-cutter.net:8080/jesus1/jesus1/7466
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Comet (S)
-http://cord-cutter.net:8080/jesus1/jesus1/66244
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Cooking Channel 
-http://cord-cutter.net:8080/jesus1/jesus1/9229
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Cozi (H)
-http://cord-cutter.net:8080/jesus1/jesus1/11868
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Decades (WMLW) (SP)
-http://cord-cutter.net:8080/jesus1/jesus1/20189
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Destination America (A)
-http://cord-cutter.net:8080/jesus1/jesus1/14222
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Discovery Channel (East)
-http://cord-cutter.net:8080/jesus1/jesus1/46720
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Discovery Channel East 
-http://cord-cutter.net:8080/jesus1/jesus1/9811
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA: DISCOVERY FAMILY
-http://cord-cutter.net:8080/jesus1/jesus1/10538
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA: Discovery Life HD
-http://cord-cutter.net:8080/jesus1/jesus1/9861
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US DIY Network 
-http://cord-cutter.net:8080/jesus1/jesus1/10503
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA: DOGTV
-http://cord-cutter.net:8080/jesus1/jesus1/53539
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US E! Entertainment Television East (A)
-http://cord-cutter.net:8080/jesus1/jesus1/11651
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US EPIX (East) 
-http://cord-cutter.net:8080/jesus1/jesus1/13214
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Epix Drive IN (S)
-http://cord-cutter.net:8080/jesus1/jesus1/14193
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA: Epix Hits
-http://cord-cutter.net:8080/jesus1/jesus1/12744
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US EPIX2 (East)
-http://cord-cutter.net:8080/jesus1/jesus1/12730
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US ESPN 2 
-http://cord-cutter.net:8080/jesus1/jesus1/2210
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US ESPN 1 (HD) 
-http://cord-cutter.net:8080/jesus1/jesus1/14197
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US ESPN 1 (HD) 
-http://cord-cutter.net:8080/jesus1/jesus1/9802
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US ESPNU College Sports 
-http://cord-cutter.net:8080/jesus1/jesus1/10255
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA: Food Network HD
-http://cord-cutter.net:8080/jesus1/jesus1/7323
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Fox Business Network
-http://cord-cutter.net:8080/jesus1/jesus1/17639
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Fox News  (F)
-http://cord-cutter.net:8080/jesus1/jesus1/1818
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Fox Sports 1 
-http://cord-cutter.net:8080/jesus1/jesus1/1846
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Fox Sports 2 (A)
-http://cord-cutter.net:8080/jesus1/jesus1/1847
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Bally Sports Arizona (A)
-http://cord-cutter.net:8080/jesus1/jesus1/20928
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Bally Sports Carolinas (A)
-http://cord-cutter.net:8080/jesus1/jesus1/20929
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Bally Sports Southeast (A)
-http://cord-cutter.net:8080/jesus1/jesus1/20931
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Bally Sports South (A)
-http://cord-cutter.net:8080/jesus1/jesus1/20922
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Freeform East
-http://cord-cutter.net:8080/jesus1/jesus1/13370
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Fuse (A)
-http://cord-cutter.net:8080/jesus1/jesus1/46701
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US FX East 
-http://cord-cutter.net:8080/jesus1/jesus1/46690
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US FXM 
-http://cord-cutter.net:8080/jesus1/jesus1/10260
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US FXX (East) 
-http://cord-cutter.net:8080/jesus1/jesus1/46699
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US FYI
-http://cord-cutter.net:8080/jesus1/jesus1/9240
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Latin Galavision
-http://cord-cutter.net:8080/jesus1/jesus1/58770
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US GetTV 
-http://cord-cutter.net:8080/jesus1/jesus1/18366
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Great American Country 
-http://cord-cutter.net:8080/jesus1/jesus1/17640
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Grit TV
-http://cord-cutter.net:8080/jesus1/jesus1/20861
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Hallmark Channel
-http://cord-cutter.net:8080/jesus1/jesus1/46719
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Hallmark Drama 
-http://cord-cutter.net:8080/jesus1/jesus1/9307
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Hallmark Movies & Mysteries 
-http://cord-cutter.net:8080/jesus1/jesus1/10289
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US HBO East HD  (A)
-http://cord-cutter.net:8080/jesus1/jesus1/46713
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US HBO 
-http://cord-cutter.net:8080/jesus1/jesus1/9264
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US HBO 2 (A)
-http://cord-cutter.net:8080/jesus1/jesus1/9816
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US HBO Comedy (East) 
-http://cord-cutter.net:8080/jesus1/jesus1/17773
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US HBO Family (East) 
-http://cord-cutter.net:8080/jesus1/jesus1/17772
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US HBO SIGNATURE (East) 
-http://cord-cutter.net:8080/jesus1/jesus1/9266
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US HBO Zone (East) (H)
-http://cord-cutter.net:8080/jesus1/jesus1/9265
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US HDNET MOVIES 
-http://cord-cutter.net:8080/jesus1/jesus1/16265
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Heroes & Icons (Los Angeles) (L)
-http://cord-cutter.net:8080/jesus1/jesus1/66087
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US HGTV (East) 
-http://cord-cutter.net:8080/jesus1/jesus1/46717
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US HISTORY 
-http://cord-cutter.net:8080/jesus1/jesus1/46724
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US History Channel 
-http://cord-cutter.net:8080/jesus1/jesus1/15017
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US HLN (A)
-http://cord-cutter.net:8080/jesus1/jesus1/17748
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US IFC 
-http://cord-cutter.net:8080/jesus1/jesus1/9272
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US insp 
-http://cord-cutter.net:8080/jesus1/jesus1/16262
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US ID Investigation Discovery 
-http://cord-cutter.net:8080/jesus1/jesus1/46810
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US ION 
-http://cord-cutter.net:8080/jesus1/jesus1/9297
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Laff (KNVA)
-http://cord-cutter.net:8080/jesus1/jesus1/17777
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Lifetime 
-http://cord-cutter.net:8080/jesus1/jesus1/46714
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Lifetime (H)
-http://cord-cutter.net:8080/jesus1/jesus1/9275
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Lifetime Movie
-http://cord-cutter.net:8080/jesus1/jesus1/2208
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA: LOGO TV
-http://cord-cutter.net:8080/jesus1/jesus1/20862
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Marquee Sports Network (HD) (A)
-http://cord-cutter.net:8080/jesus1/jesus1/13379
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US MAV TV (F)
-http://cord-cutter.net:8080/jesus1/jesus1/20977
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US MeTV Network East
-http://cord-cutter.net:8080/jesus1/jesus1/16149
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US More Max 
-http://cord-cutter.net:8080/jesus1/jesus1/17776
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US MotorTrend (A)
-http://cord-cutter.net:8080/jesus1/jesus1/10399
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US MovieMAX (East) (H)
-http://cord-cutter.net:8080/jesus1/jesus1/13480
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US MoviePlex (East) (H)
-http://cord-cutter.net:8080/jesus1/jesus1/1829
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US MSG Plus 
-http://cord-cutter.net:8080/jesus1/jesus1/9276
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US MSG (A)
-http://cord-cutter.net:8080/jesus1/jesus1/21090
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US MSNBC (F)
-http://cord-cutter.net:8080/jesus1/jesus1/21376
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US MSNBC 
-http://cord-cutter.net:8080/jesus1/jesus1/9296
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US MTV 
-http://cord-cutter.net:8080/jesus1/jesus1/9818
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US MTV2 
-http://cord-cutter.net:8080/jesus1/jesus1/9308
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Nat Geo Wild East (A)
-http://cord-cutter.net:8080/jesus1/jesus1/11664
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US National Geographic 
-http://cord-cutter.net:8080/jesus1/jesus1/46722
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US National Geographic (East) 
-http://cord-cutter.net:8080/jesus1/jesus1/9277
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Latin TUDN (A)
-http://cord-cutter.net:8080/jesus1/jesus1/21644
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA: NBA TV
-http://cord-cutter.net:8080/jesus1/jesus1/20073
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA: NBC
-http://cord-cutter.net:8080/jesus1/jesus1/46687
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Golf Channel 
-http://cord-cutter.net:8080/jesus1/jesus1/9806
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NESN  (A)
-http://cord-cutter.net:8080/jesus1/jesus1/46726
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Newsmax TV 
-http://cord-cutter.net:8080/jesus1/jesus1/18939
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NHL Network 
-http://cord-cutter.net:8080/jesus1/jesus1/20179
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Nick Jr 
-http://cord-cutter.net:8080/jesus1/jesus1/46710
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Nick JR East (A) 
-http://cord-cutter.net:8080/jesus1/jesus1/9807
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA: NTD NEWS. 
-http://cord-cutter.net:8080/jesus1/jesus1/53527
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US One America News
-http://cord-cutter.net:8080/jesus1/jesus1/21752
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Outdoor Channel
-http://cord-cutter.net:8080/jesus1/jesus1/9244
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Cinemax Outermax (X)
-http://cord-cutter.net:8080/jesus1/jesus1/21012
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA: OUTSIDE TV
-http://cord-cutter.net:8080/jesus1/jesus1/20865
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA: OWN
-http://cord-cutter.net:8080/jesus1/jesus1/46698
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US OWN 
-http://cord-cutter.net:8080/jesus1/jesus1/9231
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Oxygen (A)
-http://cord-cutter.net:8080/jesus1/jesus1/46695
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Oxygen (East)   (F)
-http://cord-cutter.net:8080/jesus1/jesus1/9245
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US PAC12 Arizona (F)
-http://cord-cutter.net:8080/jesus1/jesus1/16490
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US PAC12 BayArea (F)
-http://cord-cutter.net:8080/jesus1/jesus1/16491
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US PAC12 LosAngeles (F)
-http://cord-cutter.net:8080/jesus1/jesus1/16492
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US PAC12 Network (F)
-http://cord-cutter.net:8080/jesus1/jesus1/16494
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US PAC12 Oregon (F)
-http://cord-cutter.net:8080/jesus1/jesus1/16532
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Paramount Network 
-http://cord-cutter.net:8080/jesus1/jesus1/16201
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Paramount Network (S)
-http://cord-cutter.net:8080/jesus1/jesus1/46694
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Paramount TV (s)
-http://cord-cutter.net:8080/jesus1/jesus1/10464
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US PixL (S)
-http://cord-cutter.net:8080/jesus1/jesus1/21648
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Pursuit UP (STV)
-http://cord-cutter.net:8080/jesus1/jesus1/22888
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Reelz 
-http://cord-cutter.net:8080/jesus1/jesus1/10526
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US RetroPlex (East) (H)
-http://cord-cutter.net:8080/jesus1/jesus1/66379
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Revolt 
-http://cord-cutter.net:8080/jesus1/jesus1/39276
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US RFD-TV 
-http://cord-cutter.net:8080/jesus1/jesus1/17868
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US GAC Living (S)
-http://cord-cutter.net:8080/jesus1/jesus1/75654
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA: AMC Thrillers
-http://cord-cutter.net:8080/jesus1/jesus1/66243
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Discovery Science (A)
-http://cord-cutter.net:8080/jesus1/jesus1/20866
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Showtime East 
-http://cord-cutter.net:8080/jesus1/jesus1/46214
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Showtime 2 (East) (H)
-http://cord-cutter.net:8080/jesus1/jesus1/13219
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Showtime Extreme (East) (SP)
-http://cord-cutter.net:8080/jesus1/jesus1/13220
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Showtime Family Zone (East) 
-http://cord-cutter.net:8080/jesus1/jesus1/13481
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Showtime Women (East) (H)
-http://cord-cutter.net:8080/jesus1/jesus1/17778
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Smithsonian Channel (East)   (F)
-http://cord-cutter.net:8080/jesus1/jesus1/31150
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Sportsnet New York (SNY) (A)
-http://cord-cutter.net:8080/jesus1/jesus1/20938
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Sportsman Channel (A)
-http://cord-cutter.net:8080/jesus1/jesus1/79913
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Starz Cinema (East) 
-http://cord-cutter.net:8080/jesus1/jesus1/17775
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Starz Cinema (East) (H)
-http://cord-cutter.net:8080/jesus1/jesus1/9301
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Starz East (S)
-http://cord-cutter.net:8080/jesus1/jesus1/9299
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Starz Encore Westerns (East) 
-http://cord-cutter.net:8080/jesus1/jesus1/16263
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Starz in Black (East) (H)
-http://cord-cutter.net:8080/jesus1/jesus1/17779
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Starz West (S)
-http://cord-cutter.net:8080/jesus1/jesus1/21091
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US SUNDANCE 
-http://cord-cutter.net:8080/jesus1/jesus1/46712
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Syfy (East)   (F)
-http://cord-cutter.net:8080/jesus1/jesus1/46685
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US TBN 
-http://cord-cutter.net:8080/jesus1/jesus1/21895
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US TBS 
-http://cord-cutter.net:8080/jesus1/jesus1/20867
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Golf Channel 
-http://cord-cutter.net:8080/jesus1/jesus1/46728
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US The Weather Channel (A)
-http://cord-cutter.net:8080/jesus1/jesus1/18926
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US ThrillerMax (East)
-http://cord-cutter.net:8080/jesus1/jesus1/17774
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US TLC (East)  (F)
-http://cord-cutter.net:8080/jesus1/jesus1/46691
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US TLC East (F)
-http://cord-cutter.net:8080/jesus1/jesus1/12734
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US TLC (West)   (F)
-http://cord-cutter.net:8080/jesus1/jesus1/47703
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US TNT (West) 
-http://cord-cutter.net:8080/jesus1/jesus1/46688
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US TNT East 
-http://cord-cutter.net:8080/jesus1/jesus1/10455
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Travel Channel East 
-http://cord-cutter.net:8080/jesus1/jesus1/9315
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US TRUTV East 
-http://cord-cutter.net:8080/jesus1/jesus1/10224
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Latin TUDN (A)
-http://cord-cutter.net:8080/jesus1/jesus1/11885
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US TV Land 
-http://cord-cutter.net:8080/jesus1/jesus1/46696
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA: TV Land Classic HD
-http://cord-cutter.net:8080/jesus1/jesus1/9271
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US TV One 
-http://cord-cutter.net:8080/jesus1/jesus1/20868
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US TVG Network 
-http://cord-cutter.net:8080/jesus1/jesus1/10259
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US TVG2 Network (F)
-http://cord-cutter.net:8080/jesus1/jesus1/18940
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Universal Kids (A)
-http://cord-cutter.net:8080/jesus1/jesus1/9235
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Univision (East) (SP)
-http://cord-cutter.net:8080/jesus1/jesus1/46692
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Up TV (SP)
-http://cord-cutter.net:8080/jesus1/jesus1/10525
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US USA Network (East)  
-http://cord-cutter.net:8080/jesus1/jesus1/10252
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US VH1 (East) 
-http://cord-cutter.net:8080/jesus1/jesus1/46705
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US VH1 
-http://cord-cutter.net:8080/jesus1/jesus1/7404
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US VICELAND 
-http://cord-cutter.net:8080/jesus1/jesus1/46697
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US VSiN (F)
-http://cord-cutter.net:8080/jesus1/jesus1/18941
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US WAPA America 
-http://cord-cutter.net:8080/jesus1/jesus1/76481
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US WE tv 
-http://cord-cutter.net:8080/jesus1/jesus1/9237
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US World Fishing Network (F)
-http://cord-cutter.net:8080/jesus1/jesus1/10477
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US TUDN (SP)
-http://cord-cutter.net:8080/jesus1/jesus1/82241
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NFL Network 
-http://cord-cutter.net:8080/jesus1/jesus1/83724
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Root Sports 
-http://cord-cutter.net:8080/jesus1/jesus1/85232
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US AT&T SportsNet Pittsburgh
-http://cord-cutter.net:8080/jesus1/jesus1/108178
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Latin Univision 
-http://cord-cutter.net:8080/jesus1/jesus1/108248
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS 7 (WDBJ) Roanoke 
-http://cord-cutter.net:8080/jesus1/jesus1/121077
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US ABC 13 (WSET) Lynchburg (H)
-http://cord-cutter.net:8080/jesus1/jesus1/121079
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US abc22 (WJCL) Savannah 
-http://cord-cutter.net:8080/jesus1/jesus1/121080
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC (WSAV) 
-http://cord-cutter.net:8080/jesus1/jesus1/121081
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS (WTOC) Savannah (F)
-http://cord-cutter.net:8080/jesus1/jesus1/121082
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US abc 45 (WXLV) Greensboro/High Point/Winston-Salem (A)
-http://cord-cutter.net:8080/jesus1/jesus1/121083
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC 12 (WXII) Greensboro/High Point/Winston-Salem (H)
-http://cord-cutter.net:8080/jesus1/jesus1/121086
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US True Crime Network (KARE) (SP)
-http://cord-cutter.net:8080/jesus1/jesus1/121130
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS (WFMY) Greensboro (F)
-http://cord-cutter.net:8080/jesus1/jesus1/121131
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US FOX (WGHP) High Point (F)
-http://cord-cutter.net:8080/jesus1/jesus1/121132
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC (WXII) Winston-salem 
-http://cord-cutter.net:8080/jesus1/jesus1/121133
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US FOX 5 (WAGA) Atlanta 
-http://cord-cutter.net:8080/jesus1/jesus1/121135
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC (WXIA) Atlanta (F)
-http://cord-cutter.net:8080/jesus1/jesus1/121136
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US abc 8 (WFAA) Dallas (Y)
-http://cord-cutter.net:8080/jesus1/jesus1/121138
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US abc 7 (WABC) New York (A)
-http://cord-cutter.net:8080/jesus1/jesus1/121139
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS 11 (KTVT) DALLAS (Y)
-http://cord-cutter.net:8080/jesus1/jesus1/121140
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US abc 13 (KTRK) Houston (A)
-http://cord-cutter.net:8080/jesus1/jesus1/121141
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC South Florida News (PC)
-http://cord-cutter.net:8080/jesus1/jesus1/121142
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US PBS South Florida West Palm Beach/Fort Pierce (Y)
-http://cord-cutter.net:8080/jesus1/jesus1/121143
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS (WKMG)
-http://cord-cutter.net:8080/jesus1/jesus1/121144
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US abc9 (WFTV) Orlando 
-http://cord-cutter.net:8080/jesus1/jesus1/121145
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC 2 (WESH) ORLANDO 
-http://cord-cutter.net:8080/jesus1/jesus1/121147
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US FOX 28 (WTGS) Savannah (F)
-http://cord-cutter.net:8080/jesus1/jesus1/121148
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US ABC (WPVI) Philadelphia (F)
-http://cord-cutter.net:8080/jesus1/jesus1/121149
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS (KYW) Philadelphia (F)
-http://cord-cutter.net:8080/jesus1/jesus1/121150
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS 19 ((WOIO)) Cleveland
-http://cord-cutter.net:8080/jesus1/jesus1/121152
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US abc23 (WCVI) Virgin Islands 
-http://cord-cutter.net:8080/jesus1/jesus1/121153
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC 15 (WPMI) Alabama (H)
-http://cord-cutter.net:8080/jesus1/jesus1/121155
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US abc 12 (KSAT) San Antonio 
-http://cord-cutter.net:8080/jesus1/jesus1/121156
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC 4 (WOAI) San Antonio (H)
-http://cord-cutter.net:8080/jesus1/jesus1/121157
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CW 35 (KMYS) San Antonio (Y)
-http://cord-cutter.net:8080/jesus1/jesus1/121158
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US ABC 26 (WGNO) New Orleans 
-http://cord-cutter.net:8080/jesus1/jesus1/121159
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS 32 (WLKY) Louisville 
-http://cord-cutter.net:8080/jesus1/jesus1/121160
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US abc 24 (WATN) Memphis (A)
-http://cord-cutter.net:8080/jesus1/jesus1/121161
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS (WREG) Memphis 
-http://cord-cutter.net:8080/jesus1/jesus1/121162
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CW 8 (KPAX) Missoula (H) 
-http://cord-cutter.net:8080/jesus1/jesus1/121163
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS 4 (WTTV) Indianapolis 
-http://cord-cutter.net:8080/jesus1/jesus1/121166
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US FOX 46 CHARLOTTE (Y)
-http://cord-cutter.net:8080/jesus1/jesus1/121167
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS 3 (WBTV) Charlotte
-http://cord-cutter.net:8080/jesus1/jesus1/121168
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US abc4 (WTAE) Pittsburgh 
-http://cord-cutter.net:8080/jesus1/jesus1/121169
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CW 19 (WPCW) Pittsburgh (Y)
-http://cord-cutter.net:8080/jesus1/jesus1/121170
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US abc 2 (KATU) Portland/Oregon 
-http://cord-cutter.net:8080/jesus1/jesus1/121171
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC 12 (KPNX) PHOENIX, AZ (D)
-http://cord-cutter.net:8080/jesus1/jesus1/121172
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC (KNSD) San Diego
-http://cord-cutter.net:8080/jesus1/jesus1/121173
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS (KFMB) San Diego (F)
-http://cord-cutter.net:8080/jesus1/jesus1/121175
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US abc10 (KGTV) San Diego 
-http://cord-cutter.net:8080/jesus1/jesus1/121176
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CW 8 (KFMB-TV) San Diego (Y)
-http://cord-cutter.net:8080/jesus1/jesus1/121177
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS (KCBS) Los Angeles (F)
-http://cord-cutter.net:8080/jesus1/jesus1/121234
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US abc3 (KESQ) Palm Springs 
-http://cord-cutter.net:8080/jesus1/jesus1/121235
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CW 5 (KESQ-DT8) Palm Springs (H) 
-http://cord-cutter.net:8080/jesus1/jesus1/121236
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC (KMIR) Palm Springs 
-http://cord-cutter.net:8080/jesus1/jesus1/121237
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS (KTXA) Fort Worth  
-http://cord-cutter.net:8080/jesus1/jesus1/121238
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US TXA21 (KTXA) Dallas
-http://cord-cutter.net:8080/jesus1/jesus1/121239
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US MyTV (KDFI)  Dallas
-http://cord-cutter.net:8080/jesus1/jesus1/121240
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC (WTVJ) Miami (F)
-http://cord-cutter.net:8080/jesus1/jesus1/121241
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US FOX (WSVN) Miami (F)
-http://cord-cutter.net:8080/jesus1/jesus1/121242
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS (WFOR) Miami (F)
-http://cord-cutter.net:8080/jesus1/jesus1/121243
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US abc10 (WPLG) Miami 
-http://cord-cutter.net:8080/jesus1/jesus1/121245
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US MY 33 (WBFS) Miami    (F)
-http://cord-cutter.net:8080/jesus1/jesus1/121246
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US abc18 (WDHN) Dothan 
-http://cord-cutter.net:8080/jesus1/jesus1/121593
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US FOX (WFLX) West Palm Beach (F)
-http://cord-cutter.net:8080/jesus1/jesus1/121595
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS 12 (WPEC) West Palm Beach 
-http://cord-cutter.net:8080/jesus1/jesus1/121596
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US ABC 25 (WPBF) West Palm Beach (H)
-http://cord-cutter.net:8080/jesus1/jesus1/121597
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CW 34 (WTVX) West Palm Beach/Fort Pierce (Y)
-http://cord-cutter.net:8080/jesus1/jesus1/121598
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC 6 (WJAC) Johnstown 
-http://cord-cutter.net:8080/jesus1/jesus1/121664
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US abc7 (WLS) Chicago 
-http://cord-cutter.net:8080/jesus1/jesus1/121665
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US ABC 5 (WCVB) Boston (A)
-http://cord-cutter.net:8080/jesus1/jesus1/121745
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC 10 (WBTS) Boston (Y)
-http://cord-cutter.net:8080/jesus1/jesus1/121746
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US abc 4 (WCIV-DT) Charleston 
-http://cord-cutter.net:8080/jesus1/jesus1/121759
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Univision34 (KMEX) Los Angeles 
-http://cord-cutter.net:8080/jesus1/jesus1/121760
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US ABC9 (WSYR) Syracuse
-http://cord-cutter.net:8080/jesus1/jesus1/122002
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US FOX (WSYT) Syracuse (F)
-http://cord-cutter.net:8080/jesus1/jesus1/122003
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS (WTVH) Syracuse (F)
-http://cord-cutter.net:8080/jesus1/jesus1/122004
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC 3 (WSTM) Syracuse (F)
-http://cord-cutter.net:8080/jesus1/jesus1/122005
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS 57 (WYMT-DT) Hazard 
-http://cord-cutter.net:8080/jesus1/jesus1/122006
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS (WKYT) Lexington
-http://cord-cutter.net:8080/jesus1/jesus1/122007
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS 5 (WCSC) Charleston 
-http://cord-cutter.net:8080/jesus1/jesus1/122058
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US ABC (WTVD) HD (SP)
-http://cord-cutter.net:8080/jesus1/jesus1/122064
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US ABC6 (WJBF) Augusta (A)
-http://cord-cutter.net:8080/jesus1/jesus1/122270
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC (WAGT) Augusta (F)
-http://cord-cutter.net:8080/jesus1/jesus1/122271
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS (WRDW) Augusta (F)
-http://cord-cutter.net:8080/jesus1/jesus1/122273
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US WGN 9 (WGNDT) Chicago 
-http://cord-cutter.net:8080/jesus1/jesus1/122274
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS 4 (WTVY) Dothan (H) 
-http://cord-cutter.net:8080/jesus1/jesus1/122275
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US abc8 (WMTW) Portland 
-http://cord-cutter.net:8080/jesus1/jesus1/122276
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US FOX 23 (WPFO) Portland/Auburn (F)
-http://cord-cutter.net:8080/jesus1/jesus1/122278
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US The Cowboy Channel (SP)
-http://cord-cutter.net:8080/jesus1/jesus1/122527
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Telemundo 31 (WTMO) Orlando (F)
-http://cord-cutter.net:8080/jesus1/jesus1/139149
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Bally Sports Great Lake 
-http://cord-cutter.net:8080/jesus1/jesus1/139272
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CW (WUPA) Atlanta 
-http://cord-cutter.net:8080/jesus1/jesus1/139462
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US News 12 Brooklyn 
-http://cord-cutter.net:8080/jesus1/jesus1/167741
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US First Nations Experience (WNEO) (SP)
-http://cord-cutter.net:8080/jesus1/jesus1/139753
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Create (WEDU) 
-http://cord-cutter.net:8080/jesus1/jesus1/139754
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Twist TV (WTSP) (SP)
-http://cord-cutter.net:8080/jesus1/jesus1/139755
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US PBS (WNED) HD (SP)
-http://cord-cutter.net:8080/jesus1/jesus1/139756
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US TeenNick
-http://cord-cutter.net:8080/jesus1/jesus1/140004
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC (WDAM) Laurel (F)
-http://cord-cutter.net:8080/jesus1/jesus1/140399
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Poker Go 
-http://cord-cutter.net:8080/jesus1/jesus1/140814
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US World Poker Tour (HG)
-http://cord-cutter.net:8080/jesus1/jesus1/140815
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS 7 (WNCN) Raleigh/Durham (Y)
-http://cord-cutter.net:8080/jesus1/jesus1/140820
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US PBS (NC-TV) Raleigh/Durham (Y)
-http://cord-cutter.net:8080/jesus1/jesus1/140821
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US UFC  (HD)
-http://cord-cutter.net:8080/jesus1/jesus1/146293
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US WWE Network 
-http://cord-cutter.net:8080/jesus1/jesus1/146294
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US ABC 7 (WBBJ) Jackson (H) 
-http://cord-cutter.net:8080/jesus1/jesus1/147203
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US PBS (WNED) 
-http://cord-cutter.net:8080/jesus1/jesus1/149593
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US PBS (WGBH) MA | Boston 
-http://cord-cutter.net:8080/jesus1/jesus1/149621
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US PBS (WNET) NY | New York (D)
-http://cord-cutter.net:8080/jesus1/jesus1/149622
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US abc7 (WZVN) Fort Myers 
-http://cord-cutter.net:8080/jesus1/jesus1/149745BC: OKLAHOMA CITY KOCO
-http://cord-cutter.net:8080/jesus1/jesus1/154792
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Fox (WVNS) (V)
-http://cord-cutter.net:8080/jesus1/jesus1/158057
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US ABC 12 (KBMT) Port Arthur (H) 
-http://cord-cutter.net:8080/jesus1/jesus1/158060
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US ABC (KSTP) Minneapolis/St. paul (Y)
-http://cord-cutter.net:8080/jesus1/jesus1/158481
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA: NFL NETWORK (1)
-http://cord-cutter.net:8080/jesus1/jesus1/159091
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA: NFL NETWORK (2)
-http://cord-cutter.net:8080/jesus1/jesus1/159117
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA: NFL REDZONE
-http://cord-cutter.net:8080/jesus1/jesus1/159118
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA: NFL REDZONE (2)
-http://cord-cutter.net:8080/jesus1/jesus1/159119
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",NFL REDZONE (US)
-http://cord-cutter.net:8080/jesus1/jesus1/159120
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US News 12 New Jersey 
-http://cord-cutter.net:8080/jesus1/jesus1/159246
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDBaRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="HBO Family HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO GROUP", HBO Hits - MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Real America's Voice (STV)
-http://cord-cutter.net:8080/jesus1/jesus1/160581
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Game Show Network
-http://cord-cutter.net:8080/jesus1/jesus1/120633
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Telemundo (KGLA) Hammond (F)
-http://cord-cutter.net:8080/jesus1/jesus1/120701
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Telemundo (KTMD) Galveston 
-http://cord-cutter.net:8080/jesus1/jesus1/120812
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US GAC Family 
-http://cord-cutter.net:8080/jesus1/jesus1/104877
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Bally Sports Sun 
-http://cord-cutter.net:8080/jesus1/jesus1/104917
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Longhorn Network 
-http://cord-cutter.net:8080/jesus1/jesus1/105257
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US: QVC
-http://cord-cutter.net:8080/jesus1/jesus1/117707
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS (WGCL) Atlanta 
-http://cord-cutter.net:8080/jesus1/jesus1/160715
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US FOXNet Clarksburg (F)
-http://cord-cutter.net:8080/jesus1/jesus1/160728
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC 12 (WBOY) Clarksburg (F)
-http://cord-cutter.net:8080/jesus1/jesus1/160729
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US ABC 6 (WDAY) Fargo (H)
-http://cord-cutter.net:8080/jesus1/jesus1/160730
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US CBS 30 (KXJB) Fargo   (F)
-http://cord-cutter.net:8080/jesus1/jesus1/160731
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NBC (KVLY) Fargo 
-http://cord-cutter.net:8080/jesus1/jesus1/160732
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US FOX (KVRR) Fargo (F)
-http://cord-cutter.net:8080/jesus1/jesus1/160733
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US FOX 6 (WITI) Milwaukee (A)
-http://cord-cutter.net:8080/jesus1/jesus1/161142
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NewsNation 
-http://cord-cutter.net:8080/jesus1/jesus1/161450
-#EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US NESN PLUS (F)
-http://cord-cutter.net:8080/jesus1/jesus1/161451
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://hbohitsmax.openwindows037.workers.dev/
+#EXTINF:0 tvg-id="HBO HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="HBO GROUP", HBO - MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK MOVIES:  SKY HITS
-http://cord-cutter.net:8080/jesus1/jesus1/35255
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK: SKY CINEMA ACTION FHD
-http://cord-cutter.net:8080/jesus1/jesus1/35254
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK MOVIES: SKY CINEMA DRAMA
-http://cord-cutter.net:8080/jesus1/jesus1/35251
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK Sky Cinema Scifi & Horror FHD  
-http://cord-cutter.net:8080/jesus1/jesus1/35248
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK MOVIES: SKY COMEDY
-http://cord-cutter.net:8080/jesus1/jesus1/35253
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK MOVIES: SKY CRIME THRILLER
-http://cord-cutter.net:8080/jesus1/jesus1/35252
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK MOVIES: SKY GREATS
-http://cord-cutter.net:8080/jesus1/jesus1/35249
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK: RTE NEWS
-http://cord-cutter.net:8080/jesus1/jesus1/79108
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-5 
-http://cord-cutter.net:8080/jesus1/jesus1/53675
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Alibi
-http://cord-cutter.net:8080/jesus1/jesus1/59030
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK: BBC NEWS
-http://cord-cutter.net:8080/jesus1/jesus1/53757
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-BBC One
-http://cord-cutter.net:8080/jesus1/jesus1/53649
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-BBC One Scotland
-http://cord-cutter.net:8080/jesus1/jesus1/53755
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK: BBC TWO HD
-http://cord-cutter.net:8080/jesus1/jesus1/53650
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Blaze
-http://cord-cutter.net:8080/jesus1/jesus1/53754
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Boomerang
-http://cord-cutter.net:8080/jesus1/jesus1/53718
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Cartoon Network
-http://cord-cutter.net:8080/jesus1/jesus1/53719
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-CBBC
-http://cord-cutter.net:8080/jesus1/jesus1/53720
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK CBS Reality
-http://cord-cutter.net:8080/jesus1/jesus1/53752
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Channel 5
-http://cord-cutter.net:8080/jesus1/jesus1/53653
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Comedy Central
-http://cord-cutter.net:8080/jesus1/jesus1/53660
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK Crime & Investigation FHD (D)
-http://cord-cutter.net:8080/jesus1/jesus1/53689
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Dave
-http://cord-cutter.net:8080/jesus1/jesus1/53659
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Discovery Channel
-http://cord-cutter.net:8080/jesus1/jesus1/53684
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Discovery History
-http://cord-cutter.net:8080/jesus1/jesus1/53694
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Discovery Science
-http://cord-cutter.net:8080/jesus1/jesus1/53695
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Drama
-http://cord-cutter.net:8080/jesus1/jesus1/53677
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-E4
-http://cord-cutter.net:8080/jesus1/jesus1/53672
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK EuroSport 1 UK (P)
-http://cord-cutter.net:8080/jesus1/jesus1/53713
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Film 4
-http://cord-cutter.net:8080/jesus1/jesus1/53702
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Freesports
-http://cord-cutter.net:8080/jesus1/jesus1/53715
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-H2
-http://cord-cutter.net:8080/jesus1/jesus1/53692
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK History  Channel
-http://cord-cutter.net:8080/jesus1/jesus1/53686
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Home & Health
-http://cord-cutter.net:8080/jesus1/jesus1/53670
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Investigation Discovery
-http://cord-cutter.net:8080/jesus1/jesus1/53687
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-ITV
-http://cord-cutter.net:8080/jesus1/jesus1/53651
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-ITV 3
-http://cord-cutter.net:8080/jesus1/jesus1/53665
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-ITV 4
-http://cord-cutter.net:8080/jesus1/jesus1/53666
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK ITV2 HD 
-http://cord-cutter.net:8080/jesus1/jesus1/53671
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-More4
-http://cord-cutter.net:8080/jesus1/jesus1/53673
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-MTV Hits
-http://cord-cutter.net:8080/jesus1/jesus1/53735
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-MTV UK
-http://cord-cutter.net:8080/jesus1/jesus1/53737
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-MUTV
-http://cord-cutter.net:8080/jesus1/jesus1/53717
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Nat Geo Wild
-http://cord-cutter.net:8080/jesus1/jesus1/53693
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK: NICKELODEON
-http://cord-cutter.net:8080/jesus1/jesus1/53728
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK Premier Sports 1 SD  (P)
-http://cord-cutter.net:8080/jesus1/jesus1/35257
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Quest
-http://cord-cutter.net:8080/jesus1/jesus1/53682
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK: RACING UK
-http://cord-cutter.net:8080/jesus1/jesus1/53741
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Really
-http://cord-cutter.net:8080/jesus1/jesus1/53676
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Sky Cinema Animation
-http://cord-cutter.net:8080/jesus1/jesus1/53698
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Sky Cinema Drama
-http://cord-cutter.net:8080/jesus1/jesus1/53700
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Sky Cinema Family
-http://cord-cutter.net:8080/jesus1/jesus1/53699
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Sky Cinema Premier
-http://cord-cutter.net:8080/jesus1/jesus1/35256
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK Sky Cinema Comedy 
-http://cord-cutter.net:8080/jesus1/jesus1/53661
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK: SKY NEWS
-http://cord-cutter.net:8080/jesus1/jesus1/77166
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Sky Sports Action
-http://cord-cutter.net:8080/jesus1/jesus1/53705
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Sky Sports Arena
-http://cord-cutter.net:8080/jesus1/jesus1/35238
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK Sky Sports F1 FHD (D)
-http://cord-cutter.net:8080/jesus1/jesus1/53704
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK Sky Sports Football 1 (P)
-http://cord-cutter.net:8080/jesus1/jesus1/35239
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK Sky Sports Golf FHD 
-http://cord-cutter.net:8080/jesus1/jesus1/35240
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Sky Sports Main Event
-http://cord-cutter.net:8080/jesus1/jesus1/35243
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK Sky Sports Mix FHD (D)
-http://cord-cutter.net:8080/jesus1/jesus1/53706
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-Sky Sports News
-http://cord-cutter.net:8080/jesus1/jesus1/35241
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK: SKY SP PREMIER LEAGUE FHD
-http://cord-cutter.net:8080/jesus1/jesus1/35242
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK SKY SciFI FHD (D)
-http://cord-cutter.net:8080/jesus1/jesus1/53663
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK- Pop
-http://cord-cutter.net:8080/jesus1/jesus1/53730
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK-TLC
-http://cord-cutter.net:8080/jesus1/jesus1/53681
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK: Channel 4
-http://cord-cutter.net:8080/jesus1/jesus1/99138
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK: SKY 1 HD
-http://cord-cutter.net:8080/jesus1/jesus1/35246
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK Sky Sports Cricket FHD (D)
-http://cord-cutter.net:8080/jesus1/jesus1/45940
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK Sky Sports F1 FHD
-http://cord-cutter.net:8080/jesus1/jesus1/35244
-#EXTINF:-1 group-title="英国" tvg-id="" tvg-logo="",UK: SKY SP RACING FHD
-http://cord-cutter.net:8080/jesus1/jesus1/76842
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDBaRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="HBO Family HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO GROUP", HBO Family - MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 
-#EXTINF:-1, group-title="Olga Bhs Spanyol", ESPN
-http://181.78.8.90:16123/play/ch16
-#EXTINF:-1,group-title="Olga Bhs Spanyol",ESPN2
-http://181.78.8.90:16123/play/ch17
-#EXTINF:-1,group-title="Olga Bhs Spanyol",ESPN3 
-http://181.78.8.90:16123/play/ch18 
-#EXTINF:-1,group-title="Olga Bhs Spanyol",ESPN4 
-http://181.78.8.90:16123/play/ch19 
-#EXTINF:-1,group-title="Olga Bhs Spanyol",FOX SPORTS 2 
-http://181.78.8.90:16123/play/ch20 
-#EXTINF:-1,group-title="Olga Bhs Spanyol",FOX SPORTS 3 
-http://181.78.8.90:16123/play/ch21
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDFNeFJGSk5MREU1TWpFMU5ESXpOVElzWVc1a2NtOXBaQ3d3WDJ0bGIycHFiR0UyIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="HBO Signature HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO GROUP", HBO Signature - MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
-#EXTINF:-1 group-title="Olahraga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJIJ6PJRiyDHbNnaFyh49_P5ZX3Xkf6aK12g&usqp=CAU",JP:UFC
-http://cord-cutter.net:8080/Pdriver204@gmail.com/paul@2022/146291
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRU5KVGtWTlFWaEVVazBzTVRreU1UVTBNak0xTWl4aGJtUnliMmxrTERCZmEyVnZhbXBzWVRZIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="Cinemax HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO GROUP", Cinemax - MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",DAZN / ELEVEN 2 HD (EPL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#https://tv.qreatifku.my.id/nosignal.m3u8
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",DAZN / ELEVEN 3 HD (EPL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#https://tv.qreatifku.my.id/nosignal.m3u8
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",DAZN / ELEVEN 1 HD (EPL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",DAZN / ELEVEN 4 HD (EPL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-057/stream.mpd
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",DAZN / ELEVEN 5 HD (EPL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-058/stream.mpd
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-id="DAZN / ELEVEN" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg",Dazn 2 Espana (EPL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-id="DAZN / ELEVEN" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg",Dazn 1 Espana (EPL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-id="DAZN / ELEVENE" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg",Dazn 2 Germany
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-id="DAZN / ELEVEN" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg",Dazn 1 Germany
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
+
+
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",Eleven Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd?p=web
+
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",Eleven Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd?p=web
+
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",Eleven Sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd?p=web
+
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",Eleven Sports 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd?p=web
+
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",Eleven Sports 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd?p=web
+
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",Eleven Sports 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd?p=web
+
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-id="DAZN / ELEVEN" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",Eleven 1 BE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-050/stream.mpd
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-id="DAZN / ELEVEN" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",Eleven 1 BE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-049/stream.mpd
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-id="DAZN / ELEVEN" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",Eleven 1 FR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-048/stream.mpd
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-id="DAZN / ELEVEN" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",Eleven 1 NL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-047/stream.mpd
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-id="DAZN / ELEVEN" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg",Dazn 1 UK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-045/stream.mpd
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-id="DAZN / ELEVEN" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg",Dazn La Liga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="BeIN Asia",BeIN Sports 1 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png" group-title="BeIN Asia",BeIN Sports 2 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png" group-title="BeIN Asia",BeIN Sports 3 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VSHfjjc/Bein-4.png" group-title="BeIN Asia",BeIN Sports 4 AIS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8z92d2F/Bein-5.png" group-title="BeIN Asia",BeIN Sports 5 AIS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="BeIN Asia",BeIN Sports 6 AIS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/Bein-7.png" group-title="BeIN Asia",BeIN Sports 7 AIS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
+EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="MOVIE",HBO
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hbohits-max.openwindows037.workers.dev/
+EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MOVIE",HBO Hits
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hbofam-max.openwindows037.workers.dev/
+EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIE",HBO Family
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hbosig-max.openwindows037.workers.dev/
+EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="MOVIE",HBO Signature
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cinemax.openwindows037.workers.dev/
+EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="MOVIE",Cinemax
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Movie",Cinemax
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movie" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png",SONY PIX
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:-1 group-title="Movie",Douyu Movie
+https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
+#EXTINF:-1 group-title="Movie",AXN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8
+#EXTINF:-1 group-title="Movie" ,CHina Movie 
+http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/165065
+#EXTINF:-1 group-title="Movie" ,HBO HD 
+http://iptvtree.net:8080/F16406/60a43828/197972
+#EXTINF:-1 group-title="Movie" ,HBO Hits tree
+http://iptvtree.net:8080/F16406/60a43828/196480
+#EXTINF:-1 group-title="Movie" ,HBO Signature tree
+http://iptvtree.net:8080/F16406/60a43828/221948
+#EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVN MOVIES HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
+#EXTINF:-1 group-title="Movie" ,Movie Now
+http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/169118
+#EXTINF:-1 group-title="Movie" ,Movie Now2
+http://line.lion-ott.com:80/abcd1234/abcd1234/281391
+#EXTINF:-1 group-title="Movie" ,Star Movie
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 group-title="Movie" ,Star Movie Selected
+http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 group-title="Movie" ,Star Movie Selected2
+http://line.lion-ott.com:80/abcd1234/abcd1234/281644
+#EXTINF:-1 group-title="Movie" ,&PRIVE
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=155746&extension=m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_109.png",TVN Movies Indonesia
+https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png",Galaxy mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png",Celestial Movies Indonesia
+https://mangga-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="SPORT LOCAL" tvg-id="MNCSports.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",SPORTSTARS 1
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="SPORT LOCAL" tvg-id="MNCSports2.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",SPORTSTARS 2
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="SPORT LOCAL" tvg-id="MNCSports3.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",SPORTSTARS 3 LIVE LIGA 1
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="SPORT LOCAL" tvg-id="MNCSports3.id"" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",SPORTSTARS 4 LIVE LIGA 1
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id= "SPOTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg" group-title="SPORT LOCAL",SPOTV
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="SPOTV2.id"tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/9c1465ab/79a6_r32.jpg" group-title="SPORT LOCAL",SPOTV 2
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="SPORT LOCAL",SOCCER CHANNEL HD
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#EXTINF:-1 group-title="SPORT LOCAL" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450", V Sports Premium
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1byekvIU13Ugq3+qHsrRCw","kid":"y9E7eog+U+mNXH800AE76A"}],"type":"temporary"}
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 group-title="SPORT LOCAL" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/QqWUMoMVRdPCaKrU3NlqT/0cca0957b0f512c861beb810f1ca47ad/V_Sport1_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BMXq9izXXy2UerTWIfOSVg","k":"dpZ1mJYuenMUorJR6QcHJQ"}]}
+https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
+
+#EXTINF:-1 tvg-id="Prima Sport 1" group-title="SPORT LOCAL" tvg-logo="https://i.ibb.co/JzhBGYB/PRIMASPORT1.png", PRIMA SPORTS 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49e2aa7ed50fc98b895023c87a32a183:57062665c1ef8481911e68e17655c8ec
+https://ott.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="Prima Sport 2" group-title="SPORT LOCAL" tvg-logo="https://i.ibb.co/Byp48qP/PRIMASPORT2.png", PRIMA SPORTS 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=96c311676c08545ea6aae37668e4a0df:64fca4a48c14d2b32afcd53971cfa62c
+https://ott.cyberhost.ro/sdash/LIVE$LookTVHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="Prima Sport 3" group-title="SPORT LOCAL" tvg-logo="https://i.ibb.co/J2QffZq/PRIMASPORT3.png", PRIMA SPORTS 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9404e7ae27dce22d69d41ffc29197cef:a6177128238fe775d5c74803e15ac175
+https://ott1.cyberhost.ro/sdash/LIVE$LookSport3HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="Prima Sport 4" group-title="SPORT LOCAL" tvg-logo="https://i.ibb.co/BVtHFv8/PRIMASPORT4.png", PRIMA SPORTS 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c68ec2e525d8406b6c3cedbac72debae:a0f28f93fb9834d331df3ddedeb8a565
+https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+
+
+#EXTINF:-1 group-title="SPORT LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Eredivisie_nieuw_logo_2017-.svg/400px-Eredivisie_nieuw_logo_2017-.svg.png" ,EREDIVISIE 🇱🇺
+KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
+
+
+
+
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="ASTRO",Astro SuperSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium123/index.m3u8|Origin=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="ASTRO",Astro SuperSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium124/index.m3u8|Origin=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="ASTRO",Astro SuperSport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium125/index.m3u8|Origin=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="ASTRO",Astro SuperSport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium126/index.m3u8|Origin=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.imgur.com/jb1igcv.png" group-title="ASTRO",Astro SuperSport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium43/index.m3u8|Origin=https://weblivehdplay.ru/
+
+
+
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="ksport1hd" group-title="SPORT LOCAL", Premier Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00059cff7b261aa9b2fcbd57ad1ca332:1872a5a3afb4f369ab339024a09fda25
+http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(premier1sports50)/manifest_hd.mpd
+
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="ksport1hd" group-title="SPORT LOCAL", Premier Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000354713f5113fd49f41f556bdf1add:9a6ca88b3b6c7088c8197a7366f2e7e5
+http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(premier2sports50)/manifest_hd.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", tvg-id="ksport1hd" group-title="SPORT LOCAL", Sky Premier League
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003e5d66d7501ff2930c80e9b5609fc:32661be41b5b713dcd88683cd389af21
+https://linear003-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportspremierleague)/manifest_sd.mpd
+
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="SPORT LOCAL", Sky Sports Main Event
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00053cbaa4301cc9993e68fd4b6ce671:2a8e008597a45602dc4f39f06e119630
+#https://linear007-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/channel(skysportsmainevent)/manifest_hd.mpd
+https://linear007-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportsmainevent)/manifest_sd.mpd
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="SPORT LOCAL", Sky Sports Football
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00033a7801c324b97dd9997d15cd1e6d:da90342266ae32a331a83bd05d6308bd
+https://linear016-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportsfootball)/manifest_sd.mpd
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/am6VNky.png" group-title="SPORT LOCAL" ,  BeIn Sports English
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-039/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/am6VNky.png" group-title="SPORT LOCAL" , DAZN EuroSport 1 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-031/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/am6VNky.png" group-title="SPORT LOCAL" , DAZN EuroSport 2 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-032/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/am6VNky.png" group-title="SPORT LOCAL" , DAZN  LA LIGA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/am6VNky.png" group-title="SPORT LOCAL" , BEIN SPORT 1 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-039/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/am6VNky.png" group-title="SPORT LOCAL" , BEIN SPORT 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-040/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/am6VNky.png" group-title="SPORT LOCAL" , BEIN SPORT 3 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+
+
+
+
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="" group-title="SPORT LOCAL",TVRI Sport
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="" group-title="SPORT LOCAL",TVRI Nas
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="SPORT LOCAL" tvg-logo="https://shahid.mbc.net/mediaObject/2021/MARCH/amjad/untitled/untitled1/Logo_SSC1HD/original/Logo_SSC1HD.png?height=auto&width=288&croppingPoint=&version=1&type=png" ,SSC 1
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="SSC2HD.sa" tvg-name="SSC 2 HD" tvg-shift="3" tvg-logo="https://i.imgur.com/fTfwMP4.png" group-title="SPORT LOCAL",SSC 2 HD
+https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="SSC3HD.sa" tvg-name="SSC 3 HD" tvg-shift="3" tvg-logo="https://i.imgur.com/j1g7QP4.png" group-title="SPORT LOCAL",SSC 3 HD
+https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="SSC4HD.sa" tvg-name="SSC 4 HD" tvg-shift="3" tvg-logo="https://i.imgur.com/uIinMop.png" group-title="SPORT LOCAL",SSC 4 HD
+https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="SSC5HD.sa" tvg-name="SSC 5 HD" tvg-shift="3" tvg-logo="https://i.imgur.com/5lI6sCM.png" group-title="SPORT LOCAL",SSC 5 HD
+https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="SSCExtra1HD.sa" tvg-name="SSC Extra 1 HD" tvg-shift="3" tvg-logo="https://i.imgur.com/lvyucaX.png" group-title="SPORT LOCAL",SSC Extra 1 HD
+https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="SSCExtra2HD.sa" tvg-name="SSC Extra 2 HD" tvg-shift="3" tvg-logo="https://i.imgur.com/Xxx1tqo.png" group-title="SPORT LOCAL",SSC Extra 2 HD
+https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="SSCExtra3HD.sa" tvg-name="SSC Extra 3 HD" tvg-shift="3" tvg-logo="https://i.imgur.com/qfpSgYN.png" group-title="SPORT LOCAL",SSC Extra 3 HD
+https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/am6VNky.png" group-title="SPORT LOCAL" , ELEVEN 1  DZN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/am6VNky.png" group-title="SPORT LOCAL" , ELEVEN 2  DZN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/am6VNky.png" group-title="SPORT LOCAL" , ELEVEN 3  DZN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/am6VNky.png" group-title="SPORT LOCAL" , ELEVEN 4  DZN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-057/stream.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="SPORT LOCAL", TNT Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005f5067d785a42dc5167ba06126ca8:8f9987d3153d003a23f34994501141d9
+#https://linear014-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tntsport1)/manifest_hd.mpd
+http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt1sport50)/manifest_hd.mpd
+
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="SPORT LOCAL", TNT Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00034ab4ec2fbf01848ac5157a314d43:92d1b98a91f3f39285e4b6315608b3ee
+http://linear037-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt2sport50)/manifest_hd.mpd
+
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="SPORT LOCAL", TNT Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005d81e9c8dd58b72ebd87d54a78009:01924a06ecbe6296e756e35acdd7c30e
+http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt3sport50)/manifest_hd.mpd
+
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="SPORT LOCAL", TNT Sports 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00032335f1860c8cf0f5e4510c9619d9:fa0830e62a308d00d09a916df66ccd1a
+http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt4sport50)/manifest_hd.mpd
+
+
+
+#EXTINF:-1 tvg-id="ELEVEN.1.pt" group-title="SPORT LOCAL" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS1.pt.png",Eleven Sports 1 PT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 tvg-id="ELEVEN.2..pt" group-title="SPORT LOCAL" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS2.pt.png",Eleven Sports 2 PT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
+
+#EXTINF:-1 tvg-id="ELEVEN.3..pt" group-title="SPORT LOCAL" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS3.pt.png",Eleven Sports 3 PT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd
+
+#EXTINF:-1 tvg-id="ELEVEN.4..pt" group-title="SPORT LOCAL" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS4.pt.png",Eleven Sports 4 PT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd
+
+#EXTINF:-1 tvg-id="ELEVEN.5..pt" group-title="SPORT LOCAL" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS5.pt.png",Eleven Sports 5 PT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd
+
+#EXTINF:-1 tvg-id="ELEVEN.6..pt" group-title="SPORT LOCAL" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS6.pt.png",Eleven Sports 6 PT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd
+
+#EXTINF:-1 tvg-id="ELEVEN.6..pt" group-title="SPORT LOCAL" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS6.pt.png",PLAY SPORT 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-053/stream.mpd
+
+#EXTINF:-1 tvg-id="ELEVEN.6..pt" group-title="SPORT LOCAL" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS6.pt.png",PLAY SPORT 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-052/stream.mpd
+
+#EXTINF:-1 tvg-id="ELEVEN.6..pt" group-title="SPORT LOCAL" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS6.pt.png",PLAY SPORT 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-051/stream.mpd
+
+#EXTINF:-1 group-title="Arena Sport" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png",Arena 1 Premium
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+
+#EXTINF:-1 group-title="Arena Sport" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png",Arena 2 Premium
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
+
+#EXTINF:-1 group-title="Arena Sport" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png",Arena 3 Premium
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+
+#EXTINF:-1 group-title="Arena Sport" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png",Arena Sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+
+#EXTINF:-1 group-title="Arena Sport" tvg-logo="https://iptvboss.xyz/logos/Bosnia/Arenasport1x2.bh.png",Arena Sport 1x2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
+
+#EXTINF:-1 group-title="Arena Sport" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport2.bh.png",Arena Sport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
+
+#EXTINF:-1 group-title="Arena Sport" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport3.bh.png",Arena Sport 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+
+#EXTINF:-1 group-title="Arena Sport" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport4.bh.png",Arena Sport 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
+
+#EXTINF:-1 group-title="Arena Sport" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport5.bh.png",Arena Sport 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
+
+#EXTINF:-1 group-title="Arena Sport" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport6.bh.png",Arena Sport 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
+
+#EXTINF:-1 group-title="Arena Sport" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Arena Sport Premier League
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
+
+
+#EXTINF:-1 group-title="SPORT LOCAL" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",DAZN ELEVEN PRO LEAGUE 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-050/stream.mpd
+
+
+
+#EXTINF:-1 group-title="SPORT LOCAL" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",NBC SPORT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-026/stream.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", tvg-id="ksport1hd" group-title="SPORT LOCAL", Sky Premier League
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003075ac154b3ee20efa24b5d68f975:55a9ba94d283fdb8e123995d7d87a0a4
+https://linear010-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportspremierleague)/manifest_sd.mpd?c3.ri=13506665491068385835
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="SPORT LOCAL", Sky Sports Main Event
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00053cbaa4301cc9993e68fd4b6ce671:2a8e008597a45602dc4f39f06e119630
+https://linear007-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/channel(skysportsmainevent)/manifest_hd.mpd
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="SPORT LOCAL", Sky Sports Football
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AAVKgTCPIVZYwxb07zu5eQ","k":"ydbLzezPezCzkRqYMoqtRA"}]}
+https://linear005-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsfootball50)/manifest_hd.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZmH1y8.png", group-title="SPORT LOCAL",Eleven Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"FxZ5lxLHRBmOGhydNU3abQ","k":"oUjlXlU1u_t9wkwiTSaD5A"}],"type":"temporary"}
+https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague1nl/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"By5hGjg6LR49TY6hngFqcQ", "kid":"9RWBlMxAROaZ0N8Bdy8iEg" } ], "type":"temporary" }
+#EXTINF:-1 group-title="SPORT LOCAL" tvg-id="" tvg-chno="" group-logo="https://speedtrademarket.com/live/logo/mediacorp_logo.png" tvg-logo="https://speedtrademarket.com/live/logo/mewatch_logo.png",SPORT 1 (SGP)
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sub/8k2mdlSvVI/mGqa9Wg", "kid":"3rbITbTcRXi9qmHpZbNCTA" } ], "type":"temporary" }
+#EXTINF:-1 group-title="SPORT LOCAL" tvg-id="" tvg-chno="" group-logo="https://speedtrademarket.com/live/logo/mediacorp_logo.png" tvg-logo="https://speedtrademarket.com/live/logo/mewatch_logo.png",SPORT 2 (SGP)
+https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
+
+#EXTINF:-1 group-title="IPTVTREE",QA: beIN Sports 1
+http://iptvtree.net:8080/F16406/60a43828/100
+#EXTINF:-1 group-title="IPTVTREE",QA: beIN Sports 2
+http://iptvtree.net:8080/F16406/60a43828/101
+#EXTINF:-1 group-title="IPTVTREE",QA: beIN Sports 3
+http://iptvtree.net:8080/F16406/60a43828/102
+#EXTINF:-1 group-title="IPTVTREE",QA: beIN Sports 4
+http://iptvtree.net:8080/F16406/60a43828/103
+#EXTINF:-1 group-title="IPTVTREE",QA: beIN Sports 5
+http://iptvtree.net:8080/F16406/60a43828/104
+#EXTINF:-1 group-title="IPTVTREE",QA: beIN Sports 6
+http://iptvtree.net:8080/F16406/60a43828/105
+#EXTINF:-1 group-title="IPTVTREE",QA: beIN Sports 7
+http://iptvtree.net:8080/F16406/60a43828/106
+#EXTINF:-1 group-title="IPTVTREE",QA: beIN Sports English 1
+http://iptvtree.net:8080/F16406/60a43828/110
+#EXTINF:-1 group-title="IPTVTREE",QA: beIN Sports English 3
+http://iptvtree.net:8080/F16406/60a43828/267769
+#EXTINF:-1 group-title="IPTVTREE",QA: beIN Sports NBA
+http://iptvtree.net:8080/F16406/60a43828/15962
+#EXTINF:-1 group-title="IPTVTREE",QA: beIN Sports Premium 1
+http://iptvtree.net:8080/F16406/60a43828/109
+#EXTINF:-1 group-title="IPTVTREE",QA: beIN Sports Premium 2
+http://iptvtree.net:8080/F16406/60a43828/280145
+#EXTINF:-1 group-title="IPTVTREE",QA: beIN Sports Premium 3
+http://iptvtree.net:8080/F16406/60a43828/280249
+#EXTINF:-1 group-title="IPTVTREE",US: beIN Sports 4
+http://iptvtree.net:8080/F16406/60a43828/151024
+#EXTINF:-1 group-title="IPTVTREE",US: beIN Sports 5
+http://iptvtree.net:8080/F16406/60a43828/151026
+#EXTINF:-1 group-title="IPTVTREE",US: beIN Sports 6
+http://iptvtree.net:8080/F16406/60a43828/151030
+#EXTINF:-1 group-title="IPTVTREE",US: beIN Sports 7
+http://iptvtree.net:8080/F16406/60a43828/151028
+#EXTINF:-1 group-title="IPTVTREE",US: beIN Sports 8
+http://iptvtree.net:8080/F16406/60a43828/151032
+#EXTINF:-1 group-title="IPTVTREE",US: beIN Sports n
+http://iptvtree.net:8080/F16406/60a43828/296690
+#EXTINF:-1 group-title="IPTVTREE",US: beIN Sports USA
+http://iptvtree.net:8080/F16406/60a43828/296691
+#EXTINF:-1 group-title="IPTVTREE",FR: beIN Sports 1
+http://iptvtree.net:8080/F16406/60a43828/144
+#EXTINF:-1 group-title="IPTVTREE",FR: beIN Sports 2
+http://iptvtree.net:8080/F16406/60a43828/145
+#EXTINF:-1 group-title="IPTVTREE",FR: beIN Sports 3
+http://iptvtree.net:8080/F16406/60a43828/146
+#EXTINF:-1 group-title="IPTVTREE",FR: beIN Sports Max 4
+http://iptvtree.net:8080/F16406/60a43828/3599
+#EXTINF:-1 group-title="IPTVTREE",RO: DIGI SPORT 1
+http://iptvtree.net:8080/F16406/60a43828/71457
+#EXTINF:-1 group-title="IPTVTREE",RO: DIGI SPORT 2
+http://iptvtree.net:8080/F16406/60a43828/71459
+#EXTINF:-1 group-title="IPTVTREE",RO: DIGI SPORT 3
+http://iptvtree.net:8080/F16406/60a43828/2243
+#EXTINF:-1 group-title="IPTVTREE",RO: DIGI SPORT 4
+http://iptvtree.net:8080/F16406/60a43828/4219
+#EXTINF:-1 group-title="IPTVTREE",PT: SPORT TV 1
+http://iptvtree.net:8080/F16406/60a43828/1483
+#EXTINF:-1 group-title="IPTVTREE",PT: SPORT TV 2
+http://iptvtree.net:8080/F16406/60a43828/1486
+#EXTINF:-1 group-title="IPTVTREE",PT: SPORT TV 3
+http://iptvtree.net:8080/F16406/60a43828/1489
+#EXTINF:-1 group-title="IPTVTREE",FR: CANAL+ Premier League
+http://iptvtree.net:8080/F16406/60a43828/286794
+#EXTINF:-1 group-title="IPTVTREE",ZA: CANAL+ Premier League
+http://iptvtree.net:8080/F16406/60a43828/297425
+#EXTINF:-1 group-title="IPTVTREE",UK: Sky Sports Premier League
+http://iptvtree.net:8080/F16406/60a43828/263
+#EXTINF:-1 group-title="IPTVTREE",BR: ESPN
+http://iptvtree.net:8080/F16406/60a43828/8793
+#EXTINF:-1 group-title="IPTVTREE",BR: ESPN 2
+http://iptvtree.net:8080/F16406/60a43828/8801
+#EXTINF:-1 group-title="IPTVTREE",BR: ESPN 3
+http://iptvtree.net:8080/F16406/60a43828/290657
+#EXTINF:-1 group-title="IPTVTREE",BR: ESPN Extra
+http://iptvtree.net:8080/F16406/60a43828/8789
+#EXTINF:-1 group-title="IPTVTREE",BR: SPORTV
+http://iptvtree.net:8080/F16406/60a43828/4015
+#EXTINF:-1 group-title="IPTVTREE",BR: SPORTV 2
+http://iptvtree.net:8080/F16406/60a43828/8783
+#EXTINF:-1 group-title="IPTVTREE",BR: SPORTV 3
+http://iptvtree.net:8080/F16406/60a43828/8784
+#EXTINF:-1 group-title="IPTVTREE",ARG: ESPN
+http://iptvtree.net:8080/F16406/60a43828/61174
+#EXTINF:-1 group-title="IPTVTREE",ARG: ESPN 2
+http://iptvtree.net:8080/F16406/60a43828/70752
+#EXTINF:-1 group-title="IPTVTREE",ARG: ESPN 3
+http://iptvtree.net:8080/F16406/60a43828/61170
+#EXTINF:-1 group-title="IPTVTREE", MY: Astro SuperSport
+http://iptvtree.net:8080/F16406/60a43828/146068
+#EXTINF:-1 group-title="IPTVTREE", MY: Astro SuperSport 2
+http://iptvtree.net:8080/F16406/60a43828/157556
+#EXTINF:-1 group-title="IPTVTREE", MY: Astro SuperSport 3
+http://iptvtree.net:8080/F16406/60a43828/157557
+#EXTINF:-1 group-title="IPTVTREE", MY: Astro SuperSport 4
+http://iptvtree.net:8080/F16406/60a43828/157558
+#EXTINF:-1 group-title="IPTVTREE", MY: Astro SuperSport 5
+http://iptvtree.net:8080/F16406/60a43828/287792
+#EXTINF:-1 group-title="IPTVTREE", ARG: FOX SPORTS
+http://iptvtree.net:8080/F16406/60a43828/280370
+#EXTINF:-1 group-title="IPTVTREE", ARG: FOX SPORTS 2
+http://iptvtree.net:8080/F16406/60a43828/3187
+#EXTINF:-1 group-title="IPTVTREE", ARG: FOX SPORTS 3
+http://iptvtree.net:8080/F16406/60a43828/10921
+#EXTINF:-1 group-title="IPTVTREE",NL: ESPN
+http://iptvtree.net:8080/F16406/60a43828/267209
+#EXTINF:-1 group-title="IPTVTREE",NL: ESPN 2
+http://iptvtree.net:8080/F16406/60a43828/272119
+#EXTINF:-1 group-title="IPTVTREE",NL: ESPN 3
+http://iptvtree.net:8080/F16406/60a43828/272120
+#EXTINF:-1 group-title="IPTVTREE",NL: ESPN 4
+http://iptvtree.net:8080/F16406/60a43828/272121
+#EXTINF:-1 group-title="IPTVTREE",Usee Sport 1
+http://iptvtree.net:8080/F16406/60a43828/298577
+#EXTINF:-1 group-title="IPTVTREE",Usee Sport 2
+http://iptvtree.net:8080/F16406/60a43828/298578
+#EXTINF:-1 group-title="IPTVTREE",ITV 1
+http://kuchini.site:8080/devtv/5af3eeb538/296931
+#EXTINF:-1 group-title="IPTVTREE",ITV 2
+http://kuchini.site:8080/devtv/5af3eeb538/690
+#EXTINF:-1 group-title="IPTVTREE",Arena Premium 1
+http://kuchini.site:8080/devtv/5af3eeb538/285558
+#EXTINF:-1 group-title="IPTVTREE",Arena Premium 2
+http://kuchini.site:8080/devtv/5af3eeb538/285559
+#EXTINF:-1 group-title="IPTVTREE",Arena Premium 3
+http://kuchini.site:8080/devtv/5af3eeb538/285560
+#EXTINF:-1 group-title="IPTVTREE",ZA: SuperSport Football
+http://iptvtree.net:8080/F16406/60a43828/38575
+#EXTINF:-1 group-title="IPTVTREE",ZA: SuperSport LaLiga
+http://iptvtree.net:8080/F16406/60a43828/194358
+#EXTINF:-1 group-title="IPTVTREE",ZA: SuperSport Premier League
+http://iptvtree.net:8080/F16406/60a43828/11642
+#EXTINF:-1 group-title="IPTVTREE",ZA: SuperSport Tennis
+http://iptvtree.net:8080/F16406/60a43828/15200
+#EXTINF:-1 group-title="IPTVTREE",AL: SuperSport 2
+http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/1312
+#EXTINF:-1 group-title="IPTVTREE",AL: SuperSport 3
+http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/1319
+#EXTINF:-1 group-title="IPTVTREE",AL: SuperSport 4
+http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/1318
+#EXTINF:-1 group-title="IPTVTREE",AL: SuperSport 5
+http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/1860
+#EXTINF:-1 group-title="IPTVTREE",ID: mNCsPORT 
+http://iptvtree.net:8080/F16406/60a43828/157589
+#EXTINF:-1 group-title="IPTVTREE",ID: mNCsPORT 2
+http://iptvtree.net:8080/F16406/60a43828/298548
+#EXTINF:-1 group-title="IPTVTREE",ID: mNCsPORT 3
+http://iptvtree.net:8080/F16406/60a43828/298549
+#EXTINF:-1 group-title="IPTVTREE",ES: MOVISTAR LIGA DE CAMPEONES
+http://iptvtree.net:8080/F16406/60a43828/2800
+#EXTINF:-1 group-title="IPTVTREE",ES: MOVISTAR LIGA DE CAMPEONES 2
+http://iptvtree.net:8080/F16406/60a43828/81096
+#EXTINF:-1 group-title="IPTVTREE",ES: Movistar Liga De Campeones 3
+http://iptvtree.net:8080/F16406/60a43828/298805
+#EXTINF:-1 group-title="IPTVTREE",ES: Movistar Liga De Campeones 4
+http://iptvtree.net:8080/F16406/60a43828/298806
+#EXTINF:-1 group-title="IPTVTREE",ES: Movistar Liga De Campeones 5
+http://iptvtree.net:8080/F16406/60a43828/298807
+
+
+
+
+
+
+#EXTINF:1 tvg-id="TruePremierFootball1.th" tvg-logo="https://i.postimg.cc/vBC00YZJ/20220927-064509.png" group-title="True Premier Network", True Premier HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:1 tvg-id="TruePremierFootball2.th" tvg-logo="https://i.postimg.cc/vBC00YZJ/20220927-064509.png" group-title="True Premier Network", True Premier HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:1 tvg-id="TruePremierFootball3.th" tvg-logo="https://i.postimg.cc/vBC00YZJ/20220927-064509.png" group-title="True Premier Network", True Premier HD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://youdooball.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+
+
+
+#EXTINF:-1 group-title="Sony Sports" tvg-id="" tvg-chno="" group-logo="" tvg-logo="https://iptvboss.xyz/logos/India/SONYTEN1.in.png",Sony sport 1
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:-1 group-title="Sony Sports" tvg-id="" tvg-chno="" group-logo="" tvg-logo="https://iptvboss.xyz/logos/India/SONYTEN2.in.png",Sony sport 2
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF:-1 group-title="Sony Sports" tvg-id="" tvg-chno="" group-logo="" tvg-logo="https://iptvboss.xyz/logos/India/SONYTEN3.in.png",Sony sport 3
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+#EXTINF:-1 group-title="Sony Sports" tvg-id="" tvg-chno="" group-logo="" tvg-logo="https://iptvboss.xyz/logos/India/SONYTEN4.in.png",Sony sport 4
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+
+#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-name="Champions TV 1" tvg-logo="https://thumbor.prod.vidiocdn.com/xpyizj_Bi2XHb6IRydUXsvq_7N0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#",Champions TV 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
+https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
+
+#http://www.ieg.id/tv-channel/champions-tv-2/
+#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-name="Champions TV 2" tvg-logo="https://thumbor.prod.vidiocdn.com/NvvD-abXE50lIJd1zvtf9QF2NDQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#",Champions TV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=e34a4f7ba8ccfe3f5e14d8413af8d6f8:20f28eaa8592128da2032a0c05fc7b12
+https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
+
+#http://www.ieg.id/tv-channel/champions-tv-3/
+#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-name="Champions TV 3" tvg-logo="https://thumbor.prod.vidiocdn.com/Pd0SfzMEE5rUxTrpO-hjUdKdY-c=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#",Champions TV 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=1bc3e6cc570d8baf7edd5d68b1bea0c9:f91ed9a52cc02e932551c9cc97df0cdc
+https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Champions_TV_5.png" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yGGRr8NyxQBuurbovfYeFA","kid":"eSybOCYVxH_fuEDf0jh7iw"}],"type": "temporary"}
+https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a9b60d/index.mpd
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/FlchC_zDtL6BohLUeP5ANFfnQ_w=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0605846d1f0dc153537b04d5fef6594:af747fe84c6c850c646364ad0b96c6cf
+https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d4502b83/index.mpd
+
+#EXTINF:-1 tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" group-title="#🇮🇩CHAMPION TV🇮🇩#", Premier League TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8453753ad98627104b70c6c75d922d6:c7577969241b3d500fd569e9a38672ae
+https://etslive-2-vidio-com.akamaized.net/drm/dash/9353_stream.mpd
+
+
+
+#EXTINF:-1 tvg-id="telekomsport1.ro" group-title="Sports MPD" tvg-logo="https://iptvboss.xyz/logos/Romania/OrangeSport1.ro.png",Orange Sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"gGVzp0eJppZRwWLaTbtVJg", "kid":"sRUX3jEvyrXLoGvjXkghOA"}], "type":"temporary"}
+https://ott1.cyberhost.ro/sdash/LIVE$DolceSportHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="telekomsport2.ro" group-title="Sports MPD" tvg-logo="https://iptvboss.xyz/logos/Romania/OrangeSport2.ro.png",Orange Sport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"MHv4idkpaf/TAU3dtnmZ9g", "kid":"91MCzbBKCeQ/FTCVvKzRIw"}], "type":"temporary"}
+https://ott1.cyberhost.ro/sdash/LIVE$DolceSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="telekomsport3.ro" group-title="Sports MPD" tvg-logo="https://iptvboss.xyz/logos/Romania/OrangeSport3.ro.png",Orange Sport 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"HNKJrHHOX7MGpedlMZLOOg", "kid":"uHhXunTOA/n6KGbx4IbQXQ"}], "type":"temporary"}
+https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="telekomsport4.ro" group-title="Sports MPD" tvg-logo="https://iptvboss.xyz/logos/Romania/OrangeSport4.ro.png",Orange Sport 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"zdOZhpBXvDTIJ/JX9WJkOg", "kid":"ICqSfNkTEB3nZbDluz9QDw"}], "type":"temporary"}
+https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
+#EXTINF:-1 tvg-chno="205" tvg-id="ESPN2.ar" tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="Sports MPD", ESPN
+https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
+#EXTINF:-1 tvg-chno="206" tvg-id="ESPN.ar" tvg-logo="https://static.wixstatic.com/media/b12542_ea74dac7ead245a6a572f8caab350a58~mv2.png" group-title="Sports MPD", ESPN 2
+https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
+#EXTINF:-1 tvg-chno="207" tvg-id="ESPN3.ar" tvg-logo="https://static.wixstatic.com/media/b12542_5658d51d89ad4541a01770e4f80d953d~mv2.png" group-title="Sports MPD", ESPN 3
+https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
+#EXTINF:-1 tvg-chno="208" tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_06/large.1321307982_ESPNExtra.png.dab30b1a6f200ecbb305435d36e06ee9.png" group-title="Sports MPD", ESPN Extra
+https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+#EXTINF:-1 tvg-chno="250" tvg-id="ESPNPremiumHD.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="PACK FÚTBOL", ESPN Premium
+https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+#EXTINF:-1 tvg-chno="251" tvg-id="TNTSportsHDArgentina.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="PACK FÚTBOL", TNT Sports
+https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
+
+KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+#EXTINF:-1 tvg-chno="201" tvg-id="" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="Sports MPD", TyC Sports
+https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
+#EXTINF:-1 tvg-chno="202" tvg-id="FoxSportsArgentina.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/1447103524_Fox_Sports_Argentina_2023-copia.png.977f2acd0eaa731580e02c585096a9d9.png" group-title="Sports MPD", FOX Sports
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
+#EXTINF:-1 tvg-chno="203" tvg-id="FoxSports2HDSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/1862574058_Fox_Sports_2_Argentina_2023-copia.png.f44c1ecb12612709887e97dd3e3400a8.png" group-title="Sports MPD", FOX Sports 2
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
+#EXTINF:-1 tvg-chno="204" tvg-id="FoxSports3Argentina.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/Fox_Sports_3_Argentina_2023.png.baa9fb8a642232d4d6733c958a64ce8a.png" group-title="Sports MPD", FOX Sports 3
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
+
+#EXTINF:-1 group-title="IPTVTREE  2304",QA: beIN Sports 1
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/100
+#EXTINF:-1 group-title="IPTVTREE  2304",QA: beIN Sports 2
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/101
+#EXTINF:-1 group-title="IPTVTREE  2304",QA: beIN Sports 3
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/102
+#EXTINF:-1 group-title="IPTVTREE  2304",QA: beIN Sports 4
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/103
+#EXTINF:-1 group-title="IPTVTREE  2304",QA: beIN Sports 5
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/104
+#EXTINF:-1 group-title="IPTVTREE  2304",QA: beIN Sports 6
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/105
+#EXTINF:-1 group-title="IPTVTREE  2304",QA: beIN Sports 7
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/106
+#EXTINF:-1 group-title="IPTVTREE  2304",QA: beIN Sports English 1
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/110
+#EXTINF:-1 group-title="IPTVTREE  2304",QA: beIN Sports English 3
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/267769
+#EXTINF:-1 group-title="IPTVTREE  2304",QA: beIN Sports Max 1
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/296991
+#EXTINF:-1 group-title="IPTVTREE  2304",QA: beIN Sports Max 2
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/199001
+#EXTINF:-1 group-title="IPTVTREE  2304",QA: beIN Sports Max 4
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/13813
+#EXTINF:-1 group-title="IPTVTREE  2304",QA: beIN Sports NBA
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/15962
+#EXTINF:-1 group-title="IPTVTREE  2304",QA: beIN Sports News
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1266
+#EXTINF:-1 group-title="IPTVTREE  2304",QA: beIN Sports Premium 1
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/109
+#EXTINF:-1 group-title="IPTVTREE  2304",QA: beIN Sports Premium 2
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/280145
+#EXTINF:-1 group-title="IPTVTREE  2304",QA: beIN Sports Premium 3
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/280249
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/284530
+#EXTINF:-1 group-title="IPTVTREE  2304",US: beIN Sports 1
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/2272
+#EXTINF:-1 group-title="IPTVTREE  2304",US: beIN Sports n
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/296690
+#EXTINF:-1 group-title="IPTVTREE  2304",US: beIN Sports USA
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/296691
+#EXTINF:-1 group-title="IPTVTREE  2304",ZA: SuperSport Premier League
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/11642
+#EXTINF:-1 group-title="IPTVTREE  2304",ZA: SuperSport Football
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/38575
+#EXTINF:-1 group-title="IPTVTREE  2304",ZA: SuperSport LaLiga
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/194358
+#EXTINF:-1 group-title="IPTVTREE  2304",MY: Astro SuperSport
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/146068
+#EXTINF:-1 group-title="IPTVTREE  2304",MY: Astro SuperSport 2
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/157556
+#EXTINF:-1 group-title="IPTVTREE  2304",MY: Astro SuperSport 3
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/157557
+#EXTINF:-1 group-title="IPTVTREE  2304",MY: Astro SuperSport 4
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/157558
+#EXTINF:-1 group-title="IPTVTREE  2304",MY: Astro SuperSport 5
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/287792
+#EXTINF:-1 group-title="IPTVTREE  2304",IT: Super Tennis
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/285535
+#EXTINF:-1 group-title="IPTVTREE  2304",ZA: SuperSport Tennis
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/15200
+#EXTINF:-1 group-title="IPTVTREE  2304",US: Tennis Channel
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/2275
+#EXTINF:-1 group-title="IPTVTREE  2304",ARG: ESPN
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/61174
+#EXTINF:-1 group-title="IPTVTREE  2304",ARG: ESPN 2
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/70752
+#EXTINF:-1 group-title="IPTVTREE  2304",ARG: ESPN 3
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/61170
+#EXTINF:-1 group-title="IPTVTREE  2304",ARG: ESPN 4
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/295627
+#EXTINF:-1 group-title="IPTVTREE  2304",ARG: ESPN Extra
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/66298
+#EXTINF:-1 group-title="IPTVTREE  2304",ARG: FOX SPORTS
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/280370
+#EXTINF:-1 group-title="IPTVTREE  2304",ARG: FOX SPORTS 2
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/3187
+#EXTINF:-1 group-title="IPTVTREE  2304",ARG: FOX SPORTS 3
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/10921
+#EXTINF:-1 group-title="IPTVTREE  2304",BR: SPORTV
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4015
+#EXTINF:-1 group-title="IPTVTREE  2304",BR: SPORTV 2
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/8783
+#EXTINF:-1 group-title="IPTVTREE  2304",BR: SPORTV 3
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/8784
+#EXTINF:-1 group-title="IPTVTREE  2304",BR: ESPN
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/8793
+#EXTINF:-1 group-title="IPTVTREE  2304",BR: ESPN 2
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/8801
+#EXTINF:-1 group-title="IPTVTREE  2304",BR: ESPN 3
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290657
+#EXTINF:-1 group-title="IPTVTREE  2304",BR: ESPN Extra
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/8789
+#EXTINF:-1 group-title="IPTVTREE  2304",PT: ELEVEN SPORTS 1
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1499
+#EXTINF:-1 group-title="IPTVTREE  2304",PT: ELEVEN SPORTS 2
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1503
+#EXTINF:-1 group-title="IPTVTREE  2304",PT: ELEVEN SPORTS 3
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1506
+#EXTINF:-1 group-title="IPTVTREE  2304",PT: ELEVEN SPORTS 4
+http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1509
+
+#EXTM3U billed-msg="😎 Peace man !!!!!!!!!!!!!! 😎"
