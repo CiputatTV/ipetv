@@ -116,9 +116,23 @@ http://cord-cutter.net:8080/Pdriver204@gmail.com/paul@2022/146291
 #EXTINF:-1 group-title="Olahraga",Star Sports Select HD1
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=155972&extension=ts&play_token=GVZS088tcf
 
-
 #EXTINF:-1 group-title="Olahraga",Star Sports Select HD2
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=155973&extension=ts&play_token=GVZS088tcf 
+
+#EXTINF:-1 group-title="Olahraga", Star Sports 1 (3)
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=155968&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 group-title="Olahraga", Astro Sport 1
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=571245&extension=ts&play_token=GVZS088tcf 
+
+#EXTINF:-1 group-title="Olahraga", Astro Sport 2
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=571248&extension=ts&play_token=GVZS088tcf 
+
+#EXTINF:-1 group-title="Olahraga", Astro Sport 3
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=571247&extension=ts&play_token=GVZS088tcf 
+
+#EXTINF:-1 group-title="Olahraga", Astro Sport 4
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=571246&extension=ts&play_token=GVZS088tcf 
 
 
 #EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sport Premier League HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Sky_Sports_Premier_League_HD.png" group-title="⚽ SPORT EUROPE 🇪🇺",SkySport PremierLeague HD_🇬🇧
