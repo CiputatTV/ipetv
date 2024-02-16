@@ -379,6 +379,9 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 #KODIPROP:inputstream.adaptive.license_key=https://cine.openwindows037.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
+#EXTINF:0 type="stream" group-title="HBO" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png", HBO 1
+http://51.83.238.223:16045
+
 #EXTINF:-1 tvg-id="" tvg-name="DARK Prime 1 FHD" tvg-logo="" group-title="FILM",DARK Prime 1 FHD
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8594.ts
 #EXTINF:-1 tvg-id="" tvg-name="DARK Prime 2 FHD" tvg-logo="" group-title="FILM",DARK Prime 2 FHD
