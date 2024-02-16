@@ -53,6 +53,9 @@ http://38.96.178.201:80/live/NickJr/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", group-title="Olahraga", ESPN
 http://38.96.178.201:80/live/ESPNHD/index.m3u8
 
+#EXTINF:-1 type="stream" group-title="Olahraga" logo="", Sky Sport News
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=30494&extension=ts&play_token=GVZS088tcf
+
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/CNN International HD-FirstMedia-Chl-396.jpg" group-title="Berita Dunia", CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -521,151 +524,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png" group-title="FILM", TVN
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK MOVIES:  SKY HITS
-http://cord-cutter.net:8080/jesus1/jesus1/35255
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK: SKY CINEMA ACTION FHD
-http://cord-cutter.net:8080/jesus1/jesus1/35254
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK MOVIES: SKY CINEMA DRAMA
-http://cord-cutter.net:8080/jesus1/jesus1/35251
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK Sky Cinema Scifi & Horror FHD  
-http://cord-cutter.net:8080/jesus1/jesus1/35248
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK MOVIES: SKY COMEDY
-http://cord-cutter.net:8080/jesus1/jesus1/35253
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK MOVIES: SKY CRIME THRILLER
-http://cord-cutter.net:8080/jesus1/jesus1/35252
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK MOVIES: SKY GREATS
-http://cord-cutter.net:8080/jesus1/jesus1/35249
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK: RTE NEWS
-http://cord-cutter.net:8080/jesus1/jesus1/79108
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-5 
-http://cord-cutter.net:8080/jesus1/jesus1/53675
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Alibi
-http://cord-cutter.net:8080/jesus1/jesus1/59030
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK: BBC NEWS
-http://cord-cutter.net:8080/jesus1/jesus1/53757
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-BBC One
-http://cord-cutter.net:8080/jesus1/jesus1/53649
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-BBC One Scotland
-http://cord-cutter.net:8080/jesus1/jesus1/53755
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK: BBC TWO HD
-http://cord-cutter.net:8080/jesus1/jesus1/53650
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Blaze
-http://cord-cutter.net:8080/jesus1/jesus1/53754
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Boomerang
-http://cord-cutter.net:8080/jesus1/jesus1/53718
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Cartoon Network
-http://cord-cutter.net:8080/jesus1/jesus1/53719
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-CBBC
-http://cord-cutter.net:8080/jesus1/jesus1/53720
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK CBS Reality
-http://cord-cutter.net:8080/jesus1/jesus1/53752
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Channel 5
-http://cord-cutter.net:8080/jesus1/jesus1/53653
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Comedy Central
-http://cord-cutter.net:8080/jesus1/jesus1/53660
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK Crime & Investigation FHD (D)
-http://cord-cutter.net:8080/jesus1/jesus1/53689
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Dave
-http://cord-cutter.net:8080/jesus1/jesus1/53659
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Discovery Channel
-http://cord-cutter.net:8080/jesus1/jesus1/53684
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Discovery History
-http://cord-cutter.net:8080/jesus1/jesus1/53694
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Discovery Science
-http://cord-cutter.net:8080/jesus1/jesus1/53695
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Drama
-http://cord-cutter.net:8080/jesus1/jesus1/53677
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-E4
-http://cord-cutter.net:8080/jesus1/jesus1/53672
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK EuroSport 1 UK (P)
-http://cord-cutter.net:8080/jesus1/jesus1/53713
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Film 4
-http://cord-cutter.net:8080/jesus1/jesus1/53702
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Freesports
-http://cord-cutter.net:8080/jesus1/jesus1/53715
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-H2
-http://cord-cutter.net:8080/jesus1/jesus1/53692
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK History  Channel
-http://cord-cutter.net:8080/jesus1/jesus1/53686
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Home & Health
-http://cord-cutter.net:8080/jesus1/jesus1/53670
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Investigation Discovery
-http://cord-cutter.net:8080/jesus1/jesus1/53687
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-ITV
-http://cord-cutter.net:8080/jesus1/jesus1/53651
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-ITV 3
-http://cord-cutter.net:8080/jesus1/jesus1/53665
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-ITV 4
-http://cord-cutter.net:8080/jesus1/jesus1/53666
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK ITV2 HD 
-http://cord-cutter.net:8080/jesus1/jesus1/53671
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-More4
-http://cord-cutter.net:8080/jesus1/jesus1/53673
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-MTV Hits
-http://cord-cutter.net:8080/jesus1/jesus1/53735
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-MTV UK
-http://cord-cutter.net:8080/jesus1/jesus1/53737
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-MUTV
-http://cord-cutter.net:8080/jesus1/jesus1/53717
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Nat Geo Wild
-http://cord-cutter.net:8080/jesus1/jesus1/53693
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK: NICKELODEON
-http://cord-cutter.net:8080/jesus1/jesus1/53728
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK Premier Sports 1 SD  (P)
-http://cord-cutter.net:8080/jesus1/jesus1/35257
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Quest
-http://cord-cutter.net:8080/jesus1/jesus1/53682
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK: RACING UK
-http://cord-cutter.net:8080/jesus1/jesus1/53741
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Really
-http://cord-cutter.net:8080/jesus1/jesus1/53676
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Sky Cinema Animation
-http://cord-cutter.net:8080/jesus1/jesus1/53698
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Sky Cinema Drama
-http://cord-cutter.net:8080/jesus1/jesus1/53700
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Sky Cinema Family
-http://cord-cutter.net:8080/jesus1/jesus1/53699
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Sky Cinema Premier
-http://cord-cutter.net:8080/jesus1/jesus1/35256
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK Sky Cinema Comedy 
-http://cord-cutter.net:8080/jesus1/jesus1/53661
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK: SKY NEWS
-http://cord-cutter.net:8080/jesus1/jesus1/77166
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Sky Sports Action
-http://cord-cutter.net:8080/jesus1/jesus1/53705
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Sky Sports Arena
-http://cord-cutter.net:8080/jesus1/jesus1/35238
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK Sky Sports F1 FHD (D)
-http://cord-cutter.net:8080/jesus1/jesus1/53704
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK Sky Sports Football 1 (P)
-http://cord-cutter.net:8080/jesus1/jesus1/35239
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK Sky Sports Golf FHD 
-http://cord-cutter.net:8080/jesus1/jesus1/35240
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Sky Sports Main Event
-http://cord-cutter.net:8080/jesus1/jesus1/35243
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK Sky Sports Mix FHD (D)
-http://cord-cutter.net:8080/jesus1/jesus1/53706
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Sky Sports News
-http://cord-cutter.net:8080/jesus1/jesus1/35241
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK: SKY SP PREMIER LEAGUE FHD
-http://cord-cutter.net:8080/jesus1/jesus1/35242
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK SKY SciFI FHD (D)
-http://cord-cutter.net:8080/jesus1/jesus1/53663
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK- Pop
-http://cord-cutter.net:8080/jesus1/jesus1/53730
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-TLC
-http://cord-cutter.net:8080/jesus1/jesus1/53681
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK: Channel 4
-http://cord-cutter.net:8080/jesus1/jesus1/99138
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK: SKY 1 HD
-http://cord-cutter.net:8080/jesus1/jesus1/35246
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK Sky Sports Cricket FHD (D)
-http://cord-cutter.net:8080/jesus1/jesus1/45940
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK Sky Sports F1 FHD
-http://cord-cutter.net:8080/jesus1/jesus1/35244
-#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK: SKY SP RACING FHD
-http://cord-cutter.net:8080/jesus1/jesus1/76842
 
 
 
