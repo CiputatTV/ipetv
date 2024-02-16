@@ -511,69 +511,150 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
-
-#EXTINF:-1 tvg-id="cnbc" group-title="STR SERVER" tvg-logo="https://cdn.hqth.me/logo/thumbs/217.png", CNBC
-http://str1.cvtv.xyz/CNBC?token=live
-#EXTINF:-1 tvg-id="cnn" group-title="STR SERVER" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN
-http://str1.cvtv.xyz/CNN?token=live
-#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png",NBC
-http://str1.cvtv.xyz/NBC?token=live
-#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png",CBS
-http://str1.cvtv.xyz/CBS?token=live
-#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png",ABC
-http://str1.cvtv.xyz/ABC?token=live
-#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png",FOX
-http://str1.cvtv.xyz/FOX?token=live
-#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png",BBC One
-http://str1.cvtv.xyz/BBC1?token=live
-#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
-http://str1.cvtv.xyz/BBC2?token=live
-#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News
-http://str1.cvtv.xyz/BBCN?token=live
-#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BBC_Parliament_2022.svg/2880px-BBC_Parliament_2022.svg.png",BBC Parliament
-http://92.114.85.81:8000/play/a02n/index.m3u8
-#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1920px-ITV1_logo_%282022%29.svg.png",ITV1
-http://str1.cvtv.xyz/ITV?token=live
-#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/1200px-Channel_4_logo_2015.svg.png",Channel 4
-http://str1.cvtv.xyz/Channel4?token=live
-#EXTINF:-1 group-title="STR SERVER" tvg-logo="hhttps://static.wikia.nocookie.net/logopedia/images/9/9d/Channel_5_2016.svg/revision/latest/scale-to-width-down/150?cb=20160211232158",Channel 5
-http://92.114.85.81:8000/play/a019/index.m3u8
-#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1920px-ITV2_logo_2022.svg.png",ITV2
-http://str1.cvtv.xyz/ITV2?token=live
-#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1200px-ITV3_logo_2022.svg.png",ITV3
-http://str1.cvtv.xyz/ITV3?token=live
-#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/1920px-ITV4_logo_%282022%29.svg.png",ITV4
-http://str1.cvtv.xyz/ITV4?token=live
-#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CBBC_%282023%29.svg/1920px-CBBC_%282023%29.svg.png",CBBC
-http://str1.cvtv.xyz/CBBC?token=live
-#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/1200px-S4C_logo_2014.svg.png",S4C
-http://str1.cvtv.xyz/S4C?token=live
-#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BBC_Red_Button_2021.svg/2560px-BBC_Red_Button_2021.svg.png",BBC RB 1
-http://str1.cvtv.xyz/BBC_RB?token=live
-#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",Sky News
-http://str1.cvtv.xyz/SkyN?token=live
-
-#EXTINF:-1 group-title="STR SERVER" tvg-id="10hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png",10 HD
-http://str1.cvtv.xyz/10HD?token=live
-#EXTINF:-1 group-title="STR SERVER" tvg-id="10bold" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/10_Bold_2018.svg/1200px-10_Bold_2018.svg.png",10 Bold
-http://str1.cvtv.xyz/10B?token=live
-#EXTINF:-1 group-title="STR SERVER" tvg-id="7hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/1200px-Seven_Network_logo.svg.png",7HD
-http://str1.cvtv.xyz/7HD?token=live
-#EXTINF:-1 group-title="STR SERVER" tvg-id="9hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nine_Network_logo_%282008%29.svg/1000px-Nine_Network_logo_%282008%29.svg.png",9HD
-http://str1.cvtv.xyz/9HD?token=live
-#EXTINF:-1 group-title="STR SERVER" tvg-id="9gem" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem
-http://str1.cvtv.xyz/9G?token=live
-
-#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png",NBC
-http://str1.cvtv.xyz/NBC?token=live
-#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png",CBS
-http://str1.cvtv.xyz/CBS?token=live
-#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png",ABC
-http://str1.cvtv.xyz/ABC?token=live
-#EXTINF:-1 group-title="STR SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png",FOX
-http://str1.cvtv.xyz/FOX?token=live
-
-
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK MOVIES:  SKY HITS
+http://cord-cutter.net:8080/jesus1/jesus1/35255
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK: SKY CINEMA ACTION FHD
+http://cord-cutter.net:8080/jesus1/jesus1/35254
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK MOVIES: SKY CINEMA DRAMA
+http://cord-cutter.net:8080/jesus1/jesus1/35251
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK Sky Cinema Scifi & Horror FHD  
+http://cord-cutter.net:8080/jesus1/jesus1/35248
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK MOVIES: SKY COMEDY
+http://cord-cutter.net:8080/jesus1/jesus1/35253
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK MOVIES: SKY CRIME THRILLER
+http://cord-cutter.net:8080/jesus1/jesus1/35252
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK MOVIES: SKY GREATS
+http://cord-cutter.net:8080/jesus1/jesus1/35249
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK: RTE NEWS
+http://cord-cutter.net:8080/jesus1/jesus1/79108
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-5 
+http://cord-cutter.net:8080/jesus1/jesus1/53675
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Alibi
+http://cord-cutter.net:8080/jesus1/jesus1/59030
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK: BBC NEWS
+http://cord-cutter.net:8080/jesus1/jesus1/53757
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-BBC One
+http://cord-cutter.net:8080/jesus1/jesus1/53649
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-BBC One Scotland
+http://cord-cutter.net:8080/jesus1/jesus1/53755
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK: BBC TWO HD
+http://cord-cutter.net:8080/jesus1/jesus1/53650
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Blaze
+http://cord-cutter.net:8080/jesus1/jesus1/53754
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Boomerang
+http://cord-cutter.net:8080/jesus1/jesus1/53718
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Cartoon Network
+http://cord-cutter.net:8080/jesus1/jesus1/53719
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-CBBC
+http://cord-cutter.net:8080/jesus1/jesus1/53720
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK CBS Reality
+http://cord-cutter.net:8080/jesus1/jesus1/53752
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Channel 5
+http://cord-cutter.net:8080/jesus1/jesus1/53653
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Comedy Central
+http://cord-cutter.net:8080/jesus1/jesus1/53660
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK Crime & Investigation FHD (D)
+http://cord-cutter.net:8080/jesus1/jesus1/53689
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Dave
+http://cord-cutter.net:8080/jesus1/jesus1/53659
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Discovery Channel
+http://cord-cutter.net:8080/jesus1/jesus1/53684
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Discovery History
+http://cord-cutter.net:8080/jesus1/jesus1/53694
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Discovery Science
+http://cord-cutter.net:8080/jesus1/jesus1/53695
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Drama
+http://cord-cutter.net:8080/jesus1/jesus1/53677
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-E4
+http://cord-cutter.net:8080/jesus1/jesus1/53672
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK EuroSport 1 UK (P)
+http://cord-cutter.net:8080/jesus1/jesus1/53713
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Film 4
+http://cord-cutter.net:8080/jesus1/jesus1/53702
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Freesports
+http://cord-cutter.net:8080/jesus1/jesus1/53715
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-H2
+http://cord-cutter.net:8080/jesus1/jesus1/53692
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK History  Channel
+http://cord-cutter.net:8080/jesus1/jesus1/53686
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Home & Health
+http://cord-cutter.net:8080/jesus1/jesus1/53670
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Investigation Discovery
+http://cord-cutter.net:8080/jesus1/jesus1/53687
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-ITV
+http://cord-cutter.net:8080/jesus1/jesus1/53651
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-ITV 3
+http://cord-cutter.net:8080/jesus1/jesus1/53665
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-ITV 4
+http://cord-cutter.net:8080/jesus1/jesus1/53666
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK ITV2 HD 
+http://cord-cutter.net:8080/jesus1/jesus1/53671
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-More4
+http://cord-cutter.net:8080/jesus1/jesus1/53673
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-MTV Hits
+http://cord-cutter.net:8080/jesus1/jesus1/53735
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-MTV UK
+http://cord-cutter.net:8080/jesus1/jesus1/53737
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-MUTV
+http://cord-cutter.net:8080/jesus1/jesus1/53717
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Nat Geo Wild
+http://cord-cutter.net:8080/jesus1/jesus1/53693
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK: NICKELODEON
+http://cord-cutter.net:8080/jesus1/jesus1/53728
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK Premier Sports 1 SD  (P)
+http://cord-cutter.net:8080/jesus1/jesus1/35257
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Quest
+http://cord-cutter.net:8080/jesus1/jesus1/53682
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK: RACING UK
+http://cord-cutter.net:8080/jesus1/jesus1/53741
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Really
+http://cord-cutter.net:8080/jesus1/jesus1/53676
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Sky Cinema Animation
+http://cord-cutter.net:8080/jesus1/jesus1/53698
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Sky Cinema Drama
+http://cord-cutter.net:8080/jesus1/jesus1/53700
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Sky Cinema Family
+http://cord-cutter.net:8080/jesus1/jesus1/53699
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Sky Cinema Premier
+http://cord-cutter.net:8080/jesus1/jesus1/35256
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK Sky Cinema Comedy 
+http://cord-cutter.net:8080/jesus1/jesus1/53661
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK: SKY NEWS
+http://cord-cutter.net:8080/jesus1/jesus1/77166
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Sky Sports Action
+http://cord-cutter.net:8080/jesus1/jesus1/53705
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Sky Sports Arena
+http://cord-cutter.net:8080/jesus1/jesus1/35238
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK Sky Sports F1 FHD (D)
+http://cord-cutter.net:8080/jesus1/jesus1/53704
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK Sky Sports Football 1 (P)
+http://cord-cutter.net:8080/jesus1/jesus1/35239
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK Sky Sports Golf FHD 
+http://cord-cutter.net:8080/jesus1/jesus1/35240
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Sky Sports Main Event
+http://cord-cutter.net:8080/jesus1/jesus1/35243
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK Sky Sports Mix FHD (D)
+http://cord-cutter.net:8080/jesus1/jesus1/53706
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-Sky Sports News
+http://cord-cutter.net:8080/jesus1/jesus1/35241
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK: SKY SP PREMIER LEAGUE FHD
+http://cord-cutter.net:8080/jesus1/jesus1/35242
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK SKY SciFI FHD (D)
+http://cord-cutter.net:8080/jesus1/jesus1/53663
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK- Pop
+http://cord-cutter.net:8080/jesus1/jesus1/53730
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK-TLC
+http://cord-cutter.net:8080/jesus1/jesus1/53681
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK: Channel 4
+http://cord-cutter.net:8080/jesus1/jesus1/99138
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK: SKY 1 HD
+http://cord-cutter.net:8080/jesus1/jesus1/35246
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK Sky Sports Cricket FHD (D)
+http://cord-cutter.net:8080/jesus1/jesus1/45940
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK Sky Sports F1 FHD
+http://cord-cutter.net:8080/jesus1/jesus1/35244
+#EXTINF:-1 group-title="England TV" tvg-id="" tvg-logo="",UK: SKY SP RACING FHD
+http://cord-cutter.net:8080/jesus1/jesus1/76842
 
 
 
