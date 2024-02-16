@@ -44,41 +44,33 @@ https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Berita Dunia" logo="", SKY NEWS
 https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/index_hd.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/Nick Jr SD-FirstMedia-Chl-124.jpg" group-title="Anak",Nick Junior
-http://38.96.178.201:80/live/NickJr/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", group-title="Olahraga", ESPN
-http://38.96.178.201:80/live/ESPNHD/index.m3u8
-
-#EXTINF:-1 type="stream" group-title="Olahraga" logo="", Sky Sport News
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=30494&extension=ts&play_token=GVZS088tcf
-
-
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/CNN International HD-FirstMedia-Chl-396.jpg" group-title="Berita Dunia", CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/FOX News SD-FirstMedia-Chl-237.jpg" group-title="Berita Dunia", Fox News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Olahraga",ESPN NEWs
-http://45.166.92.22:58001/play/a01h/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="Olahraga",NBA TV
-http://38.96.178.201:80/live/ESPN2/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUJlMEGy8RyOAyUkPteM0L0p26jaQ5oPbkvA&usqp=CAU" group-title="Berita Dunia",DW Berita Dunia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo fmx/TvN Films HD-FirstMedia-Chl-343.jpg" group-title="Film",TVN Film
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/icons/channel/One-Ch205.png" group-title="Film",One
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/Stream(03)/index.m3u8
 
+<==========Berita Olahraga==========>
+
+#EXTINF:-1 type="stream" group-title="Berita Olahraga" logo="", Sky Sport News
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=79474&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Berita Olahraga",ESPN NEWs
+http://45.166.92.22:58001/play/a01h/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="Berita Olahraga",NBA TV
+http://38.96.178.201:80/live/ESPN2/index.m3u8
+
+
+<==========Dunia Olahraga==========>
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", group-title="Olahraga", ESPN
+http://38.96.178.201:80/live/ESPNHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Olahraga", True Sports 1
 https://edge1.laotv.la/live/TrueSport6/index.m3u8
@@ -155,17 +147,24 @@ http://51.83.238.223:16555/
 #EXTINF:0 type="stream" group-title="Olahraga" logo="", ESPN 4
 http://51.83.238.223:16575/
 
-#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sport Premier League HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Sky_Sports_Premier_League_HD.png" group-title="⚽ SPORT EUROPE 🇪🇺",SkySport PremierLeague HD_🇬🇧
-http://gg.gg/SkySportPremierLeagueUK
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sport Football HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Sky_Sports_Football_HD.png" group-title="⚽ SPORT EUROPE 🇪🇺",SkySport Football HD_🇬🇧
-http://gg.gg/SkySportFootballUK
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sport Main Events" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Sky_Sports_Main_Event_HD.png" group-title="⚽ SPORT EUROPE 🇪🇺",SkySport MainEvents_🇬🇧
-http://gg.gg/SkySportMainEventsUK
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports MIX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_Mix_HD.png" group-title="⚽ SPORT EUROPE 🇪🇺",SkySports ARENA_🇬🇧
-http://gg.gg/SkySportsArenaUK
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-austria-165.png" group-title="⚽ SPORT EUROPE 🇪🇺",Sky Sport Austria 1_🇬🇧
-http://gg.gg/SkySportAustria1HD
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-1-in.png" group-title="Olahraga", Sony Ten Olahraga 1 (dai)
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-2-in.png" group-title="Olahraga", Sony Ten Olahraga 2 (dai)
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-3-in.png" group-title="Olahraga", Sony Ten Olahraga 3 (dai)
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-4-in.png" group-title="Olahraga", Sony Ten Olahraga 4 (dai)
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-5-in.png" group-title="Olahraga", Sony Ten Olahraga 5 (dai)
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+
+#EXTINF:-1 group-title="Olahraga" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/e364dd59-562b-4157-a44a-c11c3b728557.jpeg", Bein Sports 1
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 group-title="Olahraga" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/394df566-c126-426a-854a-c41b75025213.jpeg", Bein Sports 2
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
+
+<==========Berita Indonesia==========>
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/CNN International HD-FirstMedia-Chl-396.jpg" group-title="INDONESIA",CNN HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
@@ -242,6 +241,41 @@ https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuB
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
+
+
+<==========21 Cineplex==========>
+
+
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 1
+http://epg.112114.xyz/douyu/4332
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 2
+http://epg.112114.xyz/douyu/6140589
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 3
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 4
+http://epg.112114.xyz/douyu/747764
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 5
+http://epg.112114.xyz/douyu/36337
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 6
+http://epg.112114.xyz/douyu/8814650
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 7
+http://epg.112114.xyz/douyu/263824
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 8
+http://epg.112114.xyz/douyu/323876
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 9
+http://epg.112114.xyz/douyu/1226741
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 10
+http://epg.112114.xyz/douyu/52787
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 11
+http://epg.112114.xyz/douyu/20415
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 12
+http://epg.112114.xyz/douyu/9249162
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 12
+http://epg.112114.xyz/douyu/252802
+
+<==========Movies==========>
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -306,64 +340,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChanne
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" group-title="Religi" tvg-logo="https://i.postimg.cc/c4dJC7x8/20220926-172826.png",Al-Quran Kareem TV
 https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
-<==========21 Cineplex==========>
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo fmx/TvN Films HD-FirstMedia-Chl-343.jpg" group-title="Film",TVN Film
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/Stream(03)/index.m3u8
 
-#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 1
-http://epg.112114.xyz/douyu/4332
-#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 2
-http://epg.112114.xyz/douyu/6140589
-#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 3
-http://epg.112114.xyz/douyu/8770422
-#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 4
-http://epg.112114.xyz/douyu/747764
-#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 5
-http://epg.112114.xyz/douyu/36337
-#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 6
-http://epg.112114.xyz/douyu/8814650
-#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 7
-http://epg.112114.xyz/douyu/263824
-#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 8
-http://epg.112114.xyz/douyu/323876
-#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 9
-http://epg.112114.xyz/douyu/1226741
-#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 10
-http://epg.112114.xyz/douyu/52787
-#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 11
-http://epg.112114.xyz/douyu/20415
-#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 12
-http://epg.112114.xyz/douyu/9249162
-#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 12
-http://epg.112114.xyz/douyu/252802
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Pengetahuan", NATIONAL GEOGRAPHIC 
-https://cdn-main.lolokoko.tv/NationalGeographic.stream/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/rqlBlBq.png" group-title="Pengetahuan", NAT GEO WILD 
-https://cdn-main.lolokoko.tv/NatGeoWild.stream/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/fHoHLCH.png" group-title="Pengetahuan", NAT GEO PEOPLE
-https://cdn-main.lolokoko.tv/NatGeoPeople.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-1-in.png" group-title="Olahraga", Sony Ten Olahraga 1 (dai)
-https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-2-in.png" group-title="Olahraga", Sony Ten Olahraga 2 (dai)
-https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-3-in.png" group-title="Olahraga", Sony Ten Olahraga 3 (dai)
-https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-4-in.png" group-title="Olahraga", Sony Ten Olahraga 4 (dai)
-https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-Olahragas-ten-5-in.png" group-title="Olahraga", Sony Ten Olahraga 5 (dai)
-https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
-
-#EXTINF:-1 group-title="Olahraga" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/e364dd59-562b-4157-a44a-c11c3b728557.jpeg", Bein Sports 1
-https://ctrl.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 group-title="Olahraga" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/394df566-c126-426a-854a-c41b75025213.jpeg", Bein Sports 2
-https://ctrl.laotv.la/live/Bsport2/index.m3u8
-
-
-<==========Movies==========>
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/icons/channel/One-Ch205.png" group-title="Film",One
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/Stream(03)/index.m3u8
 
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png", HBO HD (MX)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
