@@ -77,6 +77,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 #EXTINF:-1 type="stream" group-title="Berita Olahraga" logo="", Sky Sport News
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=79474&extension=ts&play_token=GVZS088tcf
 
+#EXTINF:-1 type="stream" group-title="Berita Olahraga" logo="", Sky Sport News 2
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=79474&extension=ts&play_token=CjajAH1JIr
+
+#EXTINF:-1 type="stream" group-title="Berita Olahraga" logo="", Sky Sport News 3
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=79474&extension=ts&play_token=19lN2YqIw2
+
+#EXTINF:-1 type="stream" group-title="Berita Olahraga" logo="", Sky Sport News 4
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:67:EB:60&stream=79474&extension=ts&play_token=2MgLPZ4sYg
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Berita Olahraga",ESPN NEWs
 http://45.166.92.22:58001/play/a01h/index.m3u8
 
@@ -274,7 +284,7 @@ http://epg.112114.xyz/douyu/52787
 http://epg.112114.xyz/douyu/20415
 #EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 12
 http://epg.112114.xyz/douyu/9249162
-#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 12
+#EXTINF:0 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="21 Cineplex", Bioskop 13
 http://epg.112114.xyz/douyu/252802
 
 <==========Movies==========>
