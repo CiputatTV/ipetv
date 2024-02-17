@@ -74,10 +74,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
 <==========Berita Olahraga==========>
 
-#EXTINF:-1 type="stream" group-title="Berita Olahraga" logo="", Sky Sport News
+#EXTINF:-1 type="stream" group-title="Berita Olahraga" logo="", Sky Sport News 1
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=79474&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 type="stream" group-title="Berita Olahraga" logo="", Sky Sport News 1
+#EXTINF:-1 type="stream" group-title="Berita Olahraga" logo="", Sky Sport News 2
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:67:EB:60&stream=79474&extension=ts&play_token=2MgLPZ4sYg
 
 #EXTINF:-1 type="stream" group-title="Berita Olahraga" logo="", Sky Sport News 3
