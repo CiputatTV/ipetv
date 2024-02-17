@@ -80,9 +80,6 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=79474&extensio
 #EXTINF:-1 type="stream" group-title="Berita Olahraga" logo="", Sky Sport News 2
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:67:EB:60&stream=79474&extension=ts&play_token=2MgLPZ4sYg
 
-#EXTINF:-1 type="stream" group-title="Berita Olahraga" logo="", Sky Sport News 3
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=79474&extension=ts&play_token=otM0DQF4Ff
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Berita Olahraga",ESPN NEWs
 http://45.166.92.22:58001/play/a01h/index.m3u8
 
