@@ -135,19 +135,19 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=155972&exte
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=155973&extension=ts&play_token=GVZS088tcf 
 
 #EXTINF:-1 group-title="Olahraga", Star Sports 1 (3)
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=155968&extension=ts&play_token=GVZS088tcf
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=155968&extension=ts
 
-#EXTINF:-1 group-title="Olahraga", Astro Sport 1
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=571245&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 group-title="Olahraga", AstroSport 1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=571245&extension=ts
 
-#EXTINF:-1 group-title="Olahraga", Astro Sport 2
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=571248&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 group-title="Olahraga", AstroSport 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=571248&extension=ts
 
-#EXTINF:-1 group-title="Olahraga", Astro Sport 3
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=571247&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 group-title="Olahraga", AstroSport 3
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=571247&extension=ts
 
-#EXTINF:-1 group-title="Olahraga", Astro Sport 4
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=571246&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 group-title="Olahraga", AstroSport 4
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=571246&extension=ts
 
 #EXTINF:-1 group-title="Olahraga" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png", FS1
 http://38.96.178.201/live/FS1/index.m3u8
