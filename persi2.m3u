@@ -467,37 +467,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac
 #EXTINF:0 type="stream" group-title="HBO" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png", HBO 1
 http://51.83.238.223:16045
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Transvision",HBO (Transcorp)
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Transvision",HBO Hits (Transcorp)
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="Transvision",HBO Family (Transcorp)
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Transvision",HBO Signature (Transcorp)
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Transvision",Cinemax (Transcorp)
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-
-
 ------Trial---------------
 
 
@@ -677,6 +646,402 @@ http://103.113.116.150:25461/mtm1/12345/132
 http://103.113.116.150:25461/mtm1/12345/133
 #EXTINF:-1 tvg-id="ext" group-title="Digital TV",ASTRO CRICKET
 http://103.113.116.150:25461/mtm1/12345/134
+
+-----TV38------
+
+#EXTINF:-1 group-title="TV38", Animal Planet
+http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
+
+#EXTINF:-1 group-title="TV38", BBC America
+http://38.96.178.201:80/live/BBCAmerica/index.m3u8
+
+#EXTINF:-1 group-title="TV38", CNNHD
+http://38.96.178.201:80/live/CNNHD/index.m3u8
+
+#EXTINF:-1 group-title="TV38", Discovery
+http://38.96.178.201:80/live/Discovery/index.m3u8
+
+#EXTINF:-1 group-title="TV38", ESPNHD
+http://38.96.178.201:80/live/ESPNHD/index.m3u8
+
+#EXTINF:-1 group-title="TV38", ESPN2
+http://38.96.178.201:80/live/ESPN2/index.m3u8
+
+#EXTINF:-1 group-title="TV38", FoodNetwork
+http://38.96.178.201:80/live/FoodNetwork/index.m3u8
+
+#EXTINF:-1 group-title="TV38", FOXHD
+http://38.96.178.201:80/live/FOXHD/index.m3u8
+
+#EXTINF:-1 group-title="TV38", ESPNews
+http://38.96.178.201/live/ESPNews/index.m3u8
+
+#EXTINF:-1 group-title="TV38", CBS
+http://38.96.178.201:80/live/CBS/index.m3u8
+
+#EXTINF:-1 group-title="TV38", TBS
+http://38.96.178.201:80/live/TBS/index.m3u8
+
+#EXTINF:-1 group-title="TV38", FOXSPORT2
+http://38.96.178.201:80/live/FOXSPORTS2/index.m3u8
+
+#EXTINF:-1 group-title="TV38", Comedy Central
+http://38.96.178.201:80/live/ComedyCentral/index.m3u8
+
+#EXTINF:-1 group-title="TV38", Disney
+http://38.96.178.201:80/live/Disney/index.m3u8
+
+#EXTINF:-1 group-title="TV38", TNT
+http://38.96.178.201:80/live/TNTHD/index.m3u8
+
+#EXTINF:-1 group-title="TV38", SYFYHD
+http://38.96.178.201:80/live/SYFYHD/index.m3u8
+
+#EXTINF:-1 group-title="TV38", USA
+http://38.96.178.201:80/live/USA/index.m3u8
+
+#EXTINF:-1 group-title="TV38", PBSKIDS
+http://38.96.178.201:80/live/PBSKIDS/index.m3u8
+
+#EXTINF:-1 group-title="TV38", NickJr
+http://38.96.178.201:80/live/NickJr/index.m3u8
+
+#EXTINF:-1 group-title="TV38", DisneyXD
+http://38.96.178.201:80/live/DisneyXD/index.m3u8
+
+#EXTINF:-1 group-title="TV38", History
+http://38.96.178.201:80/live/History/index.m3u8
+
+---------
+
+
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",ANIMAL PLANET
+http://xtv.ooo:8080/3212571066/abc123/350889
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Animax
+http://xtv.ooo:8080/3212571066/abc123/350890
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",AniPlus
+http://xtv.ooo:8080/3212571066/abc123/350891
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",ANTV
+http://xtv.ooo:8080/3212571066/abc123/350892
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Arirang
+http://xtv.ooo:8080/3212571066/abc123/350893
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Asian Food Network
+http://xtv.ooo:8080/3212571066/abc123/350894
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",AXN
+http://xtv.ooo:8080/3212571066/abc123/350895
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Baby TV
+http://xtv.ooo:8080/3212571066/abc123/350896
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Bali TV
+http://xtv.ooo:8080/3212571066/abc123/350897
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",BBC Earth
+http://xtv.ooo:8080/3212571066/abc123/350898
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",BBC Lifestyle
+http://xtv.ooo:8080/3212571066/abc123/350899
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",beIN Sports 1
+http://xtv.ooo:8080/3212571066/abc123/350900
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",beIN Sports 3
+http://xtv.ooo:8080/3212571066/abc123/350901
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Berita Satu
+http://xtv.ooo:8080/3212571066/abc123/350902
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Berita Satu news
+http://xtv.ooo:8080/3212571066/abc123/350903
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Berita Satu World
+http://xtv.ooo:8080/3212571066/abc123/350904
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Besmart
+http://xtv.ooo:8080/3212571066/abc123/350905
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Bioskop Indonesia
+http://xtv.ooo:8080/3212571066/abc123/350906
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Bloomberg TV
+http://xtv.ooo:8080/3212571066/abc123/350907
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Boomerang
+http://xtv.ooo:8080/3212571066/abc123/350908
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Boomerang EN
+http://xtv.ooo:8080/3212571066/abc123/350909
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Cartoon Network
+http://xtv.ooo:8080/3212571066/abc123/350910
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",CBeebies
+http://xtv.ooo:8080/3212571066/abc123/350911
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",CCM
+http://xtv.ooo:8080/3212571066/abc123/350912
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Celestial Movies
+http://xtv.ooo:8080/3212571066/abc123/350913
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",CGTN
+http://xtv.ooo:8080/3212571066/abc123/350914
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",CGTN Documentary
+http://xtv.ooo:8080/3212571066/abc123/350915
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Champion TV 1
+http://xtv.ooo:8080/3212571066/abc123/350916
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Champion TV 2
+http://xtv.ooo:8080/3212571066/abc123/350917
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Champion TV 3
+http://xtv.ooo:8080/3212571066/abc123/350918
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Channel News Asia
+http://xtv.ooo:8080/3212571066/abc123/350919
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Chinese Drama
+http://xtv.ooo:8080/3212571066/abc123/350920
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",CinemaWorld
+http://xtv.ooo:8080/3212571066/abc123/350921
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Cinemax
+http://xtv.ooo:8080/3212571066/abc123/350922
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Citra Bioskop
+http://xtv.ooo:8080/3212571066/abc123/350923
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Citra Dangdut
+http://xtv.ooo:8080/3212571066/abc123/350924
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Citra Drama
+http://xtv.ooo:8080/3212571066/abc123/350925
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Citra Entertainment
+http://xtv.ooo:8080/3212571066/abc123/350926
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",CNBC Indonesia
+http://xtv.ooo:8080/3212571066/abc123/350927
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",CNN Indonesia
+http://xtv.ooo:8080/3212571066/abc123/350928
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",CNN International
+http://xtv.ooo:8080/3212571066/abc123/350929
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Crime+ Investigation
+http://xtv.ooo:8080/3212571066/abc123/350930
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Da Ai TV
+http://xtv.ooo:8080/3212571066/abc123/350931
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Discovery Asia
+http://xtv.ooo:8080/3212571066/abc123/350932
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Discovery World
+http://xtv.ooo:8080/3212571066/abc123/350933
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Disney Junior
+http://xtv.ooo:8080/3212571066/abc123/350934
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Disney XD
+http://xtv.ooo:8080/3212571066/abc123/350935
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",DreamWorks
+http://xtv.ooo:8080/3212571066/abc123/350936
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Dunia Anak
+http://xtv.ooo:8080/3212571066/abc123/350937
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Dunia Lain
+http://xtv.ooo:8080/3212571066/abc123/350938
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Eat&Go
+http://xtv.ooo:8080/3212571066/abc123/350939
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Ent
+http://xtv.ooo:8080/3212571066/abc123/350940
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Etv Bioskop
+http://xtv.ooo:8080/3212571066/abc123/350941
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Etv Bioskop 02
+http://xtv.ooo:8080/3212571066/abc123/350942
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Etv Bioskop 03
+http://xtv.ooo:8080/3212571066/abc123/350943
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Etv Bioskop 04
+http://xtv.ooo:8080/3212571066/abc123/350944
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Fashion TV
+http://xtv.ooo:8080/3212571066/abc123/350945
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Fight Sport
+http://xtv.ooo:8080/3212571066/abc123/350946
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",FLIK
+http://xtv.ooo:8080/3212571066/abc123/350947
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",FMN
+http://xtv.ooo:8080/3212571066/abc123/350948
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Fox Crime
+http://xtv.ooo:8080/3212571066/abc123/350949
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Galaxy
+http://xtv.ooo:8080/3212571066/abc123/350950
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Galaxy Premium
+http://xtv.ooo:8080/3212571066/abc123/350951
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",GEM
+http://xtv.ooo:8080/3212571066/abc123/350952
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Golf
+http://xtv.ooo:8080/3212571066/abc123/350953
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",GTV
+http://xtv.ooo:8080/3212571066/abc123/350954
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",HBO
+http://xtv.ooo:8080/3212571066/abc123/350955
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",HBO Family
+http://xtv.ooo:8080/3212571066/abc123/350956
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",HBO Hits
+http://xtv.ooo:8080/3212571066/abc123/350957
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",HBO Signature
+http://xtv.ooo:8080/3212571066/abc123/350958
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",HGTV
+http://xtv.ooo:8080/3212571066/abc123/350959
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Hip Hip Horee!
+http://xtv.ooo:8080/3212571066/abc123/350960
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",History
+http://xtv.ooo:8080/3212571066/abc123/350961
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Hits
+http://xtv.ooo:8080/3212571066/abc123/350962
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Hits Movies
+http://xtv.ooo:8080/3212571066/abc123/350963
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Horee!
+http://xtv.ooo:8080/3212571066/abc123/350964
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Hunan TV
+http://xtv.ooo:8080/3212571066/abc123/350965
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",I Konser
+http://xtv.ooo:8080/3212571066/abc123/350967
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",IDX
+http://xtv.ooo:8080/3212571066/abc123/350968
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Ie
+http://xtv.ooo:8080/3212571066/abc123/350969
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",IMC
+http://xtv.ooo:8080/3212571066/abc123/350970
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Indi Kids
+http://xtv.ooo:8080/3212571066/abc123/350971
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Indosiar
+http://xtv.ooo:8080/3212571066/abc123/350972
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",INews
+http://xtv.ooo:8080/3212571066/abc123/350973
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Infotainment
+http://xtv.ooo:8080/3212571066/abc123/350974
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Insert
+http://xtv.ooo:8080/3212571066/abc123/350975
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Jak TV
+http://xtv.ooo:8080/3212571066/abc123/350977
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Jakarta Globe News
+http://xtv.ooo:8080/3212571066/abc123/350978
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",JTV
+http://xtv.ooo:8080/3212571066/abc123/350979
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",ID: K+
+http://xtv.ooo:8080/3212571066/abc123/350980
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",KBS World
+http://xtv.ooo:8080/3212571066/abc123/350981
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Kids TV
+http://xtv.ooo:8080/3212571066/abc123/350982
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",KIX
+http://xtv.ooo:8080/3212571066/abc123/350983
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Kompas TV
+http://xtv.ooo:8080/3212571066/abc123/35098
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Lifestyle & Fashion
+http://xtv.ooo:8080/3212571066/abc123/350986
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Lifetime
+http://xtv.ooo:8080/3212571066/abc123/350987
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Love Nature
+http://xtv.ooo:8080/3212571066/abc123/350988
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Mentari TV
+http://xtv.ooo:8080/3212571066/abc123/350989
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Metro TV
+http://xtv.ooo:8080/3212571066/abc123/350990
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Miao Mi
+http://xtv.ooo:8080/3212571066/abc123/350991
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",MNC News
+http://xtv.ooo:8080/3212571066/abc123/350992
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",MNC Sports
+http://xtv.ooo:8080/3212571066/abc123/350993
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",MNC Sports 2
+http://xtv.ooo:8080/3212571066/abc123/350994
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",MNC Sports 3
+http://xtv.ooo:8080/3212571066/abc123/350995
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",MNC TV
+http://xtv.ooo:8080/3212571066/abc123/350996
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Moji
+http://xtv.ooo:8080/3212571066/abc123/350997
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Music TV
+http://xtv.ooo:8080/3212571066/abc123/351002
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",My Cinema
+http://xtv.ooo:8080/3212571066/abc123/351003
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",My Cinema Asia
+http://xtv.ooo:8080/3212571066/abc123/351004
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",My Family
+http://xtv.ooo:8080/3212571066/abc123/351005
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",My Kidz
+http://xtv.ooo:8080/3212571066/abc123/351006
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Nat Geo
+http://xtv.ooo:8080/3212571066/abc123/351007
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Nat Geo Wild
+http://xtv.ooo:8080/3212571066/abc123/351008
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",NBA TV
+http://xtv.ooo:8080/3212571066/abc123/351009
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Net
+http://xtv.ooo:8080/3212571066/abc123/351010
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",NHK World
+http://xtv.ooo:8080/3212571066/abc123/351011
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Nick Jr
+http://xtv.ooo:8080/3212571066/abc123/351012
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Nick Jr EN
+http://xtv.ooo:8080/3212571066/abc123/351013
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",nickelodeon
+http://xtv.ooo:8080/3212571066/abc123/351014
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Nusantara TV
+http://xtv.ooo:8080/3212571066/abc123/351015
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",OK TV
+http://xtv.ooo:8080/3212571066/abc123/351016
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",ONE
+http://xtv.ooo:8080/3212571066/abc123/351017
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Padang TV
+http://xtv.ooo:8080/3212571066/abc123/351018
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Paramount Network
+http://xtv.ooo:8080/3212571066/abc123/351019
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Prambors
+http://xtv.ooo:8080/3212571066/abc123/351020
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Rajawali TV
+http://xtv.ooo:8080/3212571066/abc123/351021
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",RB TV
+http://xtv.ooo:8080/3212571066/abc123/351022
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",RCTI
+http://xtv.ooo:8080/3212571066/abc123/351023
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Rock Action
+http://xtv.ooo:8080/3212571066/abc123/351025
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Rock Entertaiment
+http://xtv.ooo:8080/3212571066/abc123/351026
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Rock Extreme
+http://xtv.ooo:8080/3212571066/abc123/351027
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",RRI Net
+http://xtv.ooo:8080/3212571066/abc123/351029
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",SCTV
+http://xtv.ooo:8080/3212571066/abc123/351030
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",SEA Today
+http://xtv.ooo:8080/3212571066/abc123/351031
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Smithsonian Channel
+http://xtv.ooo:8080/3212571066/abc123/351032
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Sony One
+http://xtv.ooo:8080/3212571066/abc123/351033
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",SpoTV
+http://xtv.ooo:8080/3212571066/abc123/351034
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",SpoTV 2
+http://xtv.ooo:8080/3212571066/abc123/351035
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Tech Storm
+http://xtv.ooo:8080/3212571066/abc123/351036
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Tegar TV Lampung
+http://xtv.ooo:8080/3212571066/abc123/351037
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Thrill
+http://xtv.ooo:8080/3212571066/abc123/351038
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TLC
+http://xtv.ooo:8080/3212571066/abc123/351039
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Trans 7
+http://xtv.ooo:8080/3212571066/abc123/351040
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Trans TV
+http://xtv.ooo:8080/3212571066/abc123/351041
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TV 9 Nusantara
+http://xtv.ooo:8080/3212571066/abc123/351042
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TV Mu
+http://xtv.ooo:8080/3212571066/abc123/351043
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TV One
+http://xtv.ooo:8080/3212571066/abc123/351044
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TVN
+http://xtv.ooo:8080/3212571066/abc123/351045
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TVN Movies
+http://xtv.ooo:8080/3212571066/abc123/351046
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TVRI
+http://xtv.ooo:8080/3212571066/abc123/351047
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TVRI Gorontalo
+http://xtv.ooo:8080/3212571066/abc123/351048
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TVRI Jambi
+http://xtv.ooo:8080/3212571066/abc123/351049
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TVRI Jawa Barat
+http://xtv.ooo:8080/3212571066/abc123/351050
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TVRI Kalimantan Barat
+http://xtv.ooo:8080/3212571066/abc123/351051
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TVRI Sport
+http://xtv.ooo:8080/3212571066/abc123/351052
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TVRI Sulawesi Selatan
+http://xtv.ooo:8080/3212571066/abc123/351053
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Usee Prime
+http://xtv.ooo:8080/3212571066/abc123/351055
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Usee Sport 1
+http://xtv.ooo:8080/3212571066/abc123/351056
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Usee Sport 2
+http://xtv.ooo:8080/3212571066/abc123/351057
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Vision Prime
+http://xtv.ooo:8080/3212571066/abc123/351058
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Warner TV
+http://xtv.ooo:8080/3212571066/abc123/351059
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Zee Bioskop
+http://xtv.ooo:8080/3212571066/abc123/351060
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",ZooMoo
+http://xtv.ooo:8080/3212571066/abc123/351061
+
 
 
 
