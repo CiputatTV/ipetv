@@ -1,18 +1,18 @@
-#EXTINF:-1 type="stream" group-title="TrexTV" logo="", Sky Sport News 
+#EXTINF:-1 type="stream" group-title="News" logo="", Sky Sport News 
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:67:EB:60&stream=79474&extension=ts&play_token=2MgLPZ4sYg
 
 
-EXTINF:-1 type="stream" group-title="TrexTV" logo="", Sky News HD 
+EXTINF:-1 type="stream" group-title="News" logo="", Sky News HD 
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:67:EB:60&stream=30504&extension=ts&play_token=2MgLPZ4sYg
 
-EXTINF:-1 type="stream" group-title="TrexTV" logo="", BBC News HD 
+EXTINF:-1 type="stream" group-title="News" logo="", BBC News HD 
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:67:EB:60&stream=75865&extension=ts&play_token=2MgLPZ4sYg
 
 
-EXTINF:-1 type="stream" group-title="TrexTV" logo="", Sky Cinema Action HD 
+EXTINF:-1 type="stream" group-title="Cinema" logo="", Sky Cinema Action HD 
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:67:EB:60&stream=30517&extension=ts&play_token=2MgLPZ4sYg
 
-EXTINF:-1 type="stream" group-title="TrexTV" logo="", Sky Cinema Oscar HD 
+EXTINF:-1 type="stream" group-title="Cinema" logo="", Sky Cinema Oscar HD 
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:67:EB:60&stream=30511&extension=ts&play_token=2MgLPZ4sYg
 
 
