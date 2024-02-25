@@ -524,13 +524,13 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsAu10kReTUVEG2yrpsyZZo/ts
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png", CINEMAX (BananaTV)
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shtJbESw0qm-noB9MnrvAQ0c/ts
 
-#EXTINF:0 tvg-id="outdoor" group-title="HBO Group",HBO
+#EXTINF:0 tvg-id="outdoor" group-title="HBO Group",HBO (xtv)
 http://xtv.ooo:8080/3212571066/abc123/350955
-#EXTINF:0 tvg-id="outdoor" group-title="HBO Group",HBO Family
+#EXTINF:0 tvg-id="outdoor" group-title="HBO Group",HBO Family (xtv)
 http://xtv.ooo:8080/3212571066/abc123/350956
-#EXTINF:0 tvg-id="outdoor" group-title="HBO Group",HBO Hits
+#EXTINF:0 tvg-id="outdoor" group-title="HBO Group",HBO Hits (xtv)
 http://xtv.ooo:8080/3212571066/abc123/350957
-#EXTINF:0 tvg-id="outdoor" group-title="HBO Group",HBO Signature
+#EXTINF:0 tvg-id="outdoor" group-title="HBO Group",HBO Signature (xtv)
 http://xtv.ooo:8080/3212571066/abc123/350958
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="HBO Group", HBO (Singapura) 
