@@ -188,7 +188,11 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
 #KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 
-
+#EXTINF:-1 tvg-name="SPOTV" group-title="Olahraga" tvg-logo="https://i.imgur.com/WboSBgl.jpg",True SPOTV
+http://183.182.100.241:1938/threstr2/spotv/playlist.m3u8
+#https://s.id/spotv
+#EXTINF:-1 tvg-name="SPOTV2" group-title="Olahraga" tvg-logo="https://i.imgur.com/WboSBgl.jpg",True SPOTV2
+http://183.182.100.241:1938/threstr2/spotv2/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Olahraga" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png", FS1
@@ -512,6 +516,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 #EXTINF:0 tvg-id="outdoor" group-title="Pengetahuan",Nat Geo
 http://xtv.ooo:8080/3212571066/abc123/351007
 #EXTINF:0 tvg-id="outdoor" group-title="Pengetahuan",Nat Geo Wild
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/01/02/nYeu9q.png" group-title="Pengetahuan", BBC Earth
+http://183.182.100.241:1938/threstr2/bbcearth/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="Pengetahuan", Animal Channel
+http://183.182.100.241:1938/threstr2/animalplanet/playlist.m3u8
 
 <======HBO Group======>
 
