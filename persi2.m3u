@@ -218,6 +218,12 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 group-title="Olahraga" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/394df566-c126-426a-854a-c41b75025213.jpeg", Bein Sports 2
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
+#EXTINF:-1 group-title="Olahraga",BT SPORT 3
+https://catowrap.live/mrgamingbtsport3.m3u8
+#EXTINF:-1 group-title="Olahraga",BT SPORTS 1
+https://catowrap.live/mrgamingbtsport1.m3u8
+#EXTINF:-1 group-title="Olahraga", BT SPORT 2
+https://catowrap.live/mrgamingbtsport2.m3u8
 
 <==========Berita Indonesia==========>
 
