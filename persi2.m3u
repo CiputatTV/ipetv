@@ -138,9 +138,6 @@ https://edge1.laotv.la/live/TSport2/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=3330000,AVERAGE-BANDWIDTH=3084000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="aud1"
 #https://edge1.laotv.la/live/THD7/sc-gaFECQ/v1_index.m3u8
 
-#EXTINF:-1 group-title="Olahraga", Eurosport HD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=156027&extension=ts&play_token=GVZS088tcf
-
 #EXTINF:-1 group-title="Olahraga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJIJ6PJRiyDHbNnaFyh49_P5ZX3Xkf6aK12g&usqp=CAU",JP:UFC
 http://cord-cutter.net:8080/Pdriver204@gmail.com/paul@2022/146291
 
@@ -566,7 +563,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 
 #EXTINF:0 tvg-id="outdoor" group-title="Pengetahuan",Nat Geo
 http://xtv.ooo:8080/3212571066/abc123/351007
-#EXTINF:0 tvg-id="outdoor" group-title="Pengetahuan",Nat Geo Wild
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/01/02/nYeu9q.png" group-title="Pengetahuan", BBC Earth
 http://183.182.100.241:1938/threstr2/bbcearth/playlist.m3u8
@@ -733,7 +729,7 @@ http://143.244.60.30/TBS/index.m3u8
 ---------
 
 
-#EXTINF:-1 group-title="Bangla Tvs",Makkah Tv [JagoBd]
+#EXTINF:-1 group-title="Religi",Makkah Tv [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/makkahtv.stream/chunks.m3u8
 
 
