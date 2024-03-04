@@ -44,7 +44,9 @@ https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR01Lo6sznPIZeJs_hVhTcQWwyBZKXJhCe3w&usqp=CAU" group-title="Berita Dunia", CNBC
-http://23.237.98.42:8080/USA_CNBC/index.m3u8
+#http://23.237.98.42:8080/USA_CNBC/index.m3u8
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57212
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsJqy1bnWblN5euwv19wyNeY08WesyuwzE3w&usqp=CAU" group-title="Berita Dunia", CNN International
 #https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
