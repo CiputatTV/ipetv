@@ -155,15 +155,11 @@ https://edge1.laotv.la/live/TSport2/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=3330000,AVERAGE-BANDWIDTH=3084000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="aud1"
 #https://edge1.laotv.la/live/THD7/sc-gaFECQ/v1_index.m3u8
 
-#EXTINF:-1 group-title="Olahraga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJIJ6PJRiyDHbNnaFyh49_P5ZX3Xkf6aK12g&usqp=CAU",JP:UFC
-http://cord-cutter.net:8080/Pdriver204@gmail.com/paul@2022/146291
-
 #EXTINF:-1 group-title="Olahraga",Star Sports Select HD1
 http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/82628
 
 #EXTINF:-1 group-title="Olahraga",Star Sports Select HD2
 http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/16619
-
 
 #EXTINF:-1 tvg-logo="https://www2.ais.th/play/images/bein.png" group-title="Olahraga", BeIN Sports 1 AIS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -511,8 +507,6 @@ https://edge.taghtia.com/sa/7.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/sunna-tv-sa.png" group-title="Religi", Madinah TV
 https://edge.taghtia.com/sa/6.m3u8
 #http://185.236.229.31:9981/play/a017
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo fmx/TvN Films HD-FirstMedia-Chl-343.jpg" group-title="Film",TVN Film
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/Stream(03)/index.m3u8
