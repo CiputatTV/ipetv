@@ -1041,6 +1041,37 @@ http://tv.trexiptv.com/play/live.php?mac=00:1A:79:67:EB:60&stream=30517&extensio
 #EXTINF:-1 type="stream" group-title="TrexTV" logo="", Sky Cinema Oscar HD 
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:67:EB:60&stream=30511&extension=ts&play_token=2MgLPZ4sYg
 
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="Sky Cinema Premier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/SkyCinema.png" group-title="SKY",Sky Cinema Premier
+http://89.187.167.93:80/live.ts?channelId=80&deviceUser=alex1234&devicePass=alex1234&uid=21890
+
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="Sky Cinema Thriller" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/SkyCinema.png" group-title="SKY",Sky Cinema Thriller
+http://89.187.167.93:80/hls/81.m3u8?channelId=81&deviceUser=alex1234&devicePass=alex1234&uid=21890
+
+#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="Sky Cinema Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/SkyCinema.png" group-title="SKY",Sky Cinema Comedy
+http://89.187.167.93:80/live.ts?channelId=82&deviceUser=alex1234&devicePass=alex1234&uid=21890
+
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="Sky Cinema Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/SkyCinema.png" group-title="SKY",Sky Cinema Drama
+http://89.187.167.93:80/live.ts?channelId=83&deviceUser=alex1234&devicePass=alex1234&uid=21890
+
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="Sky Cinema Greats" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/SkyCinema.png" group-title="SKY",Sky Cinema Greats
+http://89.187.167.93:80/live.ts?channelId=84&deviceUser=alex1234&devicePass=alex1234&uid=21890
+
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="Sky Cinema Scifi Horror" tvg-logo="https://static.epgguide.net/icon/skyscifihorror.uk.png" group-title="SKY",Sky Cinema Scifi Horror
+http://89.187.167.93:80/live.ts?channelId=85&deviceUser=alex1234&devicePass=alex1234&uid=21890
+
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="Sky Cinema Family" tvg-logo="https://static.epgguide.net/icon/skyfamily.uk.png" group-title="SKY",Sky Cinema Family
+http://89.187.167.93:80/live.ts?channelId=86&deviceUser=alex1234&devicePass=alex1234&uid=21890
+
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="Sky Cinema Select" tvg-logo="https://static.epgguide.net/icon/skyselect.uk.png" group-title="SKY",Sky Cinema Select
+http://89.187.167.93:80/live.ts?channelId=87&deviceUser=alex1234&devicePass=alex1234&uid=21890
+
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="Sky Cinema Hits" tvg-logo="https://static.epgguide.net/icon/skyhits.uk.png" group-title="SKY",Sky Cinema Hits
+http://89.187.167.93:80/live.ts?channelId=88&deviceUser=alex1234&devicePass=alex1234&uid=21890
+
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="Sky Cinema Action" tvg-logo="https://static.epgguide.net/icon/skyaction.uk.png" group-title="SKY",Sky Cinema Action
+http://89.187.167.93:80/live.ts?channelId=89&deviceUser=alex1234&devicePass=alex1234&uid=21890
+
+
 
 
 
