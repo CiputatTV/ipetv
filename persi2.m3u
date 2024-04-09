@@ -803,6 +803,19 @@ http://89.187.167.93:80/live.ts?channelId=88&deviceUser=alex1234&devicePass=alex
 #EXTINF:-1 tvg-id="skyaction.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="Sky Cinema Action" tvg-logo="https://static.epgguide.net/icon/skyaction.uk.png" group-title="SKY",Sky Cinema Action
 http://89.187.167.93:80/live.ts?channelId=89&deviceUser=alex1234&devicePass=alex1234&uid=21890
 
+--------------
+
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" group-title="Tubi TV",NBC News Now (1080p)
+https://lnc-nbc-news-now.tubi.video/master.m3u8
+
+#EXTINF:-1 tvg-id="News12NewYork.us" group-title="Tubi TV",News 12 New York (1080p)
+https://lnc-news12.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" group-title="Tubi TV",LiveNOW from FOX (720p)
+https://lnc-fox-live-now.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-id="History" group-title="Tubi TV",History Time (1080p)
+https://lnc-historytime.tubi.video/playlist.m3u8
 
 
 
