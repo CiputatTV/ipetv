@@ -817,6 +817,33 @@ https://lnc-fox-live-now.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="History" group-title="Tubi TV",History Time (1080p)
 https://lnc-historytime.tubi.video/playlist.m3u8
 
+------------
+#EXTINF:-1 tvg-id="China" group-title="China TV", CCTV1
+https://edge1.laotv.la/live/CCTV1/index.m3u8
+
+#EXTINF:-1 tvg-id="China" group-title="China TV", CCTV2
+https://edge1.laotv.la/live/CCTV2/index.m3u8
+
+#EXTINF:-1 tvg-id="China" group-title="China TV", CCTV3
+https://edge1.laotv.la/live/CCTV3/index.m3u8
+
+#EXTINF:-1 tvg-id="China" group-title="China TV", CCTV5
+https://edge1.laotv.la/live/CCTV5+/index.m3u8
+
+#EXTINF:-1 tvg-id="China" group-title="China TV", CCTV4
+https://edge1.laotv.la/live/CCTV4A/index.m3u8
+
+#EXTINF:-1 tvg-id="China" group-title="China TV", CCTV7
+https://edge1.laotv.la/live/CCTV7/index.m3u8
+
+#EXTINF:-1 tvg-id="China" group-title="China TV", CCTV8
+https://edge1.laotv.la/live/CCTV8/index.m3u8
+
+#EXTINF:-1 tvg-id="China" group-title="China TV", CCTV14
+https://edge1.laotv.la/live/CCTV14/index.m3u8
+
+
+
 
 
 
