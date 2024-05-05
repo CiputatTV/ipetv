@@ -111,6 +111,35 @@ http://38.96.178.201:80/live/ESPN2/index.m3u8
 
 <==========Dunia Olahraga==========>
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="MNCSports.id" group-title="SPORT LOKAL" tvg-logo="https://i.ibb.co/10j1TQW/sportstars.jpg", MNCSport-1
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="MNCSports2.id" group-title="SPORT LOKAL" tvg-logo="https://i.ibb.co/10j1TQW/sportstars.jpg", MNCSport-2
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="MNCSports3.id" group-title="SPORT LOKAL" tvg-logo="https://i.ibb.co/10j1TQW/sportstars.jpg", MNCSport-3
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="SPORT LOKAL" tvg-logo="https://i.ibb.co/10j1TQW/sportstars.jpg ",Sportstar 4
+https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", group-title="Olahraga", ESPN HD
 #http://143.244.60.30/ESPN/tracks-v1a1/mono.m3u8
 http://143.244.60.30/ESPN/index.m3u8
@@ -187,10 +216,13 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 
 #EXTINF:-1 tvg-name="SPOTV" group-title="Olahraga" tvg-logo="https://i.imgur.com/WboSBgl.jpg",True SPOTV
-http://183.182.100.241:1938/threstr2/spotv/playlist.m3u8
+#http://183.182.100.241:1938/threstr2/spotv/playlist.m3u8
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #https://s.id/spotv
 #EXTINF:-1 tvg-name="SPOTV2" group-title="Olahraga" tvg-logo="https://i.imgur.com/WboSBgl.jpg",True SPOTV2
-http://183.182.100.241:1938/threstr2/spotv2/playlist.m3u8
+#http://183.182.100.241:1938/threstr2/spotv2/playlist.m3u8
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
 
 
 #EXTINF:-1 group-title="Olahraga" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png", FS1
