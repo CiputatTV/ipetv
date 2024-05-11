@@ -256,60 +256,17 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 group-title="Olahraga" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/394df566-c126-426a-854a-c41b75025213.jpeg", Bein Sports 2
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
-#EXTINF:-1 group-title="Olahraga", nbc
-https://catowrap.live/mrgamingnbc.m3u8
-#EXTINF:-1 group-title="Olahraga", BT SPORT 3
-https://catowrap.live/mrgamingbtsport3.m3u8
-#EXTINF:-1 group-title="Olahraga", BT SPORTS 1
-https://catowrap.live/mrgamingbtsport1.m3u8
-#EXTINF:-1 group-title="Olahraga", BT SPORT 2
-https://catowrap.live/mrgamingbtsport2.m3u8
-#EXTINF:-1 group-title="Olahraga", TYC
-https://catowrap.live/mrgamingtyc.m3u8
-#EXTINF:-1 group-title="Olahraga", SNET
-https://catowrap.live/mrgamingsportsnet.m3u8
-#EXTINF:-1 group-title="Olahraga", PACNET
-https://catowrap.live/mrgamingpacnet.m3u8
-#EXTINF:-1 group-title="Olahraga", NBCPHILLY
-https://catowrap.live/nbcphilly.m3u8
-#EXTINF:-1 group-title="Olahraga", A SPORTS 
-https://catowrap.live/mrgamingasport.m3u8
-#EXTINF:-1 group-title="Olahraga", BEIN
-https://catowrap.live/mrgamingbein.m3u8
-#EXTINF:-1 group-title="Olahraga", ESPND
-https://catowrap.live/mrgamingespnd.m3u8
-#EXTINF:-1 group-title="Olahraga", ABC
-https://catowrap.live/mrgamingabc.m3u8
-#EXTINF:-1 group-title="Olahraga", BT SPORT 4
-https://catowrap.live/mrgamingbtsport4.m3u8
-#EXTINF:-1 group-title="Olahraga", WWE
-https://catowrap.live/mrgamingwwenet.m3u8
-#EXTINF:-1 group-title="Olahraga", MAIN EVENT 
-https://catowrap.live/mrgamingmainevent.m3u8
-#EXTINF:-1 group-title="Olahraga", TENNIS
-https://catowrap.live/mrgamingtennis.m3u8
-#EXTINF:-1 group-title="Olahraga", CRICKET 
-https://catowrap.live/mrgamingcric.m3u8
-#EXTINF:-1 group-title="Olahraga", NBC 1
-https://catowrap.live/mrgamingcbs.m3u8
-#EXTINF:-1 group-title="Olahraga", NBC 2
-https://catowrap.live/mrgamingracing.m3u8
-#EXTINF:-1 group-title="Olahraga", NBC 3
-https://catowrap.live/mrgamingsstennis.m3u8
-#EXTINF:-1 group-title="Olahraga", EURO
-https://catowrap.live/mrgamingeuro2.m3u8
-#EXTINF:-1 group-title="Olahraga", NBA
-https://catowrap.live/mrgamingnba.m3u8
-#EXTINF:-1 group-title="Olahraga", ESPN
-https://catowrap.live/mrgamingespn.m3u8
-#EXTINF:-1 group-title="Olahraga", SKY ARENA
-https://catowrap.live/mrgamingskyarena.m3u8
-#EXTINF:-1 group-title="Olahraga", FOX
-https://catowrap.live/mrgamingfox.m3u8
-#EXTINF:-1 group-title="Olahraga", SKY CRICKET
-https://catowrap.live/mrgamingsscric.m3u8
-#EXTINF:-1 group-title="Olahraga", MIX 
-https://catowrap.live/mrgamingmix.m3u8
+
+#EXTINF:-1 group-title="Olahraga", EPL1
+http://tprohd.net:8080/live/234769298598/65cfc6c118435/58028.m3u8
+#EXTINF:-1 group-title="Olahraga", EPL3
+http://tprohd.net:8080/live/234769298598/65cfc6c118435/56613.m3u8
+#EXTINF:-1 group-title="Olahraga", EPL2
+http://tprohd.net:8080/live/234769298598/65cfc6c118435/48873.m3u8
+#EXTINF:-1 group-title="Olahraga", EPL4
+http://tprohd.net:8080/live/234769298598/65cfc6c118435/152886.m3u8
+
+
 
 
 #EXTINF:-1 group-title="OLAHRAGA" 🏏" tvg-logo="", TNT Sports 1 HD✅
