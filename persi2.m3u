@@ -2646,6 +2646,48 @@ https://m7rovideolive.solocoo.tv/blueskylivedash/blueprotv/Manifest.mpd
 https://m7rovideolive.solocoo.tv/blueskylivedash/blueprox/Manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports1",Sky Sport Action
+https://bit.ly/SkySportAction
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports1",Sky Sport Arena
+https://bit.ly/Sky-SportArena
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports1",Sky Sport F1
+https://bit.ly/Sky-SportF1
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports1",Sky Sport Football
+https://bit.ly/Sky-SportFootball
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports1",Sky Sport Golf
+https://bit.ly/SkySportGolf
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports1",Sky Sport Main Event
+https://bit.ly/SkySportMainEvent
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports1",Sky Sport Mix
+https://bit.ly/Sky-SportMix
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports1",Sky Sport Premier League 
+https://bit.ly/SkySportPremierLeague
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports1",SkySport Tennis
+https://bit.ly/SkySportTennis
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1024px-TNT_Sports_2021_logo.svg.png" group-title="Sports1",TNT Sport 1
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/2056
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1024px-TNT_Sports_2021_logo.svg.png" group-title="Sports1",TNT Sport 2
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/2057
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1024px-TNT_Sports_2021_logo.svg.png" group-title="Sports1",TNT Sport 3
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/2058
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1024px-TNT_Sports_2021_logo.svg.png" group-title="Sports1",TNT Sport 4
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/2059
+
+
+
+
 
 
 
