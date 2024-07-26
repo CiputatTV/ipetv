@@ -637,96 +637,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
 
 
-<======HBO Group======>
-
-#EXTINF:-1 group-title="HBO Group" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",HBO Hits (Banana TV)
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuECy2JNi3y-F8mBeis1Kdg/ts
-
-#EXTINF:-1 group-title="HBO Group" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0150.png",HBO family (Banana TV)
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsAu10kReTUVEG2yrpsyZZo/ts
-
-#EXTINF:-1 group-title="HBO Group" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png", CINEMAX (BananaTV)
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shtJbESw0qm-noB9MnrvAQ0c/ts
-
-#EXTINF:0 tvg-id="outdoor" group-title="HBO Group",HBO (xtv)
-http://xtv.ooo:8080/3212571066/abc123/350955
-#EXTINF:0 tvg-id="outdoor" group-title="HBO Group",HBO Family (xtv)
-http://xtv.ooo:8080/3212571066/abc123/350956
-#EXTINF:0 tvg-id="outdoor" group-title="HBO Group",HBO Hits (xtv)
-http://xtv.ooo:8080/3212571066/abc123/350957
-#EXTINF:0 tvg-id="outdoor" group-title="HBO Group",HBO Signature (xtv)
-http://xtv.ooo:8080/3212571066/abc123/350958
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="HBO Group", HBO (Singapura) 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
-https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/big/217-2170584_hbo-logo-png-clipart-transparent-hbo-logo-png.png" tvg-id="HBO.id" tvg-name="HBO" group-title="HBO Group", HBO Asia
-https://link.zozotv.xyz:443/rozila969/abc12345/96
-
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115" group-title="HBO Group", HBO Hits HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
-https://zozotv.xyz:443/rozila969/abc12345/97
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="HBO Group", HBO Hits
-https://link.zozotv.xyz:443/rozila969/abc12345/97
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20Signature%20SD-FirstMedia-Chl-286.jpg" group-title="HBO Group", HBO Signature
-http://iptvtree.net:8080/F26646/f950f250/221948
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="HBO Group", HBO Signature
-https://link.zozotv.xyz:443/rozila969/abc12345/99
-
-#EXTINF:-1 group-title="HBO Group" tvg-id="HBOFAMILY" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115", HBO Family (SG) 
-#KODIPROP:inputstream.adaptive.license_type=clearkey	
-#KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
-https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
-
-
-#EXTINF:0 type="stream" group-title="HBO Group" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png", HBO 1
-http://51.83.238.223:16045
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: HBO Group" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="HBO Group",HBO Group (Thi)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=da901f885137d1f274dc7592762611ab:4d3536a7f0d996d6b013fc3dc1de7a3d
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0114/DASH/V0114.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: HBO Group" tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/HBO Grouphits.png" group-title="HBO Group",HBO Group Hits (Thi)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56c2717c2c6431c75ac1fbf64a997cb6:d4544ffd929b2da1f6101705e74facee
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0116/DASH/V0116.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: HBO Group" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO Group_Family_Asia_logo.svg/400px-HBO Group_Family_Asia_logo.svg.png" group-title="HBO Group",HBO Group Family (Thi)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96af42ae402ccc9b3f92a8e99ec8f5aa:6a0991ae3f06f76a010afa5515f67ac6
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0115/DASH/V0115.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: HBO Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO Group_Signature_Asia.png" group-title="HBO Group",HBO Group Signature (Thi)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=97c1c27765dae9b95ee04ea6e8f50c34:7db57b354d4d9cdb22e256c2a7500956
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0117/DASH/V0117.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: HBO Group" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="HBO Group",CINEMAX (Thi)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b541612bcb4598f60c4efc1733b5d8c9:7e6d2819c0912a204fd5478f8a60d1b5
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0118/DASH/V0118.mpd
-
-
-
 ----------Vison+--------------------
 
 
@@ -2105,6 +2015,194 @@ http://dream4k.org:2082/Aziz2020_153801/MUPMohah/191738
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="🔴TRUEVISION",TH:True Premiere Football
 http://dream4k.org:2082/Aziz2020_153801/MUPMohah/191792
+
+ ==========PREMIUM SPORT========
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="https://file.mk.co.kr/meet/neds/2021/06/image_readtop_2021_563047_16233130354676983.jpg",SPOTV
+http://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_428.png",SPOTV2
+http://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",Sport star 1
+http://melon-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+-----------
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",Sport star 2
+http://melon-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",Sport star 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+http://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",Sport star 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+http://melon-live-cdn.mncnow.id:80/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="🔴PREMIUM SPORT",Soccer channel
+https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#EXTINF:-1 tvg-id="Astro SuperSport HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="🔴PREMIUM SPORT",Astro Supersport 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTVLCOPT:network-caching=1000
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
+
+#EXTINF:-1 tvg-id="Astro SuperSport 2 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="🔴PREMIUM SPORT",Astro Supersport 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTVLCOPT:network-caching=1000
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1721
+
+#EXTINF:-1 tvg-id="Astro SuperSport 3 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="🔴PREMIUM SPORT",Astro Supersport 3
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTVLCOPT:network-caching=1000
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
+
+#EXTINF:-1 tvg-id="Astro SuperSport 4 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="🔴PREMIUM SPORT",Astro Supersport 4
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTVLCOPT:network-caching=1000
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png" group-title="🔴PREMIUM SPORT",RTM Sukan 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/segment_ua194x9ch_ctvideo_cfm4s_ridp0va0br4500000_cs87121008000_mpd.m4s
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="🔴PREMIUM SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="🔴PREMIUM SPORT", ARENA SPORT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 2.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="🔴PREMIUM SPORT", ARENA SPORT 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 3.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="🔴PREMIUM SPORT", ARENA SPORT 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 4.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="🔴PREMIUM SPORT", ARENA SPORT 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 5.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="🔴PREMIUM SPORT", ARENA SPORT 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 6.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-6-rs.png" group-title="🔴PREMIUM SPORT", ARENA SPORT 6 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
+
+#EXTINF:-1 tvg-id="Arena Premium 1.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="🔴PREMIUM SPORT", ARENA SPORT PREMIUM 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+
+#EXTINF:-1 tvg-id="Arena Premium 2.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="🔴PREMIUM SPORT", ARENA SPORT PREMIUM 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
+
+#EXTINF:-1 tvg-id="Arena Premium 3.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png" group-title="🔴PREMIUM SPORT", ARENA SPORT PREMIUM 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="🔴PREMIUM SPORT",Astro Arena
+http://filex.tv:8080/paramjeetsingh/002818/303495
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/7806170b5ef2464530dcaedcbe3e9a42.jpg" group-title="🔴PREMIUM SPORT",Astro Arena 2
+http://filex.tv:8080/paramjeetsingh/002818/303496
+
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png",BEIN SPORTS 1 AR
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/2140
+
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png",BEIN SPORTS 2 AR
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/2139
+
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png",BEIN SPORTS 3 AR
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/2138
+
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png",BEIN SPORTS 4 AR
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/2137
+
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png",BEIN SPORTS 5 AR
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/2136
+
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png",BEIN SPORTS 6 AR
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/2135
+
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png",BEIN SPORTS 7 AR
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/2134
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-cn.png" group-title="🔴PREMIUM SPORT" , CCTV-5
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-plus-cn.png" group-title="🔴PREMIUM SPORT" , CCTV5+
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/Jp53CMB.jpg" group-title="🔴PREMIUM SPORT", GO3 Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/Jp53UAb.jpg" group-title="🔴PREMIUM SPORT", GO3 Sport 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/Jp5FJiN.jpg" group-title="🔴PREMIUM SPORT", GO3 Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
+
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://iili.io/Jp5oxpt.png" group-title="🔴PREMIUM SPORT" ,  NBC SPORTS 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="🔴PREMIUM SPORT", ASTRO ARENA
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/306392
+
+
 
 
 
