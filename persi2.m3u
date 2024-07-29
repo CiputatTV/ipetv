@@ -1906,31 +1906,31 @@ https://m7rovideolive.solocoo.tv/blueskylivedash/blueprotv/Manifest.mpd
 https://m7rovideolive.solocoo.tv/blueskylivedash/blueprox/Manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports1",Sky Sport Action
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Sky Sport Action
 https://bit.ly/SkySportAction
 
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports1",Sky Sport Arena
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Sky Sport Arena
 https://bit.ly/Sky-SportArena
 
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports1",Sky Sport F1
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Sky Sport F1
 https://bit.ly/Sky-SportF1
 
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports1",Sky Sport Football
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Sky Sport Football
 https://bit.ly/Sky-SportFootball
 
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports1",Sky Sport Golf
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Sky Sport Golf
 https://bit.ly/SkySportGolf
 
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports1",Sky Sport Main Event
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Sky Sport Main Event
 https://bit.ly/SkySportMainEvent
 
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports1",Sky Sport Mix
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Sky Sport Mix
 https://bit.ly/Sky-SportMix
 
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports1",Sky Sport Premier League 
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Sky Sport Premier League 
 https://bit.ly/SkySportPremierLeague
 
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sports1",SkySport Tennis
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",SkySport Tennis
 https://bit.ly/SkySportTennis
 
 #EXTINF:-1 group-title="Singapura" tvg-id="HBOCINEMAX" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax SG
@@ -1992,7 +1992,7 @@ https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.m
  =======TRUEVISION=====
 
 
-#EXTINF:-1 group-title="🔴TRUEVISION" tvg-id="truesports1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",True Sports 1
+#EXTINF:-1 group-title="🔴TRUEVISION" tvg-id="trueSKY TV.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",True Sports 1
 http://dream4k.org:2082/Aziz2020_153801/MUPMohah/191753
 
 #EXTINF:-1 group-title="🔴TRUEVISION" tvg-id="truesports2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",True Sports 2
@@ -2203,9 +2203,41 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 http://dream4k.org:2082/Aziz2020_153801/MUPMohah/306392
 
 
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="🔴PREMIUM SPORT",Formula 1
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Formula 1
+http://gtvstreams.me:80/live/Tony15/Tony15/795111.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Sky Sport Action
+https://bit.ly/SkySportAction
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Sky Sport Arena
+#https://bit.ly/Sky-SportArena
+http://gtvstreams.me:80/live/Tony15/Tony15/795120.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Sky Sport F1
+https://bit.ly/Sky-SportF1
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Sky Sport Football
+#https://bit.ly/Sky-SportFootball
+http://gtvstreams.me:80/live/Tony15/Tony15/795110.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Sky Sport Golf
+#https://bit.ly/SkySportGolf
+http://gtvstreams.me:80/live/Tony15/Tony15/795103.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Sky Sport Main Event
+#https://bit.ly/SkySportMainEvent
 http://gtvstreams.me:80/live/Tony15/Tony15/795112.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Sky Sport Mix
+https://bit.ly/Sky-SportMix
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Sky Sport Premier League 
+https://bit.ly/SkySportPremierLeague
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",SkySport Tennis
+https://bit.ly/SkySportTennis
 
 
 
