@@ -2203,41 +2203,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 http://dream4k.org:2082/Aziz2020_153801/MUPMohah/306392
 
 
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Formula 1
-http://gtvstreams.me:80/live/Tony15/Tony15/795111.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Sky Sport Action
-https://bit.ly/SkySportAction
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Sky Sport Arena
-#https://bit.ly/Sky-SportArena
-http://gtvstreams.me:80/live/Tony15/Tony15/795120.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Sky Sport F1
-https://bit.ly/Sky-SportF1
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Sky Sport Football
-#https://bit.ly/Sky-SportFootball
-http://gtvstreams.me:80/live/Tony15/Tony15/795110.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Sky Sport Golf
-#https://bit.ly/SkySportGolf
-http://gtvstreams.me:80/live/Tony15/Tony15/795103.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Sky Sport Main Event
-#https://bit.ly/SkySportMainEvent
-http://gtvstreams.me:80/live/Tony15/Tony15/795112.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Sky Sport Mix
-https://bit.ly/Sky-SportMix
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",Sky Sport Premier League 
-https://bit.ly/SkySportPremierLeague
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY TV",SkySport Tennis
-https://bit.ly/SkySportTennis
 
 
 
