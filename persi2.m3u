@@ -2203,6 +2203,90 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 http://dream4k.org:2082/Aziz2020_153801/MUPMohah/306392
 
 
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,AVERAGE-BANDWIDTH=2500000,RESOLUTION=1280x720,FRAME-RATE=30.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="🔴PREMIUM SPORT", ASTRO ARENA2
+http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=78705&extension=m3u8
+
+
+#EXTINF:-1 tvg-logo=&quot;https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080&quot; group-title=&quot;SKY TV&quot;,Formula 1
+http://gtvstreams.me:80/live/Tony15/Tony15/795111.m3u8
+
+
+#EXTINF:-1 tvg-logo=&quot;https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080&quot; group-title=&quot;SKY TV&quot;,Sky Sport Action
+https://bit.ly/SkySportAction
+
+#EXTINF:-1 tvg-logo=&quot;https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080&quot; group-title=&quot;SKY TV&quot;,Sky Sport Arena
+#https://bit.ly/Sky-SportArena
+http://gtvstreams.me:80/live/Tony15/Tony15/795120.m3u8
+
+#EXTINF:-1 tvg-logo=&quot;https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080&quot; group-title=&quot;SKY TV&quot;,Sky Sport F1
+https://bit.ly/Sky-SportF1
+
+#EXTINF:-1 tvg-logo=&quot;https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080&quot; group-title=&quot;SKY TV&quot;,Sky Sport Football
+#https://bit.ly/Sky-SportFootball
+http://gtvstreams.me:80/live/Tony15/Tony15/795110.m3u8
+
+#EXTINF:-1 tvg-logo=&quot;https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080&quot; group-title=&quot;SKY TV&quot;,Sky Sport Golf
+#https://bit.ly/SkySportGolf
+http://gtvstreams.me:80/live/Tony15/Tony15/795103.m3u8
+
+
+#EXTINF:-1 tvg-logo=&quot;https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080&quot; group-title=&quot;SKY TV&quot;,Sky Sport Main Event
+#https://bit.ly/SkySportMainEvent
+http://gtvstreams.me:80/live/Tony15/Tony15/795112.m3u8
+
+#EXTINF:-1 tvg-logo=&quot;https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080&quot; group-title=&quot;SKY TV&quot;,Sky Sport Mix
+https://bit.ly/Sky-SportMix
+
+#EXTINF:-1 tvg-logo=&quot;https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080&quot; group-title=&quot;SKY TV&quot;,Sky Sport Premier League 
+https://bit.ly/SkySportPremierLeague
+
+#EXTINF:-1 tvg-logo=&quot;https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080&quot; group-title=&quot;SKY TV&quot;,SkySport Tennis
+https://bit.ly/SkySportTennis
+
+#EXTINF:-1 tvg-logo=&quot;https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080&quot; group-title=&quot;SKY TV&quot;,SkySport Cinema
+http://gtvstreams.me:80/live/Tony15/Tony15/795107.m3u8
+
+#EXTINF:0 tvg-logo=&quot;http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png&quot; group-title=&quot;Sport&quot;, FS1
+http://gtvstreams.me:80/live/Tony15/Tony15/219143.m3u8
+
+#EXTINF:0 tvg-logo=&quot;http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png&quot; group-title=&quot;Sport&quot;, FS2
+http://gtvstreams.me:80/live/Tony15/Tony15/219144.m3u8
+
+#EXTINF:0 tvg-logo=&quot;http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png&quot; group-title=&quot;Sport&quot;, ESPN
+http://gtvstreams.me:80/live/Tony15/Tony15/221242.m3u8
+
+#EXTINF:0 tvg-logo=&quot;http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png&quot; group-title=&quot;Sport&quot;, FOX 501
+http://gtvstreams.me:80/live/Tony15/Tony15/383656.m3u8
+
+#EXTINF:0 tvg-logo=&quot;http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png&quot; group-title=&quot;Sport&quot;, FOX 502
+http://gtvstreams.me:80/live/Tony15/Tony15/383657.m3u8
+
+#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="" group-title="bein SPORTS" , BEIN SPORTS 1
+http://main.xplus2-main.xyz:2082/live/Tourobox1-FXGFSmrkpN/aPjcf8LEln/901.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="" group-title="bein SPORTS" , BEIN SPORTS 2
+http://main.xplus2-main.xyz:2082/live/Tourobox1-FXGFSmrkpN/aPjcf8LEln/902.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="" group-title="bein SPORTS" , BEIN SPORTS 3
+http://main.xplus2-main.xyz:2082/live/Tourobox1-FXGFSmrkpN/aPjcf8LEln/903.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="" group-title="bein SPORTS" , BEIN SPORTS 4
+http://main.xplus2-main.xyz:2082/live/Tourobox1-FXGFSmrkpN/aPjcf8LEln/904.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="" group-title="bein SPORTS" , EIN SPORTS 5 
+http://main.xplus2-main.xyz:2082/live/Tourobox1-FXGFSmrkpN/aPjcf8LEln/905.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="" group-title="bein SPORTS" , BEIN SPORTS 6 
+http://main.xplus2-main.xyz:2082/live/Tourobox1-FXGFSmrkpN/aPjcf8LEln/906.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="" group-title="bein SPORTS" , BEIN SPORTS 7
+http://main.xplus2-main.xyz:2082/live/Tourobox1-FXGFSmrkpN/aPjcf8LEln/907.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: True Premiere Football 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/590ebca19cefce3b34411f40e945241d.png" group-title="TRUE VISION",True Premiere Football 1
+http://filex.tv:8080/paramjeetsingh/002818/302733
+#EXTINF:-1 tvg-id="" tvg-name="TH: True Premiere Football 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/45eb7daf6bfd21ae32e1d90a7e1cf4ca.png" group-title="TRUE VISION",True Premiere Football 2
+http://filex.tv:8080/paramjeetsingh/002818/302734
+#EXTINF:-1 tvg-id="" tvg-name="TH: True Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/43648065b507b5ddf80627c4074eec0c.png" group-title="TRUE VISION", True Sport 3
+http://filex.tv:8080/paramjeetsingh/002818/302735
+
+
+
 
 
 
