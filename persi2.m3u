@@ -659,7 +659,8 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/indosiar
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="Vision+", SCTV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/sctv
+#https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/sctv
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1379,7 +1380,8 @@ http://iptvtree.net:8080/c4596f70/c3848d92/162138
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png" group-title="MNC-VISION", SCTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://bit.ly/3Sc6EFk
+#https://bit.ly/3Sc6EFk
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
