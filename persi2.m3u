@@ -2287,6 +2287,43 @@ http://filex.tv:8080/paramjeetsingh/002818/302734
 #EXTINF:-1 tvg-id="" tvg-name="TH: True Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/43648065b507b5ddf80627c4074eec0c.png" group-title="TRUE VISION", True Sport 3
 http://filex.tv:8080/paramjeetsingh/002818/302735
 
+<==========Supersport==========>
+
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_Premier_League_Live_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_Cricket_Live_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport LaLiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_LaLiga_Live_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_Football_Live_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_Golf_Live_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_Action_Live_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport Blitz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_Blitz_Live_TV/tracks-v1a1/mono.m3u8
+
 
 
 
