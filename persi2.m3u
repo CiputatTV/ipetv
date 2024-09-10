@@ -1428,21 +1428,21 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinem
 https://d1abp075u76pbq.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd|Referer=https://www.visionplus.id/
 
 
-#EXTINF:-1,group-title="Olga",SPORT: RMC Sport 1 ⁴ᵏ
+#EXTINF:-1 group-title="Olga",SPORT: RMC Sport 1 ⁴ᵏ
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86265
-#EXTINF:-1,group-title="Olga", Astro SuperSport ⁴ᵏ
+#EXTINF:-1 group-title="Olga", Astro SuperSport ⁴ᵏ
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86257
-#EXTINF:-1,group-title="Olga",Eleven Sports 1 ⁴ᴷ
+#EXTINF:-1 group-title="Olga",Eleven Sports 1 ⁴ᴷ
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86266
-#EXTINF:-1,group-title="Olga",Sky Sport Bundesliga ⁴ᵏ
+#EXTINF:-1 group-title="Olga",Sky Sport Bundesliga ⁴ᵏ
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86292
-#EXTINF:-1,group-title="Olga",Now HK Sports 4K 1 ⁴ᵏ
+#EXTINF:-1 group-title="Olga",Now HK Sports 4K 1 ⁴ᵏ
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86258
-#EXTINF:-1,group-title="Olga",Now HK Sports 4K 2 ⁴ᵏ
+#EXTINF:-1 group-title="Olga",Now HK Sports 4K 2 ⁴ᵏ
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86268
-#EXTINF:-1,group-title="Olga",Now HK Sports 4K 3 ⁴ᵏ
+#EXTINF:-1 group-title="Olga",Now HK Sports 4K 3 ⁴ᵏ
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86269
-#EXTINF:-1,group-title="Olga",Hub Premier 2 ⁴ᵏ
+#EXTINF:-1 group-title="Olga",Hub Premier 2 ⁴ᵏ
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86270
 
 
