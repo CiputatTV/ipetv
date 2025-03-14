@@ -2305,6 +2305,47 @@ http://212.102.60.231/VH1/index.m3u8
 
 #########################################################################################################################################################################
 
+#EXTINF:-1 group-title="7Pal", Sky Sports 1 NZ
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 group-title="7Pal", Sky Sports 2 NZ 
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 group-title="7Pal", Sky Sports 3 NZ
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 group-title="7Pal", Sky Sports 4 NZ
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 group-title="7Pal", Sky Sports Action / NFL
+https://7pal.short.gy/ssportsat
+#EXTINF:-1 group-title="7Pal", Sky Sports Golf
+https://7pal.short.gy/ssportsgf
+#EXTINF:-1 group-title="7Pal", Sky Sports F1
+https://7pal.short.gy/ssportsf1
+#EXTINF:-1 group-title="7Pal", Sky Sports F1 UHD
+https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 group-title="7Pal", Sky Sports Football
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 group-title="7Pal", Sky Sports Main Event
+https://7pal.short.gy/skspmaine
+#EXTINF:-1 group-title="7Pal", Sky Sports News
+https://7pal.short.gy/ssportsnw
+#EXTINF:-1 group-title="7Pal", Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+
+#EXTINF:-1 group-title="7Pal", TNT Sport 1
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="7Pal", TNT Sport 2
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="7Pal", TNT Sport 3
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 group-title="7Pal", TNT Sport 4
+https://7pal.short.gy/tntspts4
+
+#EXTINF:-1 group-title="7Pal", Premier Sports 1
+https://7pal.short.gy/prsport1
+#EXTINF:-1 group-title="7Pal", Premier Sports 2
+https://7pal.short.gy/prsport2
+
+###########################################################################################################################################
+
 
 
 
