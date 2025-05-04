@@ -2762,5 +2762,22 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tech_storm.mpd
 #KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
 
+==============================================================================
+#EXTINF:-1,Beinsport 1 720p group-title="ArabiaSport",
+http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8
+#EXTINF:-1,Beinsport 2 720p group-title="ArabiaSport",
+http://bdd78.4rouwanda-shop.store/live/69854211/index.m3u8
+#EXTINF:-1,Beinsport 3 720p group-title="ArabiaSport",
+http://bdd78.4rouwanda-shop.store/live/645587700/index.m3u8
+#EXTINF:-1,Beinsport 4 720p group-title="ArabiaSport",
+http://bdd78.4rouwanda-shop.store/live/9787488847/index.m3u8
+#EXTINF:-1,Beinsport 5 720p group-title="ArabiaSport",
+http://bdd78.4rouwanda-shop.store/live/610303030/index.m3u8
+#EXTINF:-1,Beinsport 6 720p group-title="ArabiaSport",
+http://bdd78.4rouwanda-shop.store/live/788550011/index.m3u8
+#EXTINF:-1,Beinsport 7 720p group-title="ArabiaSport",
+http://bdd78.4rouwanda-shop.store/live/33523510/index.m3u8
+#EXTINF:-1,Beinsport 8 720p group-title="ArabiaSport",
+http://bdd78.4rouwanda-shop.store/live/1515000000/index.m3u8
 
 
