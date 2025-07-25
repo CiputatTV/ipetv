@@ -181,27 +181,6 @@
 
 
 
-<!doctype html>
-
-<html lang="id">
-<head>
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"  crossorigin="anonymous">
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"  crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.min.js"  crossorigin="anonymous"></script>
-<link href="./content/css/controls.css" rel="stylesheet">
-<link href="./content/css/heroes.css" rel="stylesheet">
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta property="og:type" content="website">
-<meta property="og:title" content="">
-<meta property="og:description" content="">
-<title>clkvd</title>
-</head>
-<body>
-</body>
-<div style="display:none;">
-</html>
 
 
 
