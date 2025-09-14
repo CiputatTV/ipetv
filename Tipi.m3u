@@ -3472,6 +3472,17 @@ http://103.179.182.117:6768/hls/21/21.m3u8
 #EXTINF:-1 group-title="Vidio",Champion 6
 http://103.179.182.117:6768/hls/94/94.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="AriaPlus - United States",HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png" group-title="AriaPlus - United States",HBO Comedy
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AriaPlus - United States",HBO Hits
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AriaPlus - United States",HBO Drama
+http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AriaPlus - United States",HBO Movies
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+
 
 
 
