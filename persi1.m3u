@@ -353,10 +353,11 @@ http://filex.me:8080//live/000003/000003/302249.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/cinemax.jpg?raw=true" group-title="MOVIES",CINEMAX
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/cinemax.jpg?raw=true" group-title="MOVIES",CINEMAX V1
 #https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 #https://hls.mskycdn.online/tv/cinemaxhd/index.m3u8
-http://filex.me:8080//live/000003/000003/302227.m3u8
+#http://filex.me:8080//live/000003/000003/302227.m3u8
+https://github.com/denden79den/Channel-Tv/blob/main/HBO/cinemax.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
