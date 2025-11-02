@@ -1307,6 +1307,15 @@ https://pinjembentarbang.semar.my.id/HubPremier1/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=b5d217f06033494f8c536322324231eb:b6c80055ee20cf222d792ce702b3644a
 https://pinjembentarbang.semar.my.id/HubPremier2_4K/output/manifest.mpd
 
+#EXTINF:-1 tvg-id="" group-title="VIP SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/221_1920x1080_HTV.png",Hub Premier V1
+http://mag.tx-ott.me:80/play/live.php?mac=00:1A:79:71:2f:95&stream=1032529&extension=ts&play_token=Ej4yq0izgM
+
+#EXTINF:-1 tvg-id="" group-title="VIP SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/222_1920x1080_HTV.png",Hub Premier V2
+http://mag.tx-ott.me:80/play/live.php?mac=00:1A:79:71:2f:95&stream=1032528&extension=ts&play_token=Ej4yq0izgM
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/onechampionship.png", group-title="VIP SPORTS" tvg-id="OneChampionshipTv.id" ch-number="30" tvg-name="One Championship tv",One Championship tv
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
